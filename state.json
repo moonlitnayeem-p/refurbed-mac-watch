@@ -848,7 +848,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-11T17:09:18Z",
+      "checked_at": "2026-10-11T17:24:25Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -2937,7 +2937,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-11T17:01:15Z",
+      "checked_at": "2026-10-11T17:16:09Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3094,17 +3094,6 @@
           "ssd_gb": 2000.0,
           "was_price": 22953
         },
-        "/p/apple-macbook-air-m4-2025/308345/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 512 GB 13.6 \" Midnatt DE (Tysk)",
-          "matched": true,
-          "name": "Apple MacBook Air 2025 | 13.6",
-          "price": 19115,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": 21832
-        },
         "/p/apple-macbook-pro-2018-15-4-touc/39855c/": {
           "badge": null,
           "chip": "",
@@ -3148,17 +3137,6 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30346
-        },
-        "/p/apple-macbook-pro-2021-m1-14/75691b/": {
-          "badge": "Bästsäljare",
-          "chip": "M1 Max",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
-          "matched": true,
-          "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 13389,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": 36171
         },
         "/p/apple-macbook-pro-2021-m1-16-2/131257b/": {
           "badge": null,
@@ -3373,7 +3351,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-11T17:01:24Z",
+      "checked_at": "2026-10-11T17:16:18Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/72461/": {
