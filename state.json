@@ -848,7 +848,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-11T05:23:18Z",
+      "checked_at": "2026-10-11T05:39:29Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -2706,7 +2706,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2022) | 10.9",
-          "price": 4419,
+          "price": 4425,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": 10854
@@ -3011,7 +3011,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-11T05:16:06Z",
+      "checked_at": "2026-10-11T05:31:10Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3410,16 +3410,16 @@
           "ssd_gb": 3.0,
           "was_price": 4021
         },
-        "/p/macbook-pro-2019-133-tb/9468b/": {
+        "/p/macbook-pro-2019-133-tb/13245b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
           "price": 4935,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
-          "was_price": 15671
+          "was_price": 16791
         },
         "/p/macbook-pro-2019-154-tb/48225c/": {
           "badge": null,
@@ -3447,7 +3447,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-11T05:16:14Z",
+      "checked_at": "2026-10-11T05:31:19Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/72461/": {
