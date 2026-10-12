@@ -848,7 +848,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-12T12:09:21Z",
+      "checked_at": "2026-10-12T12:24:44Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3238,7 +3238,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-12T12:01:08Z",
+      "checked_at": "2026-10-12T12:16:01Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3450,17 +3450,6 @@
           "ssd_gb": 512.0,
           "was_price": 35840
         },
-        "/p/apple-macbook-pro-2021-m1-max-24-core-gpu-16-2/481089b/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M1 Max",
-          "config": "Apple MacBook Pro 2021 M1 Max Apple M1 Max 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå DE (Tysk)",
-          "matched": true,
-          "name": "Apple MacBook Pro 2021 M1 Max | 24-Core GPU | 16.2",
-          "price": 16629,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": 36288
-        },
         "/p/apple-macbook-pro-2023-m2-14/316609b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
@@ -3663,7 +3652,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-12T12:01:15Z",
+      "checked_at": "2026-10-12T12:16:09Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/72461/": {
