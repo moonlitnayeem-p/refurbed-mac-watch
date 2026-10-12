@@ -848,7 +848,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-12T22:26:01Z",
+      "checked_at": "2026-10-12T22:42:06Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2023-m3-8core/310963aa/": {
@@ -3744,7 +3744,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-12T22:16:02Z",
+      "checked_at": "2026-10-12T22:31:08Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4121,16 +4121,16 @@
           "ssd_gb": 2.0,
           "was_price": 8950
         },
-        "/p/macbook-pro-2019-133-tb/9468b/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/macbook-pro-2019-133-tb/28054c/": {
+          "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 120 GB 13.3 \" silver US (US-engelska)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
-          "price": 4965,
+          "price": 5035,
           "ram_gb": 8.0,
-          "ssd_gb": 256.0,
-          "was_price": 15670
+          "ssd_gb": 120.0,
+          "was_price": 15334
         },
         "/p/macbook-pro-2019-154-tb/48225c/": {
           "badge": null,
@@ -4158,7 +4158,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-12T22:16:13Z",
+      "checked_at": "2026-10-12T22:31:20Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
