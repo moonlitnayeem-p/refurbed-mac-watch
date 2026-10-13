@@ -848,7 +848,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-13T05:26:55Z",
+      "checked_at": "2026-10-13T05:41:45Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2023-m3-8core/310963aa/": {
@@ -3223,10 +3223,24 @@
           ],
           "matched": false,
           "name": "iPad 9 (2021) | 10.2",
-          "price": 2129,
+          "price": 2289,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 4805
+        },
+        "/p/ipad-9-2021/14236c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad 9 (2021) 64 GB 10.2 \" rymdgrå 3.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-9-2021/14236b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 2195,
+          "ram_gb": 64.0,
+          "ssd_gb": 3.0,
+          "was_price": null
         },
         "/p/ipad-9-2021/14237b/": {
           "badge": null,
@@ -3503,7 +3517,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 3009,
+          "price": 3045,
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3561,7 +3575,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2017) | 12.9",
-          "price": 2845,
+          "price": 2875,
           "ram_gb": 64.0,
           "ssd_gb": 64.0,
           "was_price": 10070
@@ -3603,7 +3617,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 12.9",
-          "price": 4215,
+          "price": 4269,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 12310
@@ -3752,7 +3766,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-13T05:16:03Z",
+      "checked_at": "2026-10-13T05:31:01Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4177,7 +4191,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-13T05:16:15Z",
+      "checked_at": "2026-10-13T05:31:13Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
