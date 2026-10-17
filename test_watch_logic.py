@@ -1075,6 +1075,7 @@ class PriceHistoryTest(BaseWatchTest):
         matches=lambda o: True, needs_config=True,
     )
 
+    @mock.patch.dict(os.environ, {"GITHUB_REPOSITORY": "proof-owner/watch-fixture"})
     def test_standings_link_to_previous_low_for_same_model(self):
         now = datetime(2026, 8, 23, 12, 0, tzinfo=timezone.utc)
         previous_seen = now - timedelta(days=5)
@@ -1100,7 +1101,7 @@ class PriceHistoryTest(BaseWatchTest):
         self.assertIn("Previous low for same model", item)
         self.assertIn("[22 100 kr]", item)
         self.assertIn(
-            "github.com/moonlitnayeem/refurbed-mac-watch/blob/main/"
+            "github.com/proof-owner/watch-fixture/blob/main/"
             "price-proofs/2026-08-18/22100kr-proof.png",
             item,
         )
