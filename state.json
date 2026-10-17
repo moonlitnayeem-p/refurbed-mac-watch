@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-17T20:56:06Z",
+      "checked_at": "2026-10-17T21:10:51Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274281/": {
@@ -3305,21 +3305,6 @@
           "ssd_gb": 8.0,
           "was_price": null
         },
-        "/p/ipad-mini-5/4455c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple iPad mini (2019) 64 GB 7.9 \" rymdgrå 3.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-mini-5/4456c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 2205,
-          "ram_gb": 64.0,
-          "ssd_gb": 3.0,
-          "verification_unknown": true,
-          "was_price": null
-        },
         "/p/ipad-mini-5/4456/": {
           "badge": null,
           "chip": "",
@@ -3482,7 +3467,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-17T20:46:12Z",
+      "checked_at": "2026-10-17T21:01:12Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3874,7 +3859,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-17T20:46:25Z",
+      "checked_at": "2026-10-17T21:01:24Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
