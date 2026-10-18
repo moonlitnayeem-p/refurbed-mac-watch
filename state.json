@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-18T16:54:33Z",
+      "checked_at": "2026-10-18T17:09:44Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274281/": {
@@ -1065,17 +1065,6 @@
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 35851
-        },
-        "/p/apple-mac-studio-2025-m4-max/309740/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4 Max",
-          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
-          "matched": false,
-          "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 33615,
-          "ram_gb": 36.0,
-          "ssd_gb": 512.0,
-          "was_price": 33401
         },
         "/p/apple-macbook-air-13-m5-2026/417991/": {
           "badge": null,
@@ -3059,7 +3048,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 4295,
+          "price": 4275,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4777
@@ -3347,6 +3336,20 @@
           "ssd_gb": 4.0,
           "was_price": null
         },
+        "/p/ipad-pro-10-5-2017/2165b/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple iPad Pro (2017) 64 GB 10.5 \" silver 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-pro-10-5-2017/2165b/"
+          ],
+          "matched": false,
+          "name": "iPad Pro (2017) | 10.5",
+          "price": 3539,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": 7785
+        },
         "/p/ipad-pro-11-0-2018/3641b/": {
           "badge": null,
           "chip": "",
@@ -3480,7 +3483,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-18T16:46:10Z",
+      "checked_at": "2026-10-18T17:01:10Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3872,7 +3875,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-18T16:46:19Z",
+      "checked_at": "2026-10-18T17:01:20Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3996,17 +3999,6 @@
           "ssd_gb": 512.0,
           "was_price": 26718
         },
-        "/p/apple-mac-studio-2025-m4-max/309740/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4 Max",
-          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
-          "matched": true,
-          "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 25845,
-          "ram_gb": 36.0,
-          "ssd_gb": 512.0,
-          "was_price": 33401
-        },
         "/p/apple-macbook-air-m4-2025-15/308596/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4",
@@ -4041,7 +4033,7 @@
           "was_price": 63472
         },
         "/p/apple-macbook-pro-2026-m5-pro-15-16-14/420221aa/": {
-          "badge": "Bästsäljare",
+          "badge": null,
           "chip": "M5 Pro",
           "config": "Apple MacBook Pro 2026 M5 Pro 15-Core CPU Apple M5 Pro 15 Core 24.0 GB 2000 GB 14.2 \" silver DE (Tysk)",
           "matched": false,
@@ -4050,6 +4042,17 @@
           "ram_gb": 24.0,
           "ssd_gb": 2000.0,
           "was_price": 38412
+        },
+        "/p/apple-macbook-pro-2026-m5-pro-18-20-16/422206/": {
+          "badge": "Bästsäljare",
+          "chip": "M5 Pro",
+          "config": "Apple MacBook Pro 2026 M5 Pro 18-Core CPU Apple M5 Pro 18 Core 24.0 GB 1000 GB 16.2 \" silver DE (Tysk)",
+          "matched": false,
+          "name": "Apple MacBook Pro 2026 M5 Pro 18-Core CPU | 20-Core GPU | 16",
+          "price": 33589,
+          "ram_gb": 24.0,
+          "ssd_gb": 1000.0,
+          "was_price": 37856
         }
       },
       "query": "Mac Studio"
