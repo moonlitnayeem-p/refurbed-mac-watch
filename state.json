@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-18T18:55:57Z",
+      "checked_at": "2026-10-18T19:11:01Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274281/": {
@@ -2957,7 +2957,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4279,
+          "price": 5115,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3476,7 +3476,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-18T18:46:14Z",
+      "checked_at": "2026-10-18T19:01:18Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3611,16 +3611,16 @@
           "ssd_gb": 2000.0,
           "was_price": 28612
         },
-        "/p/apple-macbook-air-m4-2025-15/308974b/": {
+        "/p/apple-macbook-air-m2-2023-15/279395b/": {
           "badge": "Bara ett fåtal kvar",
-          "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 2000 GB 15.3 \" Midnatt DE (Tysk)",
-          "matched": true,
-          "name": "Apple MacBook Air 2025 | 15.3",
-          "price": 26865,
-          "ram_gb": 32.0,
+          "chip": "M2",
+          "config": "Apple MacBook Air 2023 Apple M2 24.0 GB 2000 GB 15.3 \" mörkblå SE (Svensk)",
+          "matched": false,
+          "name": "Apple MacBook Air 2023 | 15",
+          "price": 20999,
+          "ram_gb": 24.0,
           "ssd_gb": 2000.0,
-          "was_price": 33401
+          "was_price": 33178
         },
         "/p/apple-macbook-pro-2018-15-4-touc/39855c/": {
           "badge": null,
@@ -3868,7 +3868,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-18T18:46:22Z",
+      "checked_at": "2026-10-18T19:01:27Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
