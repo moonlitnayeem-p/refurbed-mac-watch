@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-18T12:56:14Z",
+      "checked_at": "2026-10-18T13:09:53Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274281/": {
@@ -3015,7 +3015,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4695,
+          "price": 4575,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3312,7 +3312,7 @@
           ],
           "matched": false,
           "name": "iPad mini (2019) | 7.9",
-          "price": 2085,
+          "price": 2129,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 5000
@@ -3451,7 +3451,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-18T12:46:13Z",
+      "checked_at": "2026-10-18T13:01:13Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3641,13 +3641,13 @@
           "ssd_gb": 1000.0,
           "was_price": 27386
         },
-        "/p/apple-macbook-pro-2021-m1-14/75157c/": {
+        "/p/apple-macbook-pro-2021-m1-14/36725c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 11275,
+          "price": 11129,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30171
@@ -3801,7 +3801,7 @@
           "config": "Apple iPad Pro (2016) 32 GB 9.7 \" roségold 2.0 GB",
           "matched": false,
           "name": "iPad Pro (2016) | 9.7",
-          "price": 1815,
+          "price": 1825,
           "ram_gb": 32.0,
           "ssd_gb": 2.0,
           "was_price": 8341
@@ -3843,7 +3843,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-18T12:46:22Z",
+      "checked_at": "2026-10-18T13:01:21Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
