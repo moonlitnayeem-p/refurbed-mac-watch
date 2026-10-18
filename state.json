@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-18T12:12:01Z",
+      "checked_at": "2026-10-18T12:26:19Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274281/": {
@@ -1065,21 +1065,6 @@
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 35851
-        },
-        "/p/apple-mac-studio-2022-m1-max/72461/": {
-          "badge": null,
-          "chip": "M1 Max",
-          "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
-          "discovery_parent_paths": [
-            "/p/apple-mac-studio-2022-m1-max/288880c/",
-            "/p/apple-mac-studio-2022-m1-max/72461/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 18015,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": null
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": "Bara ett fåtal kvar",
@@ -3132,7 +3117,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2325,
+          "price": 2339,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3177,33 +3162,19 @@
           "ssd_gb": 3.0,
           "was_price": 6114
         },
-        "/p/ipad-air-4/9792c/": {
+        "/p/ipad-air-4/9795/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple iPad Air (2020) 64 GB 10.9 \" silver 4.0 GB",
+          "config": "Apple iPad Air (2020) 64 GB 10.9 \" grå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-air-4/9792c/"
+            "/p/ipad-air-4/9795/"
           ],
           "matched": false,
           "name": "iPad Air (2020) | 10.9",
-          "price": 3415,
+          "price": 6145,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
-          "was_price": 8787
-        },
-        "/p/ipad-air-4/9794c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple iPad Air (2020) 64 GB 10.9 \" silver 4.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-air-4/9792c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 6259,
-          "ram_gb": 64.0,
-          "ssd_gb": 4.0,
-          "was_price": null
+          "was_price": 7228
         },
         "/p/ipad-air-5/21650/": {
           "badge": null,
@@ -3234,7 +3205,7 @@
           "was_price": null
         },
         "/p/ipad-air-5/21650b/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "M1",
           "config": "Apple iPad Air (2022) 64 GB 10.9 \" rymdgrå 8.0 GB",
           "discovery_parent_paths": [
@@ -3480,7 +3451,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-18T12:01:12Z",
+      "checked_at": "2026-10-18T12:16:15Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3648,16 +3619,16 @@
           "ssd_gb": 512.0,
           "was_price": 38969
         },
-        "/p/apple-macbook-pro-2019-16/89006b/": {
+        "/p/apple-macbook-pro-2019-16/88987b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 32.0 GB 512 GB 16.0 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i9-9980HK 32.0 GB 512 GB 16.0 \" rymdgrå FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 7409,
+          "price": 8185,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 34403
+          "was_price": 37187
         },
         "/p/apple-macbook-pro-2020-133-tb/55174c/": {
           "badge": "Bara ett fåtal kvar",
@@ -3872,7 +3843,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-18T12:01:20Z",
+      "checked_at": "2026-10-18T12:16:23Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
