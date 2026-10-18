@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-18T16:25:18Z",
+      "checked_at": "2026-10-18T16:40:01Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274281/": {
@@ -3305,44 +3305,44 @@
           "ssd_gb": 3.0,
           "was_price": 5000
         },
-        "/p/ipad-mini-6/14228aa/": {
+        "/p/ipad-mini-6/14221/": {
           "badge": null,
           "chip": "",
-          "config": "Apple iPad mini (2021) 64 GB 8.3 \" lila 4.0 GB",
+          "config": "Apple iPad mini (2021) 64 GB 8.3 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-mini-6/14228b/"
+            "/p/ipad-mini-6/14221b/"
           ],
           "matched": false,
           "name": "",
-          "price": 5665,
+          "price": 5955,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
         },
-        "/p/ipad-mini-6/14228b/": {
+        "/p/ipad-mini-6/14221b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple iPad mini (2021) 64 GB 8.3 \" lila 4.0 GB",
+          "config": "Apple iPad mini (2021) 64 GB 8.3 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-mini-6/14228b/"
+            "/p/ipad-mini-6/14221b/"
           ],
           "matched": false,
           "name": "iPad mini (2021) | 8.3",
-          "price": 4309,
+          "price": 4555,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
-          "was_price": 6114
+          "was_price": 8007
         },
-        "/p/ipad-mini-6/14232b/": {
+        "/p/ipad-mini-6/14233b/": {
           "badge": null,
           "chip": "",
           "config": "Apple iPad mini (2021) 64 GB 8.3 \" vit 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-mini-6/14228b/"
+            "/p/ipad-mini-6/14221b/"
           ],
           "matched": false,
           "name": "",
-          "price": 5429,
+          "price": 4559,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3480,7 +3480,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-18T16:16:12Z",
+      "checked_at": "2026-10-18T16:31:10Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3872,7 +3872,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-18T16:16:20Z",
+      "checked_at": "2026-10-18T16:31:17Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
