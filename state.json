@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-19T09:11:30Z",
+      "checked_at": "2026-10-19T09:25:46Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -1131,7 +1131,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 11595,
+          "price": 11239,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": null
@@ -3074,32 +3074,77 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2559,
+          "price": 2565,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
         },
-        "/p/ipad-air-3/4723/": {
+        "/p/ipad-air-3/4719c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2019) 64 GB 10.5 \" rymdgrå 3.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-3/4727c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4275,
+          "ram_gb": 64.0,
+          "ssd_gb": 3.0,
+          "was_price": null
+        },
+        "/p/ipad-air-3/4727c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple iPad Air (2019) 64 GB 10.5 \" silver 3.0 GB",
+          "config": "Apple iPad Air (2019) 64 GB 10.5 \" guld 3.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-3/4727c/"
+          ],
           "matched": false,
           "name": "iPad Air (2019) | 10.5",
-          "price": 4865,
+          "price": 4275,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 6109
         },
-        "/p/ipad-air-4/9795/": {
+        "/p/ipad-air-4/9794c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2020) 64 GB 10.9 \" silver 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-4/9798c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 6255,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
+        "/p/ipad-air-4/9798b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2020) 64 GB 10.9 \" blå 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-4/9798c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 6335,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
+        "/p/ipad-air-4/9798c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple iPad Air (2020) 64 GB 10.9 \" grå 4.0 GB",
+          "config": "Apple iPad Air (2020) 64 GB 10.9 \" blå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-air-4/9795/"
+            "/p/ipad-air-4/9798c/"
           ],
           "matched": false,
           "name": "iPad Air (2020) | 10.9",
-          "price": 6015,
+          "price": 5945,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 7222
@@ -3417,39 +3462,22 @@
           "ssd_gb": 4.0,
           "was_price": null
         },
-        "/p/macbook-pro-2019-133-tb/55343c/": {
+        "/p/macbook-pro-2019-133-tb/47880c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8279U 16.0 GB 256 GB 13.3 \" silver SE (Svensk)",
-          "discovery_parent_paths": [
-            "/p/macbook-pro-2019-133-tb/55343c/"
-          ],
+          "config": "Apple MacBook Pro 2019 Intel Core i7-8569U 16.0 GB 256 GB 13.3 \" rymdgrå UK (UK-engelska)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
-          "price": 6385,
+          "price": 4299,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
-          "was_price": 32262
-        },
-        "/p/macbook-pro-2019-133-tb/9680c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" silver DE (Tysk)",
-          "discovery_parent_paths": [
-            "/p/macbook-pro-2019-133-tb/55343c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 5235,
-          "ram_gb": 8.0,
-          "ssd_gb": 256.0,
-          "was_price": null
+          "was_price": 33375
         }
       },
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-19T09:01:24Z",
+      "checked_at": "2026-10-19T09:16:19Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3815,17 +3843,6 @@
           "ssd_gb": 128.0,
           "was_price": 15569
         },
-        "/p/macbook-pro-2019-154-tb/39677b/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 32.0 GB 512 GB 15.4 \" rymdgrå IT (Italiensk)",
-          "matched": false,
-          "name": "Apple MacBook Pro 2019 | 15.4",
-          "price": 10019,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": 37826
-        },
         "/p/macbook-pro-2019-154-tb/64389b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
@@ -3836,12 +3853,23 @@
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 41165
+        },
+        "/p/macbook-pro-2019-154-tb/73643b/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 256 GB 15.4 \" rymdgrå DE (Tysk)",
+          "matched": false,
+          "name": "Apple MacBook Pro 2019 | 15.4",
+          "price": 7005,
+          "ram_gb": 32.0,
+          "ssd_gb": 256.0,
+          "was_price": 30036
         }
       },
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-19T09:01:33Z",
+      "checked_at": "2026-10-19T09:16:28Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
