@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-19T06:26:17Z",
+      "checked_at": "2026-10-19T06:39:47Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -3091,6 +3091,76 @@
           "ssd_gb": 3.0,
           "was_price": null
         },
+        "/p/ipad-air-2/1779b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2014) 32 GB 9.7 \" rymdgrå 2.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-2/53b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 1505,
+          "ram_gb": 32.0,
+          "ssd_gb": 2.0,
+          "was_price": null
+        },
+        "/p/ipad-air-2/47b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2014) 16 GB 9.7 \" rymdgrå 2.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-2/53b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 1729,
+          "ram_gb": 16.0,
+          "ssd_gb": 2.0,
+          "was_price": null
+        },
+        "/p/ipad-air-2/53/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2014) 64 GB 9.7 \" rymdgrå 2.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-2/53b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 2729,
+          "ram_gb": 64.0,
+          "ssd_gb": 2.0,
+          "was_price": null
+        },
+        "/p/ipad-air-2/53b/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple iPad Air (2014) 64 GB 9.7 \" rymdgrå 2.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-2/53b/"
+          ],
+          "matched": false,
+          "name": "iPad Air (2014) | 9.7",
+          "price": 1455,
+          "ram_gb": 64.0,
+          "ssd_gb": 2.0,
+          "was_price": 4774
+        },
+        "/p/ipad-air-2/59b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2014) 128 GB 9.7 \" rymdgrå 2.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-2/53b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 2859,
+          "ram_gb": 128.0,
+          "ssd_gb": 2.0,
+          "was_price": null
+        },
         "/p/ipad-air-3/4723/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
@@ -3347,7 +3417,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-19T06:16:23Z",
+      "checked_at": "2026-10-19T06:31:15Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3739,7 +3809,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-19T06:16:34Z",
+      "checked_at": "2026-10-19T06:31:21Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
