@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-19T19:10:43Z",
+      "checked_at": "2026-10-19T19:25:44Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -2999,7 +2999,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2669,
+          "price": 2729,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3044,7 +3044,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2625,
+          "price": 2655,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3203,7 +3203,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2309,
+          "price": 2335,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3309,43 +3309,30 @@
           "was_price": 9988
         },
         "/p/ipad-pro-12-9-2018/3420c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-pro-12-9-2018/3424c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 4749,
-          "ram_gb": 64.0,
-          "ssd_gb": 4.0,
-          "was_price": null
-        },
-        "/p/ipad-pro-12-9-2018/3424c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
+            "/p/ipad-pro-12-9-2018/3420c/",
             "/p/ipad-pro-12-9-2018/3424c/"
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 12.9",
-          "price": 4735,
+          "price": 4749,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
-          "was_price": 14099
+          "was_price": 12211
         },
-        "/p/ipad-pro-12-9-2018/3425c/": {
+        "/p/ipad-pro-12-9-2018/3421c/": {
           "badge": null,
           "chip": "",
           "config": "Apple iPad Pro (2018) 256 GB 12.9 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-pro-12-9-2018/3424c/"
+            "/p/ipad-pro-12-9-2018/3420c/"
           ],
           "matched": false,
           "name": "",
-          "price": 5415,
+          "price": 8059,
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3365,7 +3352,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-19T19:01:17Z",
+      "checked_at": "2026-10-19T19:16:15Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3757,7 +3744,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-19T19:01:26Z",
+      "checked_at": "2026-10-19T19:16:24Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
