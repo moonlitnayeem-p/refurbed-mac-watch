@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-19T17:40:44Z",
+      "checked_at": "2026-10-19T17:55:34Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -3393,7 +3393,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-19T17:31:35Z",
+      "checked_at": "2026-10-19T17:46:18Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3516,17 +3516,6 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 26655
-        },
-        "/p/apple-mac-studio-2025-m4-max/309740/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4 Max",
-          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
-          "matched": true,
-          "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 26895,
-          "ram_gb": 36.0,
-          "ssd_gb": 512.0,
-          "was_price": 33322
         },
         "/p/apple-macbook-air-m2-2022/277136aa/": {
           "badge": "Bara ett fåtal kvar",
@@ -3737,6 +3726,17 @@
           "ssd_gb": 3.0,
           "was_price": 3988
         },
+        "/p/ipad-air-2/1779/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple iPad Air (2014) 32 GB 9.7 \" rymdgrå 2.0 GB",
+          "matched": false,
+          "name": "iPad Air (2014) | 9.7",
+          "price": 4544,
+          "ram_gb": 32.0,
+          "ssd_gb": 2.0,
+          "was_price": null
+        },
         "/p/ipad-pro-9-7-2016/133b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
@@ -3785,7 +3785,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-19T17:32:17Z",
+      "checked_at": "2026-10-19T17:46:27Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3908,17 +3908,6 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 26655
-        },
-        "/p/apple-mac-studio-2025-m4-max/309740/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4 Max",
-          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
-          "matched": true,
-          "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 26895,
-          "ram_gb": 36.0,
-          "ssd_gb": 512.0,
-          "was_price": 33322
         },
         "/p/apple-macbook-air-m4-2025-15/308596/": {
           "badge": "Bara ett fåtal kvar",
