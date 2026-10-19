@@ -885,7 +885,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-19T09:40:06Z",
+      "checked_at": "2026-10-19T09:56:17Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -1018,7 +1018,7 @@
           ],
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 10561,
+          "price": 9898,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 10561
@@ -3174,21 +3174,6 @@
           "ssd_gb": 4.0,
           "was_price": 7222
         },
-        "/p/ipad-air-5/21650c/": {
-          "badge": null,
-          "chip": "M1",
-          "config": "Apple iPad Air (2022) 64 GB 10.9 \" rymdgrå 8.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-air-5/21650c/",
-            "/p/ipad-air-5/21661c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 4075,
-          "ram_gb": 64.0,
-          "ssd_gb": 8.0,
-          "was_price": null
-        },
         "/p/ipad-air-5/21661c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M1",
@@ -3435,7 +3420,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-19T09:31:23Z",
+      "checked_at": "2026-10-19T09:46:15Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3827,7 +3812,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-19T09:31:38Z",
+      "checked_at": "2026-10-19T09:46:24Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3913,7 +3898,7 @@
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 10561,
+          "price": 9898,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 10561
