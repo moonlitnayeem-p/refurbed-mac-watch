@@ -182,6 +182,20 @@
       "seen_at": "2026-10-19T16:11:50Z",
       "url": "https://www.refurbed.se/p/apple-mac-studio-2025-m4-max/309740/"
     },
+    "apple-mac-studio-2025-m4-max|M4 Max|64|1000": {
+      "price": 45605,
+      "proof_validation": {
+        "chip": "M4 Max",
+        "price": 45605,
+        "ram_gb": 64.0,
+        "sha256": "089fbdfbd7a975ca332fc1c06bfae492b08b68010dcc7b4ca05e182da6a3f5ea",
+        "ssd_gb": 1000.0,
+        "version": 1
+      },
+      "screenshot": "price-proofs/2026-10-20/45605kr-559abdd32c9a484d.png",
+      "seen_at": "2026-10-20T05:54:19Z",
+      "url": "https://www.refurbed.se/p/apple-mac-studio-2025-m4-max/309757/"
+    },
     "apple-macbook-air-15-m5-2026|M5|32|1000": {
       "price": 22175,
       "proof_validation": {
@@ -899,7 +913,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-20T05:40:14Z",
+      "checked_at": "2026-10-20T05:54:19Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -1064,6 +1078,34 @@
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 35811
+        },
+        "/p/apple-mac-studio-2025-m4-max/309740aa/": {
+          "badge": null,
+          "chip": "M4 Max",
+          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
+          "discovery_parent_paths": [
+            "/p/apple-mac-studio-2025-m4-max/309757/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 33365,
+          "ram_gb": 36.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-mac-studio-2025-m4-max/309757/": {
+          "badge": null,
+          "chip": "M4 Max",
+          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
+          "discovery_parent_paths": [
+            "/p/apple-mac-studio-2025-m4-max/309757/"
+          ],
+          "matched": true,
+          "name": "Apple Mac Studio 2025 M4 Max",
+          "price": 45605,
+          "ram_gb": 64.0,
+          "ssd_gb": 1000.0,
+          "was_price": 49273
         },
         "/p/apple-macbook-air-13-m5-2026/417991/": {
           "badge": null,
@@ -2984,7 +3026,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2379,
+          "price": 2385,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3044,7 +3086,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2629,
+          "price": 2559,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3292,20 +3334,6 @@
           "ssd_gb": 4.0,
           "was_price": null
         },
-        "/p/ipad-pro-10-5-2017/2165b/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "",
-          "config": "Apple iPad Pro (2017) 64 GB 10.5 \" silver 4.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-pro-10-5-2017/2165b/"
-          ],
-          "matched": false,
-          "name": "iPad Pro (2017) | 10.5",
-          "price": 3489,
-          "ram_gb": 64.0,
-          "ssd_gb": 4.0,
-          "was_price": 7776
-        },
         "/p/ipad-pro-11-0-2018/3652b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
@@ -3397,7 +3425,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-20T05:31:11Z",
+      "checked_at": "2026-10-20T05:46:10Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3789,7 +3817,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-20T05:31:20Z",
+      "checked_at": "2026-10-20T05:46:20Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3912,6 +3940,17 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 26689
+        },
+        "/p/apple-mac-studio-2025-m4-max/309757/": {
+          "badge": null,
+          "chip": "M4 Max",
+          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
+          "matched": true,
+          "name": "Apple Mac Studio 2025 M4 Max",
+          "price": 45605,
+          "ram_gb": 64.0,
+          "ssd_gb": 1000.0,
+          "was_price": 49273
         },
         "/p/apple-macbook-air-m4-2025-15/308596/": {
           "badge": "Bara ett fåtal kvar",
