@@ -927,7 +927,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-20T16:28:08Z",
+      "checked_at": "2026-10-20T16:42:34Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -3377,7 +3377,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 3529,
+          "price": 4219,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4770
@@ -3545,7 +3545,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 3255,
+          "price": 6455,
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3691,7 +3691,7 @@
           "was_price": null
         },
         "/p/ipad-air-5/21650c/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "M1",
           "config": "Apple iPad Air (2022) 64 GB 10.9 \" rymdgrå 8.0 GB",
           "discovery_parent_paths": [
@@ -3918,7 +3918,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-20T16:16:19Z",
+      "checked_at": "2026-10-20T16:31:17Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4310,7 +4310,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-20T16:16:32Z",
+      "checked_at": "2026-10-20T16:31:30Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
