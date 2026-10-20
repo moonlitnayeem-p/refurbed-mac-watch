@@ -913,7 +913,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-20T05:54:19Z",
+      "checked_at": "2026-10-20T06:10:39Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -948,7 +948,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 8429,
+          "price": 8419,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -1186,7 +1186,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 13989,
+          "price": 13979,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
           "was_price": null
@@ -3245,7 +3245,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2115,
+          "price": 2165,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3259,7 +3259,7 @@
           ],
           "matched": false,
           "name": "iPad mini (2019) | 7.9",
-          "price": 2035,
+          "price": 2045,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 4995
@@ -3425,7 +3425,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-20T05:46:10Z",
+      "checked_at": "2026-10-20T06:01:15Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3456,18 +3456,18 @@
           "config": "iMac 5K 2020 27\" - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple iMac 5K 2020 | 27",
-          "price": 15175,
+          "price": 15329,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 31250
         },
-        "/p/apple-ipad-2017/953b/": {
+        "/p/apple-ipad-2017/958c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple iPad 5 (2017) 32 GB 9.7 \" grå 2.0 GB",
+          "config": "Apple iPad 5 (2017) 32 GB 9.7 \" silver 2.0 GB",
           "matched": false,
           "name": "iPad 5 (2017) | 9.7",
-          "price": 3882,
+          "price": 4216,
           "ram_gb": 32.0,
           "ssd_gb": 2.0,
           "was_price": null
@@ -3817,7 +3817,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-20T05:46:20Z",
+      "checked_at": "2026-10-20T06:01:24Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
