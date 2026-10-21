@@ -978,7 +978,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-21T20:45:29Z",
+      "checked_at": "2026-10-21T20:57:33Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -1522,30 +1522,30 @@
           "ssd_gb": 512.0,
           "was_price": null
         },
-        "/p/apple-macbook-pro-2020-133-tb/22217c/": {
+        "/p/apple-macbook-pro-2020-133-tb/21606c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-1038NG7 16.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
+            "/p/apple-macbook-pro-2020-133-tb/21606c/"
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6435,
+          "price": 6555,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
-          "was_price": 26638
+          "was_price": 24417
         },
-        "/p/apple-macbook-pro-2020-133-tb/30036c/": {
+        "/p/apple-macbook-pro-2020-133-tb/30032c/": {
           "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 1000 GB 13.3 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 1000 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
+            "/p/apple-macbook-pro-2020-133-tb/21606c/"
           ],
           "matched": false,
           "name": "",
-          "price": 7385,
+          "price": 7805,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3695,7 +3695,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 4649,
+          "price": 4645,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4763
@@ -4059,7 +4059,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2017) | 12.9",
-          "price": 2555,
+          "price": 2595,
           "ram_gb": 64.0,
           "ssd_gb": 64.0,
           "was_price": 9982
@@ -4124,7 +4124,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-21T20:33:08Z",
+      "checked_at": "2026-10-21T20:46:19Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4516,7 +4516,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-21T20:33:17Z",
+      "checked_at": "2026-10-21T20:46:28Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
