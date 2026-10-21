@@ -978,7 +978,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-21T20:57:33Z",
+      "checked_at": "2026-10-21T21:11:35Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -4022,33 +4022,33 @@
           "ssd_gb": 4.0,
           "was_price": null
         },
-        "/p/ipad-pro-11-0-2018/3641/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "",
-          "config": "Apple iPad Pro (2018) 64 GB 11.0 \" rymdgrå 4.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-pro-11-0-2018/3641/"
-          ],
-          "matched": false,
-          "name": "iPad Pro (2018) | 11.0",
-          "price": 3155,
-          "ram_gb": 64.0,
-          "ssd_gb": 4.0,
-          "was_price": 9760
-        },
-        "/p/ipad-pro-11-0-2018/3642/": {
+        "/p/ipad-pro-11-0-2018/3652b/": {
           "badge": null,
           "chip": "",
-          "config": "Apple iPad Pro (2018) 256 GB 11.0 \" rymdgrå 4.0 GB",
+          "config": "Apple iPad Pro (2018) 64 GB 11.0 \" silver 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-pro-11-0-2018/3641/"
+            "/p/ipad-pro-11-0-2018/3656b/"
           ],
           "matched": false,
           "name": "",
-          "price": 5809,
-          "ram_gb": 256.0,
+          "price": 5035,
+          "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
+        },
+        "/p/ipad-pro-11-0-2018/3656b/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple iPad Pro (2018) 64 GB 11.0 \" silver 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-pro-11-0-2018/3656b/"
+          ],
+          "matched": false,
+          "name": "iPad Pro (2018) | 11.0",
+          "price": 3725,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": 11648
         },
         "/p/ipad-pro-12-9-2017/2573b/": {
           "badge": "Bara ett fåtal kvar",
@@ -4087,7 +4087,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 12.9",
-          "price": 4845,
+          "price": 4959,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 14091
@@ -4124,7 +4124,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-21T20:46:19Z",
+      "checked_at": "2026-10-21T21:01:18Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4516,7 +4516,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-21T20:46:28Z",
+      "checked_at": "2026-10-21T21:01:26Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
