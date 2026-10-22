@@ -992,7 +992,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-22T18:54:24Z",
+      "checked_at": "2026-10-22T19:08:43Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -3167,7 +3167,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-22T18:46:17Z",
+      "checked_at": "2026-10-22T19:01:17Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3224,17 +3224,6 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 26666
-        },
-        "/p/apple-macbook-air-m4-2025-15/308891b/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 1000 GB 15.3 \" Midnatt DE (Tysk)",
-          "matched": true,
-          "name": "Apple MacBook Air 2025 | 15.3",
-          "price": 23109,
-          "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
-          "was_price": 27777
         },
         "/p/apple-macbook-pro-2018-15-4-touc/39855c/": {
           "badge": null,
@@ -3394,7 +3383,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-22T18:46:28Z",
+      "checked_at": "2026-10-22T19:01:27Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
