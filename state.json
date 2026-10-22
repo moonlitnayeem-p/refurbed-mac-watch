@@ -992,7 +992,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-22T18:13:42Z",
+      "checked_at": "2026-10-22T18:28:58Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274305/": {
@@ -1185,6 +1185,7 @@
           "price": 14225,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-mac-studio-2025-m4-max/309740aa/": {
@@ -3572,7 +3573,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2159,
+          "price": 2235,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3614,7 +3615,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2649,
+          "price": 2679,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3908,7 +3909,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4955,
+          "price": 4999,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4099,7 +4100,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-22T18:02:05Z",
+      "checked_at": "2026-10-22T18:16:20Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4513,7 +4514,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-22T18:02:16Z",
+      "checked_at": "2026-10-22T18:16:33Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
