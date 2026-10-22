@@ -978,7 +978,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-22T04:13:54Z",
+      "checked_at": "2026-10-22T04:26:45Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -1195,7 +1195,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 10229,
+          "price": 8175,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
           "was_price": null
@@ -1228,45 +1228,31 @@
           "ssd_gb": 256.0,
           "was_price": null
         },
-        "/p/apple-macbook-air-m3-2024-15/129234c/": {
-          "badge": null,
-          "chip": "M3",
-          "config": "Apple MacBook Air 2024 Apple M3 8 Core 8.0 GB 512 GB 15.3 \" mörkblå SE (Svensk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-air-m3-2024-15/129398c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 14499,
-          "ram_gb": 8.0,
-          "ssd_gb": 512.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-air-m3-2024-15/129398c/": {
+        "/p/apple-macbook-air-m3-2024-15/129322c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M3",
-          "config": "Apple MacBook Air 2024 Apple M3 8 Core 24.0 GB 512 GB 15.3 \" Polstjärnan SE (Svensk)",
+          "config": "Apple MacBook Air 2024 Apple M3 8 Core 24.0 GB 512 GB 15.3 \" rymdgrå ES (Spansk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-air-m3-2024-15/129398c/"
+            "/p/apple-macbook-air-m3-2024-15/129322c/"
           ],
           "matched": false,
           "name": "Apple MacBook Air 2024 | 15.3",
-          "price": 16859,
+          "price": 15759,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 25435
         },
-        "/p/apple-macbook-air-m3-2024-15/129860c/": {
+        "/p/apple-macbook-air-m3-2024-15/129441c/": {
           "badge": null,
           "chip": "M3",
-          "config": "Apple MacBook Air 2024 Apple M3 8 Core 16.0 GB 512 GB 15.3 \" mörkblå SE (Svensk)",
+          "config": "Apple MacBook Air 2024 Apple M3 8 Core 8.0 GB 512 GB 15.3 \" rymdgrå ES (Spansk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-air-m3-2024-15/129398c/"
+            "/p/apple-macbook-air-m3-2024-15/129322c/"
           ],
           "matched": false,
           "name": "",
-          "price": 15495,
-          "ram_gb": 16.0,
+          "price": 15655,
+          "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": null
         },
@@ -2849,7 +2835,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 41355,
+          "price": 39285,
           "ram_gb": 48.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -4138,7 +4124,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-22T04:02:00Z",
+      "checked_at": "2026-10-22T04:16:15Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4541,7 +4527,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-22T04:02:08Z",
+      "checked_at": "2026-10-22T04:16:24Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
