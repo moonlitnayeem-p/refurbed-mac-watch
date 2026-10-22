@@ -947,17 +947,17 @@
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2025-m5-14/368786/"
     },
     "apple-macbook-pro-2025-m5-14|M5|32|512": {
-      "price": 23399,
+      "price": 23099,
       "proof_validation": {
         "chip": "M5",
-        "price": 23399,
+        "price": 23099,
         "ram_gb": 32.0,
-        "sha256": "d0d79b5ac650b50b35dd215ae2bc62a9d96f601d96d23c02e653caf2e55d4de6",
+        "sha256": "4c347d563b83aa355015ddcdbd7c81ef57002ce5e26011421af1a2024c85c030",
         "ssd_gb": 512.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-10-22/23399kr-ad62e7b4ebcf4659.png",
-      "seen_at": "2026-10-22T12:44:22Z",
+      "screenshot": "price-proofs/2026-10-22/23099kr-ad0c1c19e10c53cc.png",
+      "seen_at": "2026-10-22T13:53:17Z",
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2025-m5-14/368701c/"
     },
     "apple-macbook-pro-2026-m5-max-18-32-14|M5 Max|36|2000": {
@@ -992,7 +992,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-22T13:40:33Z",
+      "checked_at": "2026-10-22T13:53:17Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -3166,7 +3166,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-22T13:31:57Z",
+      "checked_at": "2026-10-22T13:46:14Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3362,7 +3362,7 @@
           "config": "Apple MacBook Pro 2025 M5 Apple M5 10 Core 32.0 GB 512 GB 14.2 \" rymdsvart SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2025 M5 | 14",
-          "price": 23399,
+          "price": 23099,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 25554
@@ -3404,7 +3404,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-22T13:32:09Z",
+      "checked_at": "2026-10-22T13:46:25Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3468,7 +3468,7 @@
           "config": "Mac Mini 2023 M2 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2023 M2",
-          "price": 6975,
+          "price": 6875,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
           "was_price": 9437
