@@ -992,7 +992,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-22T13:53:17Z",
+      "checked_at": "2026-10-22T14:11:25Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -1176,20 +1176,6 @@
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 18885
-        },
-        "/p/apple-macbook-pro-2019-16/10684c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 16.0 GB 1000 GB 16.0 \" rymdgrå DE (Tysk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/27561c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 6505,
-          "ram_gb": 16.0,
-          "ssd_gb": 1000.0,
-          "was_price": null
         },
         "/p/apple-macbook-pro-2019-16/24481c/": {
           "badge": null,
@@ -2757,7 +2743,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 17929,
+          "price": 18299,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2771,7 +2757,7 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2024 M4 | 14",
-          "price": 22249,
+          "price": 22619,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 26666
@@ -3115,10 +3101,24 @@
           ],
           "matched": false,
           "name": "iPhone 11 Pro Max",
-          "price": 2839,
+          "price": 3075,
           "ram_gb": 64.0,
           "ssd_gb": 64.0,
           "was_price": 12549
+        },
+        "/p/iphone-11-pro-max/4813c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPhone 11 Pro Max 64 GB rymdgrå Dual-SIM (eSIM, Nano-SIM)",
+          "discovery_parent_paths": [
+            "/p/iphone-11-pro-max/4813b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 3065,
+          "ram_gb": 64.0,
+          "ssd_gb": 64.0,
+          "was_price": null
         },
         "/p/iphone-11-pro-max/4814b/": {
           "badge": null,
@@ -3166,7 +3166,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-22T13:46:14Z",
+      "checked_at": "2026-10-22T14:02:29Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3312,13 +3312,13 @@
           "ssd_gb": 512.0,
           "was_price": 36003
         },
-        "/p/apple-macbook-pro-2023-m2-14/179569b/": {
+        "/p/apple-macbook-pro-2023-m2-14/179566c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
-          "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 10 Core 32.0 GB 512 GB 14.2 \" rymdgrå US (US-engelska)",
+          "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 10 Core 32.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 14.2",
-          "price": 20565,
+          "price": 17815,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 31334
@@ -3368,12 +3368,12 @@
           "was_price": 25554
         },
         "/p/apple-macbook-pro-2026-m5-max-18-32-16/422891aa/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "M5 Max",
           "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 16.2 \" rymdsvart DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 16",
-          "price": 48645,
+          "price": 48395,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 56678
@@ -3404,7 +3404,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-22T13:46:25Z",
+      "checked_at": "2026-10-22T14:02:41Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3446,7 +3446,7 @@
           "config": "Mac Mini 2020 M1 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2020 M1",
-          "price": 7355,
+          "price": 7479,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": 11437
