@@ -1034,7 +1034,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-24T08:09:44Z",
+      "checked_at": "2026-10-24T08:31:04Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -1095,17 +1095,6 @@
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": 30138
-        },
-        "/p/apple-mac-mini-2024-m4-pro/273551/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4",
-          "config": "Mac Mini 2024 M4 Pro - Apple Stationär Dator med 10 Kärnor",
-          "matched": false,
-          "name": "Apple Mac Mini 2024 M4 Pro",
-          "price": 20105,
-          "ram_gb": 24.0,
-          "ssd_gb": 512.0,
-          "was_price": 21127
         },
         "/p/apple-mac-mini-2024-m4/273531/": {
           "badge": "Bara ett fåtal kvar",
@@ -1698,7 +1687,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 17005,
+          "price": 17265,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3242,7 +3231,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-24T08:01:24Z",
+      "checked_at": "2026-10-24T08:22:08Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3480,7 +3469,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-24T08:01:38Z",
+      "checked_at": "2026-10-24T08:22:23Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
