@@ -1034,7 +1034,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-24T10:28:34Z",
+      "checked_at": "2026-10-24T10:43:11Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -1570,10 +1570,24 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6179,
+          "price": 7995,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 26689
+        },
+        "/p/apple-macbook-pro-2020-133-tb/28034c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå SE (Svensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2020-133-tb/127564c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 7065,
+          "ram_gb": 8.0,
+          "ssd_gb": 256.0,
+          "was_price": null
         },
         "/p/apple-macbook-pro-2020-133-tb/30032/": {
           "badge": null,
@@ -2500,6 +2514,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427363b/": {
@@ -2515,6 +2530,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427364b/": {
@@ -2530,6 +2546,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427365b/": {
@@ -2545,6 +2562,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427366b/": {
@@ -2561,6 +2579,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427367b/": {
@@ -2576,6 +2595,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427370b/": {
@@ -2591,6 +2611,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427372b/": {
@@ -2606,6 +2627,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427374b/": {
@@ -2621,6 +2643,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427375b/": {
@@ -2637,6 +2660,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/427377b/": {
@@ -2652,6 +2676,7 @@
           "price": 42099,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/498059/": {
@@ -4298,7 +4323,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-24T10:16:39Z",
+      "checked_at": "2026-10-24T10:31:16Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4712,7 +4737,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-24T10:16:55Z",
+      "checked_at": "2026-10-24T10:31:31Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
