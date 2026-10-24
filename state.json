@@ -1003,18 +1003,18 @@
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2025-m5-14/368701c/"
     },
     "apple-macbook-pro-2026-m5-max-18-32-14|M5 Max|36|2000": {
-      "price": 42225,
+      "price": 27805,
       "proof_validation": {
         "chip": "M5 Max",
-        "price": 42225,
+        "price": 27805,
         "ram_gb": 36.0,
-        "sha256": "da96696c630b8d4236377614a14d171fbf14a69b1146354efa69d643db082c4a",
+        "sha256": "37972cc93644730869cd24ba42b6840aff519fa2f50a88056fa91a2ab7974b4f",
         "ssd_gb": 2000.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-08-26/42225kr-c229131c5e681ef1.png",
-      "seen_at": "2026-08-26T12:16:03Z",
-      "url": "https://www.refurbed.se/p/apple-macbook-pro-2026-m5-max-18-32-14/421449aa/"
+      "screenshot": "price-proofs/2026-10-24/27805kr-d11cc93270130e37.png",
+      "seen_at": "2026-10-24T11:58:00Z",
+      "url": "https://www.refurbed.se/p/apple-macbook-pro-2026-m5-max-18-32-14/421499aa/"
     },
     "apple-macbook-pro-2026-m5-max-18-32-16|M5 Max|36|2000": {
       "price": 38485,
@@ -1034,7 +1034,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-24T11:43:59Z",
+      "checked_at": "2026-10-24T11:58:00Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -1400,18 +1400,18 @@
           "ssd_gb": 2000.0,
           "was_price": null
         },
-        "/p/apple-macbook-air-m4-2025/308068/": {
+        "/p/apple-macbook-air-m4-2025/308026/": {
           "badge": null,
           "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 16.0 GB 512 GB 13.6 \" himmelsblå DE (Tysk)",
+          "config": "Apple MacBook Air 2025 Apple M4 16.0 GB 256 GB 13.6 \" Midnatt US (US-engelska)",
           "discovery_parent_paths": [
             "/p/apple-macbook-air-m4-2025/308166/"
           ],
           "matched": false,
           "name": "",
-          "price": 11975,
+          "price": 15195,
           "ram_gb": 16.0,
-          "ssd_gb": 512.0,
+          "ssd_gb": 256.0,
           "was_price": null
         },
         "/p/apple-macbook-air-m4-2025/308166/": {
@@ -3788,7 +3788,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4915,
+          "price": 4925,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": null
@@ -4103,7 +4103,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-24T11:32:06Z",
+      "checked_at": "2026-10-24T11:46:56Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4392,6 +4392,17 @@
           "ssd_gb": 1000.0,
           "was_price": 45602
         },
+        "/p/apple-macbook-pro-2026-m5-max-18-32-14/421499aa/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M5 Max",
+          "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" rymdsvart DE (Tysk)",
+          "matched": true,
+          "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 14",
+          "price": 27805,
+          "ram_gb": 36.0,
+          "ssd_gb": 2000.0,
+          "was_price": 53390
+        },
         "/p/apple-macbook-pro-2026-m5-max-18-32-16/422821aa/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M5 Max",
@@ -4517,7 +4528,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-24T11:32:22Z",
+      "checked_at": "2026-10-24T11:47:11Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
