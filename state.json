@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-25T17:13:35Z",
+      "checked_at": "2026-10-25T17:26:03Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -2450,6 +2450,7 @@
           "price": 18335,
           "ram_gb": 8.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/335656/": {
@@ -3996,7 +3997,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 12.9",
-          "price": 4145,
+          "price": 4195,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 12228
@@ -4074,7 +4075,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-25T17:01:43Z",
+      "checked_at": "2026-10-25T17:14:35Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4418,13 +4419,13 @@
           "ssd_gb": 2.0,
           "was_price": null
         },
-        "/p/ipad-7-10-2/4827c/": {
+        "/p/ipad-7-10-2/4823c/": {
           "badge": null,
           "chip": "",
-          "config": "Apple iPad 7 (2019) 32 GB 10.2 \" rymdgrå 3.0 GB",
+          "config": "Apple iPad 7 (2019) 32 GB 10.2 \" silver 3.0 GB",
           "matched": false,
           "name": "iPad 7 (2019) | 10.2",
-          "price": 1119,
+          "price": 1165,
           "ram_gb": 32.0,
           "ssd_gb": 3.0,
           "was_price": 4216
@@ -4499,7 +4500,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-25T17:02:00Z",
+      "checked_at": "2026-10-25T17:14:54Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
