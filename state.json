@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-25T17:26:03Z",
+      "checked_at": "2026-10-25T17:37:49Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -1062,7 +1062,7 @@
           "ssd_gb": 256.0,
           "was_price": 22242
         },
-        "/p/apple-imac-2024-m4-8core/278978aa/": {
+        "/p/apple-imac-2024-m4-8core/279249aa/": {
           "badge": null,
           "chip": "M4",
           "config": "iMac 2024 M4 8 Core - Rekonditionerad Stationär Dator",
@@ -1577,10 +1577,24 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 7909,
+          "price": 8245,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 24467
+        },
+        "/p/apple-macbook-pro-2020-133-tb/30469c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 512 GB 13.3 \" rymdgrå DK (Dansk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2020-133-tb/21584c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 8129,
+          "ram_gb": 8.0,
+          "ssd_gb": 512.0,
+          "was_price": null
         },
         "/p/apple-macbook-pro-2020-133-tb/89354/": {
           "badge": null,
@@ -2424,6 +2438,20 @@
           "ssd_gb": 4000.0,
           "was_price": null
         },
+        "/p/apple-macbook-pro-2023-m3-14/126090/": {
+          "badge": null,
+          "chip": "M3",
+          "config": "Apple MacBook Pro 2023 M3 Apple M3 8 Core 8.0 GB 1000 GB 14.2 \" silver DE (Tysk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2023-m3-14/498059/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 16959,
+          "ram_gb": 8.0,
+          "ssd_gb": 1000.0,
+          "was_price": null
+        },
         "/p/apple-macbook-pro-2023-m3-14/287015/": {
           "badge": null,
           "chip": "M3",
@@ -2436,21 +2464,6 @@
           "price": 19575,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-pro-2023-m3-14/287060/": {
-          "badge": null,
-          "chip": "M3",
-          "config": "Apple MacBook Pro 2023 M3 Apple M3 8 Core 8.0 GB 1000 GB 14.2 \" silver US (US-engelska)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2023-m3-14/498059/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 18335,
-          "ram_gb": 8.0,
-          "ssd_gb": 1000.0,
-          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/335656/": {
@@ -3912,7 +3925,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4999,
+          "price": 4989,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4075,7 +4088,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-25T17:14:35Z",
+      "checked_at": "2026-10-25T17:27:03Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4254,13 +4267,13 @@
           "ssd_gb": 2000.0,
           "was_price": 34481
         },
-        "/p/apple-macbook-pro-2021-m1-14/75153c/": {
+        "/p/apple-macbook-pro-2021-m1-14/92947c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå NL (Nederländsk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 12825,
+          "price": 11245,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30141
@@ -4500,7 +4513,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-25T17:14:54Z",
+      "checked_at": "2026-10-25T17:27:17Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
