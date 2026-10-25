@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-25T09:57:52Z",
+      "checked_at": "2026-10-25T10:12:45Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -3442,7 +3442,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2289,
+          "price": 2325,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3470,7 +3470,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2179,
+          "price": 2175,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3488,21 +3488,6 @@
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 4773
-        },
-        "/p/ipad-9-2021/14237c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple iPad 9 (2021) 256 GB 10.2 \" rymdgrå 3.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-9-2021/14236c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 3835,
-          "ram_gb": 256.0,
-          "ssd_gb": 3.0,
-          "verification_unknown": true,
-          "was_price": null
         },
         "/p/ipad-9-2021/14240c/": {
           "badge": null,
@@ -3899,7 +3884,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5285,
+          "price": 5369,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4086,7 +4071,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 6129,
+          "price": 6125,
           "ram_gb": 1000.0,
           "ssd_gb": 6.0,
           "was_price": null
@@ -4106,7 +4091,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-25T09:46:20Z",
+      "checked_at": "2026-10-25T10:01:19Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4531,7 +4516,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-25T09:46:34Z",
+      "checked_at": "2026-10-25T10:01:34Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
