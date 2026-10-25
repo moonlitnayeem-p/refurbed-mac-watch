@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-25T08:58:00Z",
+      "checked_at": "2026-10-25T09:11:54Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -3340,7 +3340,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4025,
+          "price": 4049,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3517,41 +3517,41 @@
           "ssd_gb": 3.0,
           "was_price": null
         },
-        "/p/ipad-air-3/4723c/": {
+        "/p/ipad-air-3/4723/": {
           "badge": null,
           "chip": "",
           "config": "Apple iPad Air (2019) 64 GB 10.5 \" silver 3.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-air-3/4719c/",
-            "/p/ipad-air-3/4727c/"
+            "/p/ipad-air-3/4723c/"
           ],
           "matched": false,
           "name": "",
-          "price": 4275,
+          "price": 4835,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
         },
-        "/p/ipad-air-3/4727/": {
+        "/p/ipad-air-3/4723b/": {
           "badge": null,
           "chip": "",
-          "config": "Apple iPad Air (2019) 64 GB 10.5 \" guld 3.0 GB",
+          "config": "Apple iPad Air (2019) 64 GB 10.5 \" silver 3.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-air-3/4727c/"
+            "/p/ipad-air-3/4723c/"
           ],
           "matched": false,
           "name": "",
-          "price": 5979,
+          "price": 5485,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
         },
-        "/p/ipad-air-3/4727c/": {
+        "/p/ipad-air-3/4723c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple iPad Air (2019) 64 GB 10.5 \" guld 3.0 GB",
+          "config": "Apple iPad Air (2019) 64 GB 10.5 \" silver 3.0 GB",
           "discovery_parent_paths": [
             "/p/ipad-air-3/4719c/",
+            "/p/ipad-air-3/4723c/",
             "/p/ipad-air-3/4727c/"
           ],
           "matched": false,
@@ -3560,6 +3560,22 @@
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 6109
+        },
+        "/p/ipad-air-3/4727c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Air (2019) 64 GB 10.5 \" guld 3.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-air-3/4719c/",
+            "/p/ipad-air-3/4723c/",
+            "/p/ipad-air-3/4727c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4275,
+          "ram_gb": 64.0,
+          "ssd_gb": 3.0,
+          "was_price": null
         },
         "/p/ipad-air-4/9794c/": {
           "badge": null,
@@ -3882,7 +3898,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5299,
+          "price": 5379,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4089,7 +4105,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-25T08:46:18Z",
+      "checked_at": "2026-10-25T09:01:51Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4514,7 +4530,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-25T08:46:33Z",
+      "checked_at": "2026-10-25T09:02:03Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
