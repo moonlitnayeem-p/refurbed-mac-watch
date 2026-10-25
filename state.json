@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-25T09:43:33Z",
+      "checked_at": "2026-10-25T09:57:52Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274283/": {
@@ -3484,7 +3484,7 @@
           ],
           "matched": false,
           "name": "iPad 9 (2021) | 10.2",
-          "price": 2099,
+          "price": 2119,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 4773
@@ -3501,6 +3501,7 @@
           "price": 3835,
           "ram_gb": 256.0,
           "ssd_gb": 3.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/ipad-9-2021/14240c/": {
@@ -3898,7 +3899,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5369,
+          "price": 5285,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4105,7 +4106,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-25T09:31:19Z",
+      "checked_at": "2026-10-25T09:46:20Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4530,7 +4531,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-25T09:31:34Z",
+      "checked_at": "2026-10-25T09:46:34Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
