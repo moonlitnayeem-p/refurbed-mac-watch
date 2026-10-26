@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-26T10:56:24Z",
+      "checked_at": "2026-10-26T11:14:07Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -2506,6 +2506,21 @@
           "price": 32429,
           "ram_gb": 36.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2023-m3-14/417320/": {
+          "badge": null,
+          "chip": "M3 Max",
+          "config": "Apple MacBook Pro 2023 M3 Apple M3 Max 16 Core 64.0 GB 2000 GB 14.2 \" silver US (US-engelska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2023-m3-14/498059/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 40335,
+          "ram_gb": 64.0,
+          "ssd_gb": 2000.0,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/498059/": {
@@ -2517,7 +2532,7 @@
           ],
           "matched": true,
           "name": "Apple MacBook Pro 2023 M3 | 14.2",
-          "price": 37015,
+          "price": 37699,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 52317
@@ -2999,20 +3014,6 @@
           "ssd_gb": 512.0,
           "was_price": 26709
         },
-        "/p/apple-macbook-pro-2024-m4-14/281794b/": {
-          "badge": null,
-          "chip": "M4 Pro",
-          "config": "Apple MacBook Pro 2024 M4 Apple M4 Pro 14 Core 48.0 GB 1000 GB 14.2 \" silver DE (Tysk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2024-m4-14/280526/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 33395,
-          "ram_gb": 48.0,
-          "ssd_gb": 1000.0,
-          "was_price": null
-        },
         "/p/apple-macbook-pro-2024-m4-14/282163aa/": {
           "badge": null,
           "chip": "M4 Max",
@@ -3035,6 +3036,20 @@
           "name": "",
           "price": 38685,
           "ram_gb": 36.0,
+          "ssd_gb": 1000.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2024-m4-14/282536/": {
+          "badge": null,
+          "chip": "M4 Max",
+          "config": "Apple MacBook Pro 2024 M4 Apple M4 Max 16 Core 48.0 GB 1000 GB 14.2 \" rymdsvart CH (Schweizisk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2024-m4-14/280526/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 40855,
+          "ram_gb": 48.0,
           "ssd_gb": 1000.0,
           "was_price": null
         },
@@ -3407,7 +3422,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 4019,
+          "price": 4025,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4776
@@ -3614,7 +3629,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2020) | 10.9",
-          "price": 4579,
+          "price": 4605,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 8784
@@ -3727,7 +3742,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 6175,
+          "price": 6115,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": null
@@ -4018,7 +4033,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2017) | 12.9",
-          "price": 3569,
+          "price": 3539,
           "ram_gb": 64.0,
           "ssd_gb": 64.0,
           "was_price": 11122
@@ -4167,7 +4182,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-26T10:46:15Z",
+      "checked_at": "2026-10-26T11:01:46Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4592,7 +4607,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-26T10:46:33Z",
+      "checked_at": "2026-10-26T11:02:04Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
