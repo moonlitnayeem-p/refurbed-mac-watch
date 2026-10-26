@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-26T13:28:16Z",
+      "checked_at": "2026-10-26T13:43:33Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -1338,16 +1338,16 @@
           "ssd_gb": 512.0,
           "was_price": 22154
         },
-        "/p/apple-macbook-air-m4-2025-15/308516b/": {
+        "/p/apple-macbook-air-m4-2025-15/308516/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Apple MacBook Air 2025 Apple M4 16.0 GB 256 GB 15.3 \" Midnatt DE (Tysk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-air-m4-2025-15/308516b/"
+            "/p/apple-macbook-air-m4-2025-15/308516/"
           ],
           "matched": false,
           "name": "Apple MacBook Air 2025 | 15.3",
-          "price": 16305,
+          "price": 12775,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 16696
@@ -1357,6 +1357,7 @@
           "chip": "M4",
           "config": "Apple MacBook Air 2025 Apple M4 24.0 GB 2000 GB 15.3 \" silver DE (Tysk)",
           "discovery_parent_paths": [
+            "/p/apple-macbook-air-m4-2025-15/308516/",
             "/p/apple-macbook-air-m4-2025-15/308516b/"
           ],
           "matched": false,
@@ -1436,26 +1437,26 @@
           "ssd_gb": 1000.0,
           "was_price": 55680
         },
-        "/p/apple-macbook-pro-2020-133-tb/22217c/": {
+        "/p/apple-macbook-pro-2020-133-tb/21606b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-1038NG7 16.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
+            "/p/apple-macbook-pro-2020-133-tb/21606b/"
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6455,
+          "price": 7555,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
-          "was_price": 26720
+          "was_price": 24493
         },
-        "/p/apple-macbook-pro-2020-133-tb/89344/": {
+        "/p/apple-macbook-pro-2020-133-tb/89348/": {
           "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 2000 GB 13.3 \" silver FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 2000 GB 13.3 \" silver SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
+            "/p/apple-macbook-pro-2020-133-tb/21606b/"
           ],
           "matched": false,
           "name": "",
@@ -2519,21 +2520,6 @@
           "ssd_gb": 1000.0,
           "was_price": null
         },
-        "/p/apple-macbook-pro-2023-m3-14/417320/": {
-          "badge": null,
-          "chip": "M3 Max",
-          "config": "Apple MacBook Pro 2023 M3 Apple M3 Max 16 Core 64.0 GB 2000 GB 14.2 \" silver US (US-engelska)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2023-m3-14/498059/"
-          ],
-          "matched": true,
-          "name": "",
-          "price": 39649,
-          "ram_gb": 64.0,
-          "ssd_gb": 2000.0,
-          "verification_unknown": true,
-          "was_price": null
-        },
         "/p/apple-macbook-pro-2023-m3-14/498059/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M3 Max",
@@ -3477,7 +3463,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4059,
+          "price": 4115,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4193,7 +4179,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-26T13:16:24Z",
+      "checked_at": "2026-10-26T13:31:24Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4361,13 +4347,13 @@
           "ssd_gb": 2000.0,
           "was_price": 34517
         },
-        "/p/apple-macbook-pro-2021-m1-14/75153c/": {
+        "/p/apple-macbook-pro-2021-m1-14/92947c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå NL (Nederländsk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 12809,
+          "price": 11255,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30173
@@ -4571,7 +4557,7 @@
           "was_price": 8342
         },
         "/p/macbook-pro-2019-133-tb/39899c/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" silver SE (Svensk)",
           "matched": false,
@@ -4607,7 +4593,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-26T13:16:39Z",
+      "checked_at": "2026-10-26T13:31:41Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
