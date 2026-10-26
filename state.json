@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-26T01:56:15Z",
+      "checked_at": "2026-10-26T02:11:26Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -1340,7 +1340,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 13295,
+          "price": 13315,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1677,7 +1677,7 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2022 M2 | 13.3",
-          "price": 14115,
+          "price": 14119,
           "ram_gb": 24.0,
           "ssd_gb": 1000.0,
           "was_price": 28046
@@ -3967,22 +3967,22 @@
           "ssd_gb": 6.0,
           "was_price": null
         },
-        "/p/macbook-pro-2019-133-tb/64810c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/macbook-pro-2019-133-tb/27016c/": {
+          "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i7-8569U 16.0 GB 512 GB 13.3 \" silver ES (Spansk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i5-8279U 16.0 GB 512 GB 13.3 \" rymdgrå DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
           "price": 5839,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
-          "was_price": 31163
+          "was_price": 18916
         }
       },
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-26T01:46:15Z",
+      "checked_at": "2026-10-26T02:01:22Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4337,13 +4337,13 @@
           "ssd_gb": 3.0,
           "was_price": 4219
         },
-        "/p/ipad-8-10-2/10364b/": {
+        "/p/ipad-8-10-2/10364c/": {
           "badge": "Bästsäljare",
           "chip": "",
           "config": "Apple iPad 8 (2020) 32 GB 10.2 \" silver 3.0 GB",
           "matched": false,
           "name": "iPad 8 (2020) | 10.2",
-          "price": 1545,
+          "price": 1539,
           "ram_gb": 32.0,
           "ssd_gb": 3.0,
           "was_price": 5444
@@ -4398,7 +4398,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 256 GB 15.4 \" rymdgrå DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 15.4",
-          "price": 7005,
+          "price": 7019,
           "ram_gb": 32.0,
           "ssd_gb": 256.0,
           "was_price": 30050
@@ -4407,7 +4407,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-26T01:46:29Z",
+      "checked_at": "2026-10-26T02:01:36Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
