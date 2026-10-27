@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-27T07:13:45Z",
+      "checked_at": "2026-10-27T07:27:31Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -3261,6 +3261,34 @@
           "ssd_gb": 4000.0,
           "was_price": null
         },
+        "/p/apple-macbook-pro-2025-m5-14/368303/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M5",
+          "config": "Apple MacBook Pro 2025 M5 Apple M5 10 Core 24.0 GB 1000 GB 14.2 \" silver SE (Svensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2025-m5-14/368303/"
+          ],
+          "matched": false,
+          "name": "Apple MacBook Pro 2025 M5 | 14",
+          "price": 25099,
+          "ram_gb": 24.0,
+          "ssd_gb": 1000.0,
+          "was_price": 26906
+        },
+        "/p/apple-macbook-pro-2025-m5-14/368553aa/": {
+          "badge": null,
+          "chip": "M5",
+          "config": "Apple MacBook Pro 2025 M5 Apple M5 10 Core 16.0 GB 1000 GB 14.2 \" rymdsvart DE (Tysk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2025-m5-14/368303/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 22079,
+          "ram_gb": 16.0,
+          "ssd_gb": 1000.0,
+          "was_price": null
+        },
         "/p/apple-macbook-pro-2026-m5-pro-15-16-14/420135aa/": {
           "badge": null,
           "chip": "M5 Pro",
@@ -3678,7 +3706,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2305,
+          "price": 2645,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3734,7 +3762,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 3799,
+          "price": 3445,
           "ram_gb": 256.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -4039,7 +4067,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-27T07:01:27Z",
+      "checked_at": "2026-10-27T07:16:19Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4453,7 +4481,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-27T07:01:42Z",
+      "checked_at": "2026-10-27T07:16:36Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
