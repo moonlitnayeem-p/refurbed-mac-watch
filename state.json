@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-27T11:55:34Z",
+      "checked_at": "2026-10-27T12:13:32Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -1315,16 +1315,16 @@
           "ssd_gb": 512.0,
           "was_price": 25460
         },
-        "/p/apple-macbook-air-m2-2023-15/186768c/": {
+        "/p/apple-macbook-air-m2-2023-15/256619c/": {
           "badge": null,
           "chip": "M2",
-          "config": "Apple MacBook Air 2023 Apple M2 16.0 GB 1000 GB 15.3 \" silver US (US-engelska)",
+          "config": "Apple MacBook Air 2023 Apple M2 16.0 GB 1000 GB 15.3 \" silver SE (Svensk)",
           "discovery_parent_paths": [
             "/p/apple-macbook-air-m2-2023-15/173204c/"
           ],
           "matched": false,
           "name": "",
-          "price": 10895,
+          "price": 11275,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1483,16 +1483,16 @@
           "ssd_gb": 1000.0,
           "was_price": 55604
         },
-        "/p/apple-macbook-pro-2020-133-tb/21606c/": {
+        "/p/apple-macbook-pro-2020-133-tb/21612c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple MacBook Pro 2020 Intel Core i5-1038NG7 16.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/21606c/"
+            "/p/apple-macbook-pro-2020-133-tb/21612c/"
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6565,
+          "price": 6575,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 24459
@@ -1502,7 +1502,8 @@
           "chip": "",
           "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/21606c/"
+            "/p/apple-macbook-pro-2020-133-tb/21606c/",
+            "/p/apple-macbook-pro-2020-133-tb/21612c/"
           ],
           "matched": false,
           "name": "",
@@ -3285,6 +3286,20 @@
           "ssd_gb": 4.0,
           "was_price": 4771
         },
+        "/p/ipad-10-10-9-2022/73274c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad 10 (2022) 64 GB 10.9 \" rosa 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-10-10-9-2022/73274b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4025,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
         "/p/ipad-9-2021/14236/": {
           "badge": null,
           "chip": "",
@@ -3325,7 +3340,7 @@
           ],
           "matched": false,
           "name": "iPad 9 (2021) | 10.2",
-          "price": 2175,
+          "price": 2169,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 4771
@@ -3367,7 +3382,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2019) | 10.5",
-          "price": 1975,
+          "price": 2005,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 6106
@@ -3842,7 +3857,7 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
-          "price": 5669,
+          "price": 5675,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": 18898
@@ -3865,7 +3880,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-27T11:46:20Z",
+      "checked_at": "2026-10-27T12:02:26Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4268,7 +4283,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-27T11:46:30Z",
+      "checked_at": "2026-10-27T12:02:37Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
