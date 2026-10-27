@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-27T14:42:59Z",
+      "checked_at": "2026-10-27T14:57:14Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -1285,7 +1285,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 9395,
+          "price": 9399,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": null
@@ -3271,12 +3271,29 @@
           "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "FAIR Apple MacBook Pro 2020 Intel Core i5-1038NG7 16.0 GB 1000 GB 13.3 \" rymdgrå DE (Tysk)",
+          "discovery_parent_paths": [
+            "/p/fair-apple-macbook-pro-2020-133-tb/501595c/"
+          ],
           "matched": false,
           "name": "FAIR Apple MacBook Pro 2020 | 13.3",
           "price": 5925,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": 26599
+        },
+        "/p/fair-apple-macbook-pro-2020-133-tb/501596c/": {
+          "badge": null,
+          "chip": "",
+          "config": "FAIR Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå DE (Tysk)",
+          "discovery_parent_paths": [
+            "/p/fair-apple-macbook-pro-2020-133-tb/501595c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 3905,
+          "ram_gb": 8.0,
+          "ssd_gb": 256.0,
+          "was_price": null
         },
         "/p/fair-apple-macbook-pro-2024-m4-16/489577/": {
           "badge": "Bara ett fåtal kvar",
@@ -3299,7 +3316,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4005,
+          "price": 4029,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3343,7 +3360,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4755,
+          "price": 4469,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3534,7 +3551,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5325,
+          "price": 5335,
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3815,7 +3832,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4795,
+          "price": 4649,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3847,6 +3864,20 @@
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
           "was_price": null
+        },
+        "/p/ipad-pro-10-5-2017/2164c/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple iPad Pro (2017) 64 GB 10.5 \" rymdgrå 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-pro-10-5-2017/2164c/"
+          ],
+          "matched": false,
+          "name": "iPad Pro (2017) | 10.5",
+          "price": 1595,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": 7750
         },
         "/p/ipad-pro-11-0-2018/3641b/": {
           "badge": "Bara ett fåtal kvar",
@@ -4038,7 +4069,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-27T14:31:23Z",
+      "checked_at": "2026-10-27T14:46:32Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4349,16 +4380,27 @@
           "ssd_gb": 512.0,
           "was_price": 20501
         },
-        "/p/fair-apple-macbook-pro-2020-133-tb/501595c/": {
+        "/p/fair-apple-macbook-pro-2020-133-tb/501596c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "FAIR Apple MacBook Pro 2020 Intel Core i5-1038NG7 16.0 GB 1000 GB 13.3 \" rymdgrå DE (Tysk)",
+          "config": "FAIR Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå DE (Tysk)",
           "matched": false,
           "name": "FAIR Apple MacBook Pro 2020 | 13.3",
-          "price": 5925,
-          "ram_gb": 16.0,
-          "ssd_gb": 1000.0,
-          "was_price": 26599
+          "price": 3905,
+          "ram_gb": 8.0,
+          "ssd_gb": 256.0,
+          "was_price": 21055
+        },
+        "/p/fair-apple-macbook-pro-2021-m1-14/501620c/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M1 Pro",
+          "config": "FAIR Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
+          "matched": false,
+          "name": "FAIR Apple MacBook Pro 2021 M1 | 14.2",
+          "price": 11665,
+          "ram_gb": 32.0,
+          "ssd_gb": 512.0,
+          "was_price": 27819
         },
         "/p/ipad-6-2018/2139c/": {
           "badge": null,
@@ -4441,7 +4483,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-27T14:31:39Z",
+      "checked_at": "2026-10-27T14:46:47Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
