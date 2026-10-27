@@ -1048,7 +1048,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-27T18:02:30Z",
+      "checked_at": "2026-10-27T18:15:37Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274286/": {
@@ -1068,7 +1068,7 @@
           "config": "iMac 2024 M4 8 Core - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple iMac 2024 M4 8 Core | 24",
-          "price": 12735,
+          "price": 14725,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 19946
@@ -1155,7 +1155,7 @@
           ],
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 13379,
+          "price": 13515,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 16620
@@ -1227,7 +1227,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 18469,
+          "price": 18379,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3791,7 +3791,7 @@
           "was_price": null
         },
         "/p/ipad-mini-6/14232c/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple iPad mini (2021) 64 GB 8.3 \" vit 4.0 GB",
           "discovery_parent_paths": [
@@ -4020,7 +4020,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-27T17:50:32Z",
+      "checked_at": "2026-10-27T18:03:42Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4095,7 +4095,7 @@
           "config": "Mac Mini 2023 M2 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2023 M2",
-          "price": 5099,
+          "price": 5095,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
           "was_price": 9413
@@ -4128,7 +4128,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 18469,
+          "price": 18379,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 25490
@@ -4412,7 +4412,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-27T17:50:49Z",
+      "checked_at": "2026-10-27T18:03:57Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -4509,7 +4509,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 18469,
+          "price": 18379,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 25490
