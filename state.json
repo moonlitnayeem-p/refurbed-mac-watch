@@ -1062,7 +1062,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-28T14:37:47Z",
+      "checked_at": "2026-10-28T14:52:57Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -2784,7 +2784,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-28T14:31:25Z",
+      "checked_at": "2026-10-28T14:46:24Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -2886,13 +2886,13 @@
           "ssd_gb": 512.0,
           "was_price": 35366
         },
-        "/p/apple-macbook-pro-2021-m1-14/75158/": {
+        "/p/apple-macbook-pro-2021-m1-14/75153c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" silver FR (Fransk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå FR (Fransk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 13539,
+          "price": 13225,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 29949
@@ -2969,7 +2969,7 @@
           "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" rymdsvart US (US-engelska)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 14",
-          "price": 33049,
+          "price": 32435,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 53055
@@ -3000,7 +3000,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-28T14:31:35Z",
+      "checked_at": "2026-10-28T14:46:36Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
