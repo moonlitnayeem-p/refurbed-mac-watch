@@ -1062,7 +1062,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-28T16:12:20Z",
+      "checked_at": "2026-10-28T16:27:38Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -3235,7 +3235,7 @@
           "config": "Apple MacBook Pro 2026 M5 Pro 15-Core CPU Apple M5 Pro 15 Core 24.0 GB 1000 GB 14.2 \" rymdsvart DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2026 M5 Pro 15-Core CPU | 16-Core GPU | 14",
-          "price": 26255,
+          "price": 29269,
           "ram_gb": 24.0,
           "ssd_gb": 1000.0,
           "was_price": 32049
@@ -3486,7 +3486,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2020) | 10.9",
-          "price": 4485,
+          "price": 4489,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 7175
@@ -3585,7 +3585,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5359,
+          "price": 5375,
           "ram_gb": 256.0,
           "ssd_gb": 8.0,
           "was_price": null
@@ -3838,7 +3838,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5165,
+          "price": 5009,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3914,7 +3914,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-28T16:01:35Z",
+      "checked_at": "2026-10-28T16:16:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4192,13 +4192,13 @@
           "ssd_gb": 1000.0,
           "was_price": 45316
         },
-        "/p/apple-macbook-pro-2026-m5-max-18-32-14/421449b/": {
+        "/p/apple-macbook-pro-2026-m5-max-18-32-14/421375aa/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M5 Max",
-          "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" rymdsvart US (US-engelska)",
+          "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" silver US (US-engelska)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 14",
-          "price": 33049,
+          "price": 42289,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 53055
@@ -4295,7 +4295,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-28T16:01:44Z",
+      "checked_at": "2026-10-28T16:16:38Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
