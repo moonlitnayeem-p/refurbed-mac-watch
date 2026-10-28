@@ -1062,7 +1062,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-28T13:11:01Z",
+      "checked_at": "2026-10-28T13:27:46Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -1342,13 +1342,13 @@
           "ssd_gb": 256.0,
           "was_price": null
         },
-        "/p/apple-macbook-air-m3-2024-15/129362/": {
+        "/p/apple-macbook-air-m3-2024-15/129334/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M3",
-          "config": "Apple MacBook Air 2024 Apple M3 8 Core 24.0 GB 512 GB 15.3 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Air 2024 Apple M3 8 Core 24.0 GB 512 GB 15.3 \" rymdgrå DK (Dansk)",
           "matched": false,
           "name": "Apple MacBook Air 2024 | 15.3",
-          "price": 14575,
+          "price": 13975,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 25306
@@ -3295,7 +3295,7 @@
           "was_price": null
         },
         "/p/ipad-10-10-9-2022/58268c/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "",
           "config": "Apple iPad 10 (2022) 64 GB 10.9 \" blå 4.0 GB",
           "discovery_parent_paths": [
@@ -3307,7 +3307,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 3745,
+          "price": 3999,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4742
@@ -3696,7 +3696,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4829,
+          "price": 4715,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3950,7 +3950,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-28T13:01:20Z",
+      "checked_at": "2026-10-28T13:16:27Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4119,7 +4119,7 @@
           "was_price": 38683
         },
         "/p/apple-macbook-pro-2019-16/27154c/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
@@ -4129,16 +4129,16 @@
           "ssd_gb": 512.0,
           "was_price": 35366
         },
-        "/p/apple-macbook-pro-2020-133-tb/28035c/": {
+        "/p/apple-macbook-pro-2020-133-tb/55283c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 256 GB 13.3 \" rymdgrå DK (Dansk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 16.0 GB 512 GB 13.3 \" rymdgrå FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6149,
-          "ram_gb": 8.0,
-          "ssd_gb": 256.0,
-          "was_price": 20994
+          "price": 6655,
+          "ram_gb": 16.0,
+          "ssd_gb": 512.0,
+          "was_price": 24311
         },
         "/p/apple-macbook-pro-2021-m1-14/75153c/": {
           "badge": "Bästsäljare",
@@ -4316,13 +4316,13 @@
           "ssd_gb": 3.0,
           "was_price": 3968
         },
-        "/p/macbook-pro-2019-133-tb/6461c/": {
+        "/p/macbook-pro-2019-133-tb/9746c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 128 GB 13.3 \" silver DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 128 GB 13.3 \" rymdgrå DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
-          "price": 4785,
+          "price": 4959,
           "ram_gb": 8.0,
           "ssd_gb": 128.0,
           "was_price": 15466
@@ -4342,7 +4342,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-28T13:01:32Z",
+      "checked_at": "2026-10-28T13:16:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
