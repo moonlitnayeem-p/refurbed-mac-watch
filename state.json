@@ -1062,7 +1062,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-28T13:57:30Z",
+      "checked_at": "2026-10-28T14:13:45Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274285/": {
@@ -1360,12 +1360,43 @@
           "badge": "Bara ett fåtal kvar",
           "chip": "M3",
           "config": "Apple MacBook Air 2024 Apple M3 8 Core 24.0 GB 512 GB 15.3 \" rymdgrå DK (Dansk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-air-m3-2024-15/129334/"
+          ],
           "matched": false,
           "name": "Apple MacBook Air 2024 | 15.3",
-          "price": 13975,
+          "price": 13985,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 25306
+        },
+        "/p/apple-macbook-air-m3-2024-15/129504/": {
+          "badge": null,
+          "chip": "M3",
+          "config": "Apple MacBook Air 2024 Apple M3 8 Core 8.0 GB 512 GB 15.3 \" rymdgrå DK (Dansk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-air-m3-2024-15/129334/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 15035,
+          "ram_gb": 8.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-air-m3-2024-15/129685/": {
+          "badge": null,
+          "chip": "M3",
+          "config": "Apple MacBook Air 2024 Apple M3 8 Core 16.0 GB 512 GB 15.3 \" rymdgrå DK (Dansk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-air-m3-2024-15/129334/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 16645,
+          "ram_gb": 16.0,
+          "ssd_gb": 512.0,
+          "was_price": null
         },
         "/p/apple-macbook-air-m3-2024/128656c/": {
           "badge": null,
@@ -1507,13 +1538,13 @@
           "ssd_gb": 1000.0,
           "was_price": 55266
         },
-        "/p/apple-macbook-pro-2020-133-tb/127564c/": {
+        "/p/apple-macbook-pro-2020-133-tb/66480b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå US (US-engelska)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6395,
+          "price": 7739,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 26522
@@ -3321,7 +3352,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 3999,
+          "price": 3989,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4742
@@ -3436,7 +3467,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2019) | 10.5",
-          "price": 3725,
+          "price": 3729,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": 6069
@@ -3479,7 +3510,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2020) | 10.9",
-          "price": 3699,
+          "price": 3715,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 7175
@@ -3507,7 +3538,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5455,
+          "price": 4285,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3535,7 +3566,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 5465,
+          "price": 5205,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": null
@@ -3608,7 +3639,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 6619,
+          "price": 5425,
           "ram_gb": 256.0,
           "ssd_gb": 8.0,
           "was_price": null
@@ -3710,7 +3741,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4705,
+          "price": 4809,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3964,7 +3995,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-28T13:46:23Z",
+      "checked_at": "2026-10-28T14:01:36Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4143,35 +4174,35 @@
           "ssd_gb": 512.0,
           "was_price": 35366
         },
-        "/p/apple-macbook-pro-2020-133-tb/55283c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-macbook-pro-2020-133-tb/30468b/": {
+          "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 16.0 GB 512 GB 13.3 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6655,
-          "ram_gb": 16.0,
+          "price": 8189,
+          "ram_gb": 8.0,
           "ssd_gb": 512.0,
-          "was_price": 24311
+          "was_price": 22099
         },
-        "/p/apple-macbook-pro-2021-m1-14/75153c/": {
+        "/p/apple-macbook-pro-2021-m1-14/75158/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" silver FR (Fransk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 11755,
+          "price": 13539,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 29949
         },
         "/p/apple-macbook-pro-2021-m1-16-2/131253b/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "M1 Pro",
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 14155,
+          "price": 14815,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35366
@@ -4314,7 +4345,7 @@
           "config": "Apple iPad 7 (2019) 32 GB 10.2 \" rymdgrå 3.0 GB",
           "matched": false,
           "name": "iPad 7 (2019) | 10.2",
-          "price": 1119,
+          "price": 1105,
           "ram_gb": 32.0,
           "ssd_gb": 3.0,
           "was_price": 4190
@@ -4356,7 +4387,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-28T13:46:35Z",
+      "checked_at": "2026-10-28T14:01:50Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
