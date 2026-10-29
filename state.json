@@ -1108,7 +1108,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-29T19:24:07Z",
+      "checked_at": "2026-10-29T19:38:55Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -2931,7 +2931,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-29T19:16:35Z",
+      "checked_at": "2026-10-29T19:31:31Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3066,17 +3066,6 @@
           "ssd_gb": 1000.0,
           "was_price": 37660
         },
-        "/p/apple-macbook-pro-2023-m2-14/97081c/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M2 Max",
-          "config": "Apple MacBook Pro 2023 M2 Apple M2 Max 12 Core 32.0 GB 1000 GB 14.2 \" rymdgrå SE (Svensk)",
-          "matched": true,
-          "name": "Apple MacBook Pro 2023 M2 | 14.2",
-          "price": 20245,
-          "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
-          "was_price": 37440
-        },
         "/p/apple-macbook-pro-2023-m2-16-2/329758b/": {
           "badge": null,
           "chip": "M2 Pro",
@@ -3158,7 +3147,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-29T19:16:44Z",
+      "checked_at": "2026-10-29T19:31:40Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276578aa/": {
