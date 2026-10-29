@@ -675,17 +675,17 @@
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/302412b/"
     },
     "apple-macbook-pro-2023-m2-16-2|M2 Max|64|512": {
-      "price": 25475,
+      "price": 25419,
       "proof_validation": {
         "chip": "M2 Max",
-        "price": 25475,
+        "price": 25419,
         "ram_gb": 64.0,
-        "sha256": "c39cd92630b7716dda8886ae73c4b8d5ac176c0a5f40e43687113cecd05414cd",
+        "sha256": "3ad151902bfa83b23842e5213081474e8514478c44a3522254caae419d837fef",
         "ssd_gb": 512.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-10-28/25475kr-639acac72b6c01eb.png",
-      "seen_at": "2026-10-28T00:43:17Z",
+      "screenshot": "price-proofs/2026-10-29/25419kr-73cd79f822f24f62.png",
+      "seen_at": "2026-10-29T01:07:33Z",
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/298278c/"
     },
     "apple-macbook-pro-2023-m2-16-2|M2 Max|96|1000": {
@@ -1062,7 +1062,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-29T00:53:13Z",
+      "checked_at": "2026-10-29T01:07:33Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -1190,7 +1190,7 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 10349,
+          "price": 10375,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 55234
@@ -1204,7 +1204,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 12875,
+          "price": 12865,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1866,7 +1866,7 @@
           ],
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 16.2",
-          "price": 25475,
+          "price": 25419,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": 43080
@@ -2161,7 +2161,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 14875,
+          "price": 14859,
           "ram_gb": 8.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2770,7 +2770,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-29T00:46:23Z",
+      "checked_at": "2026-10-29T01:01:17Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -2845,7 +2845,7 @@
           "config": "Apple MacBook Pro 2018 Intel Core i7-8850H 32.0 GB 512 GB 15.4 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2018 | 15.4",
-          "price": 5345,
+          "price": 5339,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 38660
@@ -2867,7 +2867,7 @@
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå FR (Fransk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 13225,
+          "price": 13219,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 29931
@@ -2975,7 +2975,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-29T00:46:33Z",
+      "checked_at": "2026-10-29T01:01:25Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274284/": {
@@ -3061,7 +3061,7 @@
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 10095,
+          "price": 10105,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 12916
@@ -3072,7 +3072,7 @@
           "config": "Mac Pro (2019) - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Pro (2019)",
-          "price": 39155,
+          "price": 39075,
           "ram_gb": 48.0,
           "ssd_gb": 4000.0,
           "was_price": 88381
