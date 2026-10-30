@@ -1108,7 +1108,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-30T10:11:51Z",
+      "checked_at": "2026-10-30T10:26:53Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -1220,25 +1220,26 @@
           "ssd_gb": 512.0,
           "was_price": 22120
         },
-        "/p/apple-mac-mini-2024-m4/273535b/": {
-          "badge": null,
+        "/p/apple-mac-mini-2024-m4/273528/": {
+          "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "discovery_parent_paths": [
-            "/p/apple-mac-mini-2024-m4/273544b/"
+            "/p/apple-mac-mini-2024-m4/273528/"
           ],
           "matched": false,
-          "name": "",
-          "price": 11199,
-          "ram_gb": 16.0,
-          "ssd_gb": 512.0,
-          "was_price": null
+          "name": "Apple Mac Mini 2024 M4",
+          "price": 16755,
+          "ram_gb": 24.0,
+          "ssd_gb": 1000.0,
+          "was_price": 20138
         },
         "/p/apple-mac-mini-2024-m4/273543/": {
           "badge": null,
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "discovery_parent_paths": [
+            "/p/apple-mac-mini-2024-m4/273528/",
             "/p/apple-mac-mini-2024-m4/273544b/"
           ],
           "matched": false,
@@ -1248,19 +1249,19 @@
           "ssd_gb": 1000.0,
           "was_price": null
         },
-        "/p/apple-mac-mini-2024-m4/273544b/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-mac-mini-2024-m4/273549/": {
+          "badge": null,
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "discovery_parent_paths": [
-            "/p/apple-mac-mini-2024-m4/273544b/"
+            "/p/apple-mac-mini-2024-m4/273528/"
           ],
           "matched": false,
-          "name": "Apple Mac Mini 2024 M4",
-          "price": 13419,
-          "ram_gb": 24.0,
-          "ssd_gb": 512.0,
-          "was_price": 16505
+          "name": "",
+          "price": 14359,
+          "ram_gb": 16.0,
+          "ssd_gb": 1000.0,
+          "was_price": null
         },
         "/p/apple-mac-pro-2019/169260c/": {
           "badge": null,
@@ -1582,45 +1583,31 @@
           "ssd_gb": 1000.0,
           "was_price": 55043
         },
-        "/p/apple-macbook-pro-2020-133-tb/22217c/": {
+        "/p/apple-macbook-pro-2020-133-tb/127564b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
+            "/p/apple-macbook-pro-2020-133-tb/127564b/"
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6379,
+          "price": 6939,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 26415
         },
-        "/p/apple-macbook-pro-2020-133-tb/30036c/": {
+        "/p/apple-macbook-pro-2020-133-tb/72574b/": {
           "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 1000 GB 13.3 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
+            "/p/apple-macbook-pro-2020-133-tb/127564b/"
           ],
           "matched": false,
           "name": "",
-          "price": 7529,
+          "price": 10045,
           "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-pro-2020-133-tb/30469c/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 512 GB 13.3 \" rymdgrå DK (Dansk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/22217c/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 8045,
-          "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": null
         },
@@ -3668,7 +3655,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4799,
+          "price": 5045,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": null
@@ -3885,7 +3872,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-30T10:01:36Z",
+      "checked_at": "2026-10-30T10:16:26Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4185,15 +4172,15 @@
           "ssd_gb": 2000.0,
           "was_price": 56144
         },
-        "/p/fair-apple-macbook-air-m2-2022/489537c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/fair-apple-macbook-air-m2-2022/489541b/": {
+          "badge": null,
           "chip": "M2",
-          "config": "FAIR Apple MacBook Air 2022 Apple M2 8.0 GB 512 GB 13.6 \" Midnatt DE (Tysk)",
+          "config": "FAIR Apple MacBook Air 2022 Apple M2 8.0 GB 256 GB 13.6 \" Midnatt SE (Svensk)",
           "matched": false,
           "name": "FAIR Apple MacBook Air 2022 | 13.6",
-          "price": 8855,
+          "price": 12435,
           "ram_gb": 8.0,
-          "ssd_gb": 512.0,
+          "ssd_gb": 256.0,
           "was_price": 20359
         },
         "/p/fair-apple-macbook-pro-2021-m1-14/501627c/": {
@@ -4277,7 +4264,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-30T10:01:44Z",
+      "checked_at": "2026-10-30T10:16:34Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276578aa/": {
