@@ -1136,7 +1136,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-30T19:23:37Z",
+      "checked_at": "2026-10-30T19:38:14Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -2960,7 +2960,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-30T19:16:28Z",
+      "checked_at": "2026-10-30T19:31:28Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -2985,16 +2985,16 @@
           "ssd_gb": 512.0,
           "was_price": 12828
         },
-        "/p/apple-mac-mini-2023-m2-pro/129170/": {
+        "/p/apple-mac-mini-2023-m2-pro/377016/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 23035,
+          "price": 24575,
           "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
-          "was_price": 28302
+          "ssd_gb": 2000.0,
+          "was_price": 27643
         },
         "/p/apple-mac-pro-2019/516601c/": {
           "badge": "Bara ett fåtal kvar",
@@ -3187,7 +3187,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-30T19:16:40Z",
+      "checked_at": "2026-10-30T19:31:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276578aa/": {
