@@ -1145,7 +1145,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-31T22:25:38Z",
+      "checked_at": "2026-10-31T22:41:03Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -3677,7 +3677,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-31T22:17:05Z",
+      "checked_at": "2026-10-31T22:31:32Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4069,7 +4069,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-31T22:17:19Z",
+      "checked_at": "2026-10-31T22:31:45Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473/": {
@@ -4150,12 +4150,12 @@
           "was_price": 22108
         },
         "/p/apple-mac-mini-2024-m4/273548/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 10035,
+          "price": 10055,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 12864
