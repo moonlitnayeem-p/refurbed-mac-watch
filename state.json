@@ -1136,7 +1136,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-31T08:55:44Z",
+      "checked_at": "2026-10-31T09:12:42Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -3443,7 +3443,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4255,
+          "price": 4275,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3639,7 +3639,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4209,
+          "price": 4219,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3925,7 +3925,7 @@
           "was_price": null
         },
         "/p/ipad-pro-12-9-2018/3424b/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
@@ -3982,7 +3982,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-31T08:46:20Z",
+      "checked_at": "2026-10-31T09:01:27Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4374,7 +4374,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-31T08:46:29Z",
+      "checked_at": "2026-10-31T09:01:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276578aa/": {
