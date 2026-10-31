@@ -1136,7 +1136,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-31T04:12:33Z",
+      "checked_at": "2026-10-31T04:27:17Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -3384,7 +3384,7 @@
           "config": "Apple MacBook Pro 2026 M5 Pro 18-Core CPU Apple M5 Pro 18 Core 24.0 GB 1000 GB 16.2 \" rymdsvart DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2026 M5 Pro 18-Core CPU | 20-Core GPU | 16",
-          "price": 32509,
+          "price": 32545,
           "ram_gb": 24.0,
           "ssd_gb": 1000.0,
           "was_price": 37422
@@ -3994,7 +3994,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-31T04:01:23Z",
+      "checked_at": "2026-10-31T04:16:25Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4052,16 +4052,16 @@
           "ssd_gb": 2000.0,
           "was_price": 21458
         },
-        "/p/apple-mac-mini-2023-m2-pro/377016/": {
+        "/p/apple-mac-mini-2023-m2-pro/129170/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 24655,
+          "price": 18765,
           "ram_gb": 32.0,
-          "ssd_gb": 2000.0,
-          "was_price": 27733
+          "ssd_gb": 1000.0,
+          "was_price": 28394
         },
         "/p/apple-mac-mini-2023-m2/100045b/": {
           "badge": "Bara ett fåtal kvar",
@@ -4386,7 +4386,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-31T04:01:34Z",
+      "checked_at": "2026-10-31T04:16:37Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276578aa/": {
