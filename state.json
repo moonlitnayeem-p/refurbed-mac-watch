@@ -1136,7 +1136,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-10-31T11:27:44Z",
+      "checked_at": "2026-10-31T11:42:06Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -1540,7 +1540,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 14705,
+          "price": 14695,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2257,7 +2257,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2271,7 +2271,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2285,7 +2285,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2299,7 +2299,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2313,7 +2313,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2327,7 +2327,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2344,6 +2344,7 @@
           "price": 30069,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m2-16-2/111704c/": {
@@ -2369,7 +2370,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36315,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2383,7 +2384,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2397,7 +2398,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36325,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2411,7 +2412,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30069,
+          "price": 36259,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2568,6 +2569,7 @@
           "price": 30069,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m2-16-2/75335c/": {
@@ -3597,6 +3599,7 @@
           "price": 4915,
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/ipad-air-4/9792c/": {
@@ -3993,7 +3996,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-10-31T11:17:09Z",
+      "checked_at": "2026-10-31T11:31:23Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4385,7 +4388,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-10-31T11:17:21Z",
+      "checked_at": "2026-10-31T11:31:35Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276578aa/": {
