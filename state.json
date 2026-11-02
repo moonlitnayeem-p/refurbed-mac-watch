@@ -1145,7 +1145,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-02T09:39:36Z",
+      "checked_at": "2026-11-02T09:54:53Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -1341,21 +1341,6 @@
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 32751
-        },
-        "/p/apple-mac-studio-2022-m1-max/289046aa/": {
-          "badge": null,
-          "chip": "M1 Max",
-          "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
-          "discovery_parent_paths": [
-            "/p/apple-mac-studio-2022-m1-max/289046/",
-            "/p/apple-mac-studio-2022-m1-max/289046aa/"
-          ],
-          "matched": true,
-          "name": "",
-          "price": 30979,
-          "ram_gb": 64.0,
-          "ssd_gb": 1000.0,
-          "was_price": null
         },
         "/p/apple-mac-studio-2022-m1-max/72461/": {
           "badge": null,
@@ -1661,7 +1646,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 8375,
+          "price": 8369,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1689,7 +1674,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 12769,
+          "price": 13719,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3286,7 +3271,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-02T09:31:22Z",
+      "checked_at": "2026-11-02T09:46:36Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3667,7 +3652,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-02T09:31:36Z",
+      "checked_at": "2026-11-02T09:46:49Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
@@ -3764,7 +3749,7 @@
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 10398,
+          "price": 9746,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 10398
