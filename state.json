@@ -1145,7 +1145,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-02T13:09:54Z",
+      "checked_at": "2026-11-02T13:25:09Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -2833,6 +2833,7 @@
           "price": 4455,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/ipad-9-2021/14236/": {
@@ -3340,7 +3341,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-02T13:01:27Z",
+      "checked_at": "2026-11-02T13:16:52Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3563,13 +3564,13 @@
           "ssd_gb": 512.0,
           "was_price": 37166
         },
-        "/p/apple-macbook-pro-2023-m3-14/329787b/": {
+        "/p/apple-macbook-pro-2023-m3-14/329796aa/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M3 Pro",
-          "config": "Apple MacBook Pro 2023 M3 Apple M3 Pro 12 Core 36.0 GB 2000 GB 14.2 \" rymdsvart SE (Svensk)",
+          "config": "Apple MacBook Pro 2023 M3 Apple M3 Pro 12 Core 36.0 GB 2000 GB 14.2 \" rymdsvart CZ (Tjeckiska)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M3 | 14.2",
-          "price": 31799,
+          "price": 29635,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 40228
@@ -3710,7 +3711,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-02T13:01:43Z",
+      "checked_at": "2026-11-02T13:17:01Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
