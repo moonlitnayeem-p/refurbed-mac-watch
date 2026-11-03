@@ -239,18 +239,18 @@
       "url": "https://www.refurbed.se/p/apple-mac-studio-2025-m4-max/309740b/"
     },
     "apple-mac-studio-2025-m4-max|M4 Max|64|1000": {
-      "price": 45115,
+      "price": 27515,
       "proof_validation": {
         "chip": "M4 Max",
-        "price": 45115,
+        "price": 27515,
         "ram_gb": 64.0,
-        "sha256": "b56ed6efc8a0cbdb4f46128534b43053a22548ae4c82e9b74e6c1b9759513f65",
+        "sha256": "98908ee897fa250c340ba60a7877d1e5b9f624029b63498d676ea232cc97fa6b",
         "ssd_gb": 1000.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-11-03/45115kr-ec82c52c7ec14c49.png",
-      "seen_at": "2026-11-03T07:06:29Z",
-      "url": "https://www.refurbed.se/p/apple-mac-studio-2025-m4-max/309757/"
+      "screenshot": "price-proofs/2026-11-03/27515kr-3dd2acc9e20d924f.png",
+      "seen_at": "2026-11-03T16:10:56Z",
+      "url": "https://www.refurbed.se/p/apple-mac-studio-2025-m4-max/309757b/"
     },
     "apple-macbook-air-15-m5-2026|M5|32|1000": {
       "price": 22175,
@@ -1159,7 +1159,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-03T15:57:30Z",
+      "checked_at": "2026-11-03T16:10:56Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273878/": {
@@ -1171,7 +1171,7 @@
           ],
           "matched": false,
           "name": "Apple iMac 2024 M4 10 Core | 24",
-          "price": 25399,
+          "price": 25655,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 26711
@@ -3390,7 +3390,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 11.0",
-          "price": 4149,
+          "price": 4119,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 9626
@@ -3463,7 +3463,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-03T15:47:42Z",
+      "checked_at": "2026-11-03T16:01:49Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3554,7 +3554,7 @@
           "ssd_gb": 2000.0,
           "was_price": 22440
         },
-        "/p/apple-mac-pro-2019/47534/": {
+        "/p/apple-mac-pro-2019/47540/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Mac Pro (2019) - Rekonditionerad Stationär Dator",
@@ -3802,7 +3802,7 @@
           "config": "Apple iPad 8 (2020) 32 GB 10.2 \" silver 3.0 GB",
           "matched": false,
           "name": "iPad 8 (2020) | 10.2",
-          "price": 1479,
+          "price": 1485,
           "ram_gb": 32.0,
           "ssd_gb": 3.0,
           "was_price": 3931
@@ -3855,7 +3855,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-03T15:48:02Z",
+      "checked_at": "2026-11-03T16:01:58Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
@@ -3875,7 +3875,7 @@
           "config": "Apple iMac 2024 M4 10 Core – Kraftfull stationär dator",
           "matched": false,
           "name": "Apple iMac 2024 M4 10 Core | 24",
-          "price": 25399,
+          "price": 25655,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 26711
