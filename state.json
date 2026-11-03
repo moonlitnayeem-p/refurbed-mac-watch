@@ -1159,7 +1159,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-03T10:26:33Z",
+      "checked_at": "2026-11-03T10:42:43Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274435aa/": {
@@ -1583,16 +1583,16 @@
           "ssd_gb": 512.0,
           "was_price": 18604
         },
-        "/p/apple-macbook-air-m4-2025/308466b/": {
+        "/p/apple-macbook-air-m4-2025/308407c/": {
           "badge": null,
           "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 1000 GB 13.6 \" himmelsblå UK (UK-engelska)",
+          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 1000 GB 13.6 \" himmelsblå SE (Svensk)",
           "discovery_parent_paths": [
             "/p/apple-macbook-air-m4-2025/308167c/"
           ],
           "matched": false,
           "name": "",
-          "price": 23599,
+          "price": 23099,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1816,7 +1816,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 17369,
+          "price": 13865,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2989,7 +2989,35 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4285,
+          "price": 4499,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
+        "/p/ipad-10-10-9-2022/73274/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad 10 (2022) 64 GB 10.9 \" rosa 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-10-10-9-2022/73274c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4545,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
+        "/p/ipad-10-10-9-2022/73274b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad 10 (2022) 64 GB 10.9 \" rosa 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-10-10-9-2022/73274c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4545,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3496,7 +3524,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-03T10:17:15Z",
+      "checked_at": "2026-11-03T10:31:37Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3521,13 +3549,13 @@
           "ssd_gb": 1000.0,
           "was_price": 35467
         },
-        "/p/apple-ipad-2017/954c/": {
+        "/p/apple-ipad-2017/953c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple iPad 5 (2017) 32 GB 9.7 \" grå 2.0 GB",
           "matched": false,
           "name": "iPad 5 (2017) | 9.7",
-          "price": 4150,
+          "price": 3821,
           "ram_gb": 32.0,
           "ssd_gb": 2.0,
           "was_price": null
@@ -3620,13 +3648,13 @@
           "ssd_gb": 2000.0,
           "was_price": 28131
         },
-        "/p/apple-macbook-air-m4-2025/308391b/": {
+        "/p/apple-macbook-air-m4-2025/308407c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 1000 GB 13.6 \" Midnatt SE (Svensk)",
+          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 1000 GB 13.6 \" himmelsblå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Air 2025 | 13.6",
-          "price": 23599,
+          "price": 23099,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 24079
@@ -3888,7 +3916,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-03T10:17:59Z",
+      "checked_at": "2026-11-03T10:31:46Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
