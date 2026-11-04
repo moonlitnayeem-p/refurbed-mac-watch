@@ -1187,7 +1187,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-04T23:25:42Z",
+      "checked_at": "2026-11-04T23:40:59Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273878/": {
@@ -3699,7 +3699,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-04T23:16:31Z",
+      "checked_at": "2026-11-04T23:31:28Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3725,7 +3725,7 @@
           "was_price": 35535
         },
         "/p/apple-ipad-2017/953b/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple iPad 5 (2017) 32 GB 9.7 \" grå 2.0 GB",
           "matched": false,
@@ -4091,7 +4091,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-04T23:16:39Z",
+      "checked_at": "2026-11-04T23:31:38Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
