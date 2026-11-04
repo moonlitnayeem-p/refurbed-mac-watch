@@ -1173,7 +1173,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-04T16:38:10Z",
+      "checked_at": "2026-11-04T16:52:50Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -1455,7 +1455,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 16989,
+          "price": 16769,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1583,6 +1583,20 @@
           "name": "",
           "price": 17405,
           "ram_gb": 16.0,
+          "ssd_gb": 1000.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-16-2/74785/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 32.0 GB 1000 GB 16.2 \" rymdgrå SE (Svensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-16-2/102081/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 19925,
+          "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
         },
@@ -2773,7 +2787,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-04T16:31:30Z",
+      "checked_at": "2026-11-04T16:46:29Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60462b/": {
@@ -3011,7 +3025,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-04T16:31:38Z",
+      "checked_at": "2026-11-04T16:46:38Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
