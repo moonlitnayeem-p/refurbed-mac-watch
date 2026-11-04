@@ -1187,7 +1187,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-04T23:10:54Z",
+      "checked_at": "2026-11-04T23:25:42Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273878/": {
@@ -1637,40 +1637,26 @@
           "ssd_gb": 1000.0,
           "was_price": 54844
         },
-        "/p/apple-macbook-pro-2020-133-tb/127564/": {
+        "/p/apple-macbook-pro-2020-133-tb/21584c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 16.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i5-1038NG7 16.0 GB 512 GB 13.3 \" rymdgrå DK (Dansk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/127564/"
+            "/p/apple-macbook-pro-2020-133-tb/21584c/"
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6015,
+          "price": 5975,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
-          "was_price": 26319
+          "was_price": 24125
         },
-        "/p/apple-macbook-pro-2020-133-tb/30468b/": {
+        "/p/apple-macbook-pro-2020-133-tb/72572b/": {
           "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i5-8257U 8.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå DK (Dansk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/127564/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 8125,
-          "ram_gb": 8.0,
-          "ssd_gb": 512.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-pro-2020-133-tb/72574b/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2020-133-tb/127564/"
+            "/p/apple-macbook-pro-2020-133-tb/21584c/"
           ],
           "matched": false,
           "name": "",
@@ -3713,7 +3699,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-04T23:02:00Z",
+      "checked_at": "2026-11-04T23:16:31Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3777,7 +3763,7 @@
           "config": "Mac Mini 2023 M2 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2023 M2",
-          "price": 6449,
+          "price": 6695,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
           "was_price": 9314
@@ -4079,16 +4065,16 @@
           "ssd_gb": 2.0,
           "was_price": 8217
         },
-        "/p/macbook-pro-2019-133-tb/88927c/": {
+        "/p/macbook-pro-2019-133-tb/6461c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 16.0 GB 256 GB 13.3 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 128 GB 13.3 \" silver DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
-          "price": 4445,
-          "ram_gb": 16.0,
-          "ssd_gb": 256.0,
-          "was_price": 17542
+          "price": 5085,
+          "ram_gb": 8.0,
+          "ssd_gb": 128.0,
+          "was_price": 15348
         },
         "/p/macbook-pro-2019-154-tb/73643b/": {
           "badge": "Bara ett fåtal kvar",
@@ -4105,7 +4091,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-04T23:02:07Z",
+      "checked_at": "2026-11-04T23:16:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
