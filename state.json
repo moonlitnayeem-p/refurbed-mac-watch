@@ -1187,7 +1187,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-05T09:26:16Z",
+      "checked_at": "2026-11-05T09:42:22Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273878/": {
@@ -3759,7 +3759,8 @@
           "config": "Apple iPad Pro (2018) 1000 GB 12.9 \" rymdgrå 6.0 GB",
           "discovery_parent_paths": [
             "/p/ipad-pro-12-9-2018/3423b/",
-            "/p/ipad-pro-12-9-2018/3424/"
+            "/p/ipad-pro-12-9-2018/3424/",
+            "/p/ipad-pro-12-9-2018/3424c/"
           ],
           "matched": false,
           "name": "",
@@ -3769,43 +3770,72 @@
           "was_price": null
         },
         "/p/ipad-pro-12-9-2018/3424/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "",
           "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-pro-12-9-2018/3424/"
+            "/p/ipad-pro-12-9-2018/3424/",
+            "/p/ipad-pro-12-9-2018/3424c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4995,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
+        "/p/ipad-pro-12-9-2018/3424b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-pro-12-9-2018/3424c/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 4869,
+          "ram_gb": 64.0,
+          "ssd_gb": 4.0,
+          "was_price": null
+        },
+        "/p/ipad-pro-12-9-2018/3424c/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
+          "discovery_parent_paths": [
+            "/p/ipad-pro-12-9-2018/3424c/"
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 12.9",
-          "price": 4655,
+          "price": 4765,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 13875
         },
-        "/p/ipad-pro-12-9-2018/3425/": {
+        "/p/ipad-pro-12-9-2018/3425c/": {
           "badge": null,
           "chip": "",
           "config": "Apple iPad Pro (2018) 256 GB 12.9 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-pro-12-9-2018/3424/"
+            "/p/ipad-pro-12-9-2018/3424c/"
           ],
           "matched": false,
           "name": "",
-          "price": 5825,
+          "price": 5525,
           "ram_gb": 256.0,
           "ssd_gb": 4.0,
           "was_price": null
         },
-        "/p/ipad-pro-12-9-2018/3432/": {
+        "/p/ipad-pro-12-9-2018/3432c/": {
           "badge": null,
           "chip": "",
           "config": "Apple iPad Pro (2018) 64 GB 12.9 \" silver 4.0 GB",
           "discovery_parent_paths": [
-            "/p/ipad-pro-12-9-2018/3424/"
+            "/p/ipad-pro-12-9-2018/3424c/"
           ],
           "matched": false,
           "name": "",
-          "price": 6045,
+          "price": 5589,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3825,7 +3855,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-05T09:16:24Z",
+      "checked_at": "2026-11-05T09:31:33Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4065,7 +4095,7 @@
           "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 12 Core 32.0 GB 1000 GB 14.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 14.2",
-          "price": 20575,
+          "price": 22415,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 37384
@@ -4228,7 +4258,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-05T09:16:32Z",
+      "checked_at": "2026-11-05T09:31:41Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
