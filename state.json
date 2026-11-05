@@ -1187,7 +1187,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-05T08:13:23Z",
+      "checked_at": "2026-11-05T08:26:23Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273878/": {
@@ -1384,7 +1384,7 @@
           "ssd_gb": 512.0,
           "was_price": null
         },
-        "/p/apple-mac-studio-2025-m4-max/309740aa/": {
+        "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": null,
           "chip": "M4 Max",
           "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
@@ -1393,7 +1393,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 32795,
+          "price": 28965,
           "ram_gb": 36.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1699,7 +1699,7 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 5955,
+          "price": 6169,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": 24044
@@ -3454,7 +3454,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2455,
+          "price": 2465,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -3825,7 +3825,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-05T08:02:11Z",
+      "checked_at": "2026-11-05T08:16:31Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3959,6 +3959,17 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 26231
+        },
+        "/p/apple-mac-studio-2025-m4-max/309740/": {
+          "badge": null,
+          "chip": "M4 Max",
+          "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
+          "matched": true,
+          "name": "Apple Mac Studio 2025 M4 Max",
+          "price": 28965,
+          "ram_gb": 36.0,
+          "ssd_gb": 512.0,
+          "was_price": 32792
         },
         "/p/apple-macbook-air-m2-2022/279269aa/": {
           "badge": "Bara ett fåtal kvar",
@@ -4191,17 +4202,6 @@
           "ssd_gb": 3.0,
           "was_price": 3925
         },
-        "/p/ipad-pro-9-7-2016/130b/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "",
-          "config": "Apple iPad Pro (2016) 32 GB 9.7 \" rymdgrå 2.0 GB",
-          "matched": false,
-          "name": "iPad Pro (2016) | 9.7",
-          "price": 2265,
-          "ram_gb": 32.0,
-          "ssd_gb": 2.0,
-          "was_price": 8189
-        },
         "/p/macbook-pro-2019-133-tb/6461c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
@@ -4228,7 +4228,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-05T08:02:20Z",
+      "checked_at": "2026-11-05T08:16:45Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
@@ -4286,13 +4286,13 @@
           "ssd_gb": 256.0,
           "was_price": 13110
         },
-        "/p/apple-mac-mini-2020-m1/11605/": {
+        "/p/apple-mac-mini-2020-m1/11605b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M1",
           "config": "Mac Mini 2020 M1 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2020 M1",
-          "price": 7315,
+          "price": 5175,
           "ram_gb": 8.0,
           "ssd_gb": 256.0,
           "was_price": 8736
@@ -4385,16 +4385,16 @@
           "ssd_gb": 512.0,
           "was_price": 26231
         },
-        "/p/apple-mac-studio-2025-m4-max/309757/": {
+        "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": null,
           "chip": "M4 Max",
           "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
           "matched": true,
           "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 45045,
-          "ram_gb": 64.0,
-          "ssd_gb": 1000.0,
-          "was_price": 48428
+          "price": 28965,
+          "ram_gb": 36.0,
+          "ssd_gb": 512.0,
+          "was_price": 32792
         },
         "/p/apple-macbook-pro-2026-m5-max-18-32-14/421449aa/": {
           "badge": "Bara ett fåtal kvar",
