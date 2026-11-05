@@ -210,6 +210,20 @@
       "seen_at": "2026-10-29T11:38:57Z",
       "url": "https://www.refurbed.se/p/apple-mac-studio-2023-m2-max/170159/"
     },
+    "apple-mac-studio-2023-m2-max|M2 Max|64|2000": {
+      "price": 29299,
+      "proof_validation": {
+        "chip": "M2 Max",
+        "price": 29299,
+        "ram_gb": 64.0,
+        "sha256": "851d0eb349f01fe431ee5f36d6bb60dea8704ddc4efc9a48826c5ea340e041b6",
+        "ssd_gb": 2000.0,
+        "version": 1
+      },
+      "screenshot": "price-proofs/2026-11-05/29299kr-3820211114786eed.png",
+      "seen_at": "2026-11-05T14:52:31Z",
+      "url": "https://www.refurbed.se/p/apple-mac-studio-2023-m2-max/170169b/"
+    },
     "apple-mac-studio-2023-m2-ultra|M2 Ultra|64|1000": {
       "price": 41799,
       "proof_validation": {
@@ -1201,7 +1215,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-05T14:38:11Z",
+      "checked_at": "2026-11-05T14:52:31Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -1305,6 +1319,34 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
+        },
+        "/p/apple-mac-studio-2023-m2-max/170159b/": {
+          "badge": null,
+          "chip": "M2 Max",
+          "config": "Mac Studio 2023 M2 Max - Rekonditionerad Apple Dator",
+          "discovery_parent_paths": [
+            "/p/apple-mac-studio-2023-m2-max/170169b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 26019,
+          "ram_gb": 32.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-mac-studio-2023-m2-max/170169b/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M2 Max",
+          "config": "Mac Studio 2023 M2 Max - Rekonditionerad Apple Dator",
+          "discovery_parent_paths": [
+            "/p/apple-mac-studio-2023-m2-max/170169b/"
+          ],
+          "matched": true,
+          "name": "Apple Mac Studio 2023 M2 Max",
+          "price": 29299,
+          "ram_gb": 64.0,
+          "ssd_gb": 2000.0,
+          "was_price": 41442
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": null,
@@ -2850,7 +2892,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-05T14:31:26Z",
+      "checked_at": "2026-11-05T14:46:24Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60462b/": {
@@ -2885,17 +2927,6 @@
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 28282
-        },
-        "/p/apple-mac-mini-2024-m4/273541b/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M4",
-          "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
-          "matched": true,
-          "name": "Apple Mac Mini 2024 M4",
-          "price": 11899,
-          "ram_gb": 32.0,
-          "ssd_gb": 256.0,
-          "was_price": 12710
         },
         "/p/apple-mac-pro-2019/47540/": {
           "badge": "Bara ett fåtal kvar",
@@ -3121,7 +3152,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-05T14:31:35Z",
+      "checked_at": "2026-11-05T14:46:33Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
