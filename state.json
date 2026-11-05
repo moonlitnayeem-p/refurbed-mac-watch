@@ -1215,7 +1215,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-05T23:12:09Z",
+      "checked_at": "2026-11-05T23:41:19Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273869/": {
@@ -1316,16 +1316,16 @@
           "ssd_gb": 512.0,
           "was_price": 29708
         },
-        "/p/apple-mac-mini-2024-m4-pro/273552b/": {
+        "/p/apple-mac-mini-2024-m4-pro/273551/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Mac Mini 2024 M4 Pro - Apple Stationär Dator med 10 Kärnor",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4 Pro",
-          "price": 16835,
+          "price": 17539,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
-          "was_price": 22031
+          "was_price": 20825
         },
         "/p/apple-mac-mini-2024-m4/273528b/": {
           "badge": null,
@@ -3729,7 +3729,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-05T23:02:10Z",
+      "checked_at": "2026-11-05T23:31:36Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3798,16 +3798,16 @@
           "ssd_gb": 256.0,
           "was_price": 9310
         },
-        "/p/apple-mac-mini-2024-m4-pro/273552b/": {
+        "/p/apple-mac-mini-2024-m4-pro/273551/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Mac Mini 2024 M4 Pro - Apple Stationär Dator med 10 Kärnor",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4 Pro",
-          "price": 16835,
+          "price": 17539,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
-          "was_price": 22031
+          "was_price": 20825
         },
         "/p/apple-mac-mini-2024-m4/273534b/": {
           "badge": null,
@@ -4132,7 +4132,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-05T23:02:19Z",
+      "checked_at": "2026-11-05T23:31:44Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
