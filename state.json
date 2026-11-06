@@ -1215,7 +1215,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-06T09:26:04Z",
+      "checked_at": "2026-11-06T09:40:28Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273869/": {
@@ -1492,7 +1492,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 11179,
+          "price": 10735,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3078,7 +3078,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4005,
+          "price": 4245,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3378,7 +3378,7 @@
           "was_price": null
         },
         "/p/ipad-air-5/21665c/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "M1",
           "config": "Apple iPad Air (2022) 64 GB 10.9 \" blå 8.0 GB",
           "discovery_parent_paths": [
@@ -3645,7 +3645,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-06T09:17:13Z",
+      "checked_at": "2026-11-06T09:31:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3896,7 +3896,7 @@
           "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 12 Core 32.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 16.2",
-          "price": 37441,
+          "price": 21744,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 37441
@@ -4048,7 +4048,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-06T09:17:22Z",
+      "checked_at": "2026-11-06T09:31:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/293959aa/": {
@@ -4068,7 +4068,7 @@
           "config": "Apple iMac 2024 M4 10 Core – Kraftfull stationär dator",
           "matched": false,
           "name": "Apple iMac 2024 M4 10 Core | 24",
-          "price": 18685,
+          "price": 19829,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 22019
