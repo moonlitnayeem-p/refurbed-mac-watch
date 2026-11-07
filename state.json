@@ -1215,7 +1215,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-07T22:56:24Z",
+      "checked_at": "2026-11-07T23:09:34Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273869/": {
@@ -3762,7 +3762,7 @@
           "was_price": null
         },
         "/p/ipad-pro-12-9-2018/3424b/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "Apple iPad Pro (2018) 64 GB 12.9 \" rymdgrå 4.0 GB",
           "discovery_parent_paths": [
@@ -3770,7 +3770,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 12.9",
-          "price": 4775,
+          "price": 4525,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 13995
@@ -3804,7 +3804,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-07T22:47:04Z",
+      "checked_at": "2026-11-07T23:01:23Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4170,13 +4170,13 @@
           "ssd_gb": 3.0,
           "was_price": 3959
         },
-        "/p/macbook-pro-2019-133-tb/12197c/": {
+        "/p/macbook-pro-2019-133-tb/6461c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 128 GB 13.3 \" rymdgrå UK (UK-engelska)",
+          "config": "Apple MacBook Pro 2019 Intel Core i5-8257U 8.0 GB 128 GB 13.3 \" silver DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 13.3",
-          "price": 4625,
+          "price": 5115,
           "ram_gb": 8.0,
           "ssd_gb": 128.0,
           "was_price": 15429
@@ -4196,7 +4196,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-07T22:47:12Z",
+      "checked_at": "2026-11-07T23:01:31Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274329/": {
