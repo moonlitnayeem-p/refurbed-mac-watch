@@ -1215,7 +1215,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-09T09:26:41Z",
+      "checked_at": "2026-11-09T09:40:31Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273855/": {
@@ -3304,7 +3304,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4679,
+          "price": 4255,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3318,7 +3318,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4295,
+          "price": 4255,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -3332,7 +3332,7 @@
           ],
           "matched": false,
           "name": "iPad 10 (2022) | 10.9",
-          "price": 3989,
+          "price": 4645,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 4731
@@ -3584,7 +3584,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2022) | 10.9",
-          "price": 5755,
+          "price": 4525,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": 8480
@@ -3785,21 +3785,6 @@
           "ssd_gb": 64.0,
           "was_price": 9914
         },
-        "/p/ipad-pro-12-9-2018/3423b/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple iPad Pro (2018) 1000 GB 12.9 \" rymdgrå 6.0 GB",
-          "discovery_parent_paths": [
-            "/p/ipad-pro-12-9-2018/3423b/",
-            "/p/ipad-pro-12-9-2018/3424b/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 6055,
-          "ram_gb": 1000.0,
-          "ssd_gb": 6.0,
-          "was_price": null
-        },
         "/p/ipad-pro-12-9-2018/3424/": {
           "badge": null,
           "chip": "",
@@ -3857,7 +3842,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-09T09:17:10Z",
+      "checked_at": "2026-11-09T09:32:11Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4260,7 +4245,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-09T09:17:18Z",
+      "checked_at": "2026-11-09T09:32:19Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274329/": {
