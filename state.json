@@ -1215,7 +1215,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-09T10:07:18Z",
+      "checked_at": "2026-11-09T10:22:15Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-mac-mini-2018/109949c/": {
@@ -2870,7 +2870,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-09T10:01:30Z",
+      "checked_at": "2026-11-09T10:16:56Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60245/": {
@@ -2883,6 +2883,17 @@
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 26456
+        },
+        "/p/apple-imac-5k-2019-27/60462b/": {
+          "badge": null,
+          "chip": "",
+          "config": "iMac 5K 2019 27\" - Rekonditionerad Apple Dator",
+          "matched": false,
+          "name": "Apple iMac 5K 2019 | 27",
+          "price": 17815,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": 35720
         },
         "/p/apple-mac-mini-2018/47497c/": {
           "badge": "Bara ett fåtal kvar",
@@ -2993,6 +3004,17 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35279
+        },
+        "/p/apple-macbook-pro-2020-133-tb/72574c/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
+          "matched": false,
+          "name": "Apple MacBook Pro 2020 | 13.3",
+          "price": 6939,
+          "ram_gb": 32.0,
+          "ssd_gb": 512.0,
+          "was_price": 27559
         },
         "/p/apple-macbook-pro-2021-m1-14/92947c/": {
           "badge": "Bästsäljare",
@@ -3119,7 +3141,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-09T10:01:38Z",
+      "checked_at": "2026-11-09T10:17:04Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274329/": {
