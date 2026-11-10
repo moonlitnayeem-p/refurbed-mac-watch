@@ -1243,7 +1243,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-10T16:26:09Z",
+      "checked_at": "2026-11-10T16:41:39Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273831aa/": {
@@ -3862,7 +3862,7 @@
           ],
           "matched": false,
           "name": "iPad Air (2022) | 10.9",
-          "price": 4439,
+          "price": 4819,
           "ram_gb": 64.0,
           "ssd_gb": 8.0,
           "was_price": 8444
@@ -3974,7 +3974,7 @@
           ],
           "matched": false,
           "name": "iPad Pro (2018) | 11.0",
-          "price": 3799,
+          "price": 3835,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": 11519
@@ -4079,7 +4079,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-10T16:17:04Z",
+      "checked_at": "2026-11-10T16:31:44Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4181,13 +4181,13 @@
           "ssd_gb": 512.0,
           "was_price": 20853
         },
-        "/p/apple-mac-mini-2024-m4/273534/": {
-          "badge": null,
+        "/p/apple-mac-mini-2024-m4/273534b/": {
+          "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 18755,
+          "price": 17085,
           "ram_gb": 16.0,
           "ssd_gb": 2000.0,
           "was_price": 22501
@@ -4493,7 +4493,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-10T16:17:11Z",
+      "checked_at": "2026-11-10T16:31:53Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
@@ -4585,12 +4585,12 @@
           "was_price": 20853
         },
         "/p/apple-mac-mini-2024-m4/273542/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 8105,
+          "price": 8995,
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 10421
