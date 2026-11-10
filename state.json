@@ -1,5 +1,19 @@
 {
   "price_lows": {
+    "apple-imac-2024-m4-10core|M4|32|2000": {
+      "price": 30019,
+      "proof_validation": {
+        "chip": "M4",
+        "price": 30019,
+        "ram_gb": 32.0,
+        "sha256": "9cd79f8dabc4b57656474cdb235d780c407ad599e7c4bf9a4ebdffdf2744c367",
+        "ssd_gb": 2000.0,
+        "version": 1
+      },
+      "screenshot": "price-proofs/2026-11-10/30019kr-b3140c2f1915ce4b.png",
+      "seen_at": "2026-11-10T05:40:44Z",
+      "url": "https://www.refurbed.se/p/apple-imac-2024-m4-10core/275253/"
+    },
     "apple-mac-mini-2023-m2-pro|M2 Pro|32|1000": {
       "price": 16515,
       "proof_validation": {
@@ -1215,7 +1229,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-10T05:27:07Z",
+      "checked_at": "2026-11-10T05:40:44Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273855/": {
@@ -1244,6 +1258,20 @@
           "price": 22155,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-imac-2024-m4-10core/275251/": {
+          "badge": null,
+          "chip": "M4",
+          "config": "Apple iMac 2024 M4 10 Core – Kraftfull stationär dator",
+          "discovery_parent_paths": [
+            "/p/apple-imac-2024-m4-10core/273855/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 30019,
+          "ram_gb": 32.0,
+          "ssd_gb": 2000.0,
           "was_price": null
         },
         "/p/apple-imac-2024-m4-8core/278934aa/": {
@@ -1395,7 +1423,7 @@
           "ssd_gb": 1000.0,
           "was_price": 32875
         },
-        "/p/apple-mac-studio-2022-m1-max/72461/": {
+        "/p/apple-mac-studio-2022-m1-max/65251/": {
           "badge": null,
           "chip": "M1 Max",
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
@@ -1404,9 +1432,9 @@
           ],
           "matched": false,
           "name": "",
-          "price": 18229,
+          "price": 15005,
           "ram_gb": 32.0,
-          "ssd_gb": 512.0,
+          "ssd_gb": 1000.0,
           "was_price": null
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
@@ -3877,7 +3905,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-10T05:17:08Z",
+      "checked_at": "2026-11-10T05:31:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -3891,16 +3919,16 @@
           "ssd_gb": 2000.0,
           "was_price": 26386
         },
-        "/p/apple-imac-2024-m4-10core/274184/": {
-          "badge": null,
+        "/p/apple-imac-2024-m4-10core/275253/": {
+          "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Apple iMac 2024 M4 10 Core – Kraftfull stationär dator",
-          "matched": false,
+          "matched": true,
           "name": "Apple iMac 2024 M4 10 Core | 24",
-          "price": 29155,
-          "ram_gb": 24.0,
+          "price": 30019,
+          "ram_gb": 32.0,
           "ssd_gb": 2000.0,
-          "was_price": 36505
+          "was_price": 38924
         },
         "/p/apple-imac-5k-2019-27/60462b/": {
           "badge": null,
@@ -4291,7 +4319,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-10T05:17:19Z",
+      "checked_at": "2026-11-10T05:31:43Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/274329/": {
@@ -4403,6 +4431,17 @@
           "ram_gb": 48.0,
           "ssd_gb": 4000.0,
           "was_price": 87979
+        },
+        "/p/apple-mac-studio-2022-m1-max/65251/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M1 Max",
+          "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
+          "matched": true,
+          "name": "Apple Mac Studio 2022 M1 Max",
+          "price": 15005,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": 27816
         },
         "/p/apple-mac-studio-2022-m1-max/72461/": {
           "badge": "Bara ett fåtal kvar",
