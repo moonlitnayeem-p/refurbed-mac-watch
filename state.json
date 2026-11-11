@@ -197,18 +197,18 @@
       "url": "https://www.refurbed.se/p/apple-mac-studio-2022-m1-ultra/73532b/"
     },
     "apple-mac-studio-2023-m2-max|M2 Max|32|1000": {
-      "price": 17105,
+      "price": 14495,
       "proof_validation": {
         "chip": "M2 Max",
-        "price": 17105,
+        "price": 14495,
         "ram_gb": 32.0,
-        "sha256": "9c054dab3c856a869682091ac1e14f3334eeb14b3f05922e7dbc665ff1fd58fb",
+        "sha256": "0c820364596818f4e49c5226db12628a3b03dc63022111f7817bbe54febeb037",
         "ssd_gb": 1000.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-11-10/17105kr-b87b9ae689b7e23b.png",
-      "seen_at": "2026-11-10T17:07:37Z",
-      "url": "https://www.refurbed.se/p/apple-mac-studio-2023-m2-max/170160c/"
+      "screenshot": "price-proofs/2026-11-11/14495kr-63668c929e2230cb.png",
+      "seen_at": "2026-11-11T16:37:21Z",
+      "url": "https://www.refurbed.se/p/apple-mac-studio-2023-m2-max/170160aa/"
     },
     "apple-mac-studio-2023-m2-max|M2 Max|32|2000": {
       "price": 24525,
@@ -1271,7 +1271,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-11T16:22:27Z",
+      "checked_at": "2026-11-11T16:37:21Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2882,7 +2882,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-11T16:16:26Z",
+      "checked_at": "2026-11-11T16:31:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3006,16 +3006,16 @@
           "ssd_gb": 512.0,
           "was_price": 38654
         },
-        "/p/apple-macbook-pro-2019-16/26374c/": {
-          "badge": null,
+        "/p/apple-macbook-pro-2019-16/27150c/": {
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9980HK 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå UK (UK-engelska)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 6829,
+          "price": 6029,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 39759
+          "was_price": 35340
         },
         "/p/apple-macbook-pro-2020-133-tb/97271b/": {
           "badge": null,
@@ -3164,7 +3164,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-11T16:16:38Z",
+      "checked_at": "2026-11-11T16:31:45Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
@@ -3298,6 +3298,17 @@
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 26502
+        },
+        "/p/apple-mac-studio-2023-m2-max/170160aa/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M2 Max",
+          "config": "Mac Studio 2023 M2 Max - Rekonditionerad Apple Dator",
+          "matched": true,
+          "name": "Apple Mac Studio 2023 M2 Max",
+          "price": 14495,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": 29043
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": null,
