@@ -1271,7 +1271,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-11T04:13:16Z",
+      "checked_at": "2026-11-11T04:26:32Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/273831aa/": {
@@ -1685,7 +1685,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 16315,
+          "price": 16265,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2302,7 +2302,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 13349,
+          "price": 13399,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3752,7 +3752,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 2695,
+          "price": 2705,
           "ram_gb": 64.0,
           "ssd_gb": 3.0,
           "was_price": null
@@ -4046,7 +4046,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4149,
+          "price": 4195,
           "ram_gb": 64.0,
           "ssd_gb": 4.0,
           "was_price": null
@@ -4179,7 +4179,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-11T04:02:15Z",
+      "checked_at": "2026-11-11T04:16:26Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2021-m1-24/95401b/": {
@@ -4496,7 +4496,7 @@
           "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" rymdsvart US (US-engelska)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 14",
-          "price": 42195,
+          "price": 43269,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 52889
@@ -4507,7 +4507,7 @@
           "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 16.2 \" rymdsvart DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 16",
-          "price": 47525,
+          "price": 48865,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 56195
@@ -4593,7 +4593,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-11T04:02:24Z",
+      "checked_at": "2026-11-11T04:16:34Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
@@ -4756,7 +4756,7 @@
           "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" rymdsvart US (US-engelska)",
           "matched": false,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 14",
-          "price": 42195,
+          "price": 43269,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 52889
