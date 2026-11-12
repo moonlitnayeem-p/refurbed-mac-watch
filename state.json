@@ -1271,7 +1271,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-12T18:36:40Z",
+      "checked_at": "2026-11-12T18:51:29Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1466,7 +1466,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 6799,
+          "price": 6785,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1495,7 +1495,7 @@
           ],
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 11609,
+          "price": 11165,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 55217
@@ -1510,7 +1510,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 11609,
+          "price": 11165,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2649,7 +2649,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-12T18:31:30Z",
+      "checked_at": "2026-11-12T18:46:24Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -2779,7 +2779,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 6009,
+          "price": 5995,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35335
@@ -2812,7 +2812,7 @@
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 15055,
+          "price": 14505,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35335
@@ -2920,7 +2920,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-12T18:31:42Z",
+      "checked_at": "2026-11-12T18:46:36Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
