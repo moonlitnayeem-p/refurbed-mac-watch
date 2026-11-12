@@ -1271,7 +1271,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-12T21:06:14Z",
+      "checked_at": "2026-11-12T21:22:07Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2804,7 +2804,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-12T21:01:23Z",
+      "checked_at": "2026-11-12T21:16:31Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3016,13 +3016,13 @@
           "ssd_gb": 1000.0,
           "was_price": 41962
         },
-        "/p/apple-macbook-pro-2024-m4-16/284971b/": {
+        "/p/apple-macbook-pro-2024-m4-16/284971aa/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4 Max",
           "config": "Apple MacBook Pro 2024 M4 Apple M4 Max 14 Core 36.0 GB 1000 GB 16.2 \" rymdsvart SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2024 M4 | 16",
-          "price": 42065,
+          "price": 43105,
           "ram_gb": 36.0,
           "ssd_gb": 1000.0,
           "was_price": 45276
@@ -3075,7 +3075,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-12T21:01:33Z",
+      "checked_at": "2026-11-12T21:16:41Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
