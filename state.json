@@ -1285,7 +1285,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-13T20:22:23Z",
+      "checked_at": "2026-11-13T20:38:00Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3048,7 +3048,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-13T20:16:31Z",
+      "checked_at": "2026-11-13T20:31:35Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3172,16 +3172,16 @@
           "ssd_gb": 1000.0,
           "was_price": 24409
         },
-        "/p/apple-macbook-pro-2018-15-4-touc/39855c/": {
+        "/p/apple-macbook-pro-2018-15-4-touc/39668c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2018 Intel Core i7-8850H 32.0 GB 512 GB 15.4 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2018 Intel Core i7-8750H 32.0 GB 512 GB 15.4 \" rymdgrå ES (Spansk)",
           "matched": false,
           "name": "Apple MacBook Pro 2018 | 15.4",
-          "price": 5369,
+          "price": 5819,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 38839
+          "was_price": 34954
         },
         "/p/apple-macbook-pro-2019-16/27154b/": {
           "badge": null,
@@ -3319,7 +3319,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-13T20:16:42Z",
+      "checked_at": "2026-11-13T20:31:47Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
