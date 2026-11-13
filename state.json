@@ -1285,7 +1285,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-13T17:52:55Z",
+      "checked_at": "2026-11-13T18:07:56Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1775,12 +1775,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17005,
+          "price": 28295,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/154503c/": {
@@ -1808,12 +1805,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17955,
+          "price": 28295,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/61519c/": {
@@ -1840,12 +1834,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17299,
+          "price": 28295,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/64173c/": {
@@ -1858,12 +1849,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17299,
+          "price": 28295,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/64174c/": {
@@ -1876,12 +1864,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17055,
+          "price": 28295,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/64176c/": {
@@ -1894,12 +1879,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17955,
+          "price": 28435,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/64178c/": {
@@ -1912,7 +1894,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 18545,
+          "price": 34019,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1945,12 +1927,9 @@
           ],
           "matched": true,
           "name": "",
-          "price": 17299,
+          "price": 28295,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "telegram_alert_rules": [
-            "m-series-max-macbook-pro-64gb-plus-under-18000"
-          ],
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/64182c/": {
@@ -1999,6 +1978,7 @@
           "telegram_alert_rules": [
             "m-series-max-macbook-pro-64gb-plus-under-18000"
           ],
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-16-2/64187c/": {
@@ -3062,7 +3042,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-13T17:46:37Z",
+      "checked_at": "2026-11-13T18:01:38Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3192,7 +3172,7 @@
           "config": "Apple MacBook Pro 2018 Intel Core i7-8850H 32.0 GB 512 GB 15.4 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2018 | 15.4",
-          "price": 5729,
+          "price": 5369,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 38839
@@ -3214,7 +3194,7 @@
           "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" silver SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 8945,
+          "price": 8875,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 27739
@@ -3324,7 +3304,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 15.4 \" silver DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 15.4",
-          "price": 7429,
+          "price": 6955,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35509
@@ -3333,7 +3313,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-13T17:46:48Z",
+      "checked_at": "2026-11-13T18:01:52Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
@@ -3468,13 +3448,13 @@
           "ssd_gb": 512.0,
           "was_price": 33289
         },
-        "/p/apple-macbook-air-15-m5-2026/419110c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-macbook-air-15-m5-2026/419110aa/": {
+          "badge": null,
           "chip": "M5",
           "config": "Apple MacBook Air 2026 Apple M5 16.0 GB 1000 GB 15.3 \" Midnatt US (US-engelska)",
           "matched": false,
           "name": "Apple MacBook Air 2026 | 15.3",
-          "price": 17425,
+          "price": 16425,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": 22522
