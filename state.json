@@ -1285,7 +1285,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-13T09:21:14Z",
+      "checked_at": "2026-11-13T09:37:13Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1441,34 +1441,6 @@
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
-        },
-        "/p/apple-mac-studio-2023-m2-max/170160/": {
-          "badge": null,
-          "chip": "M2 Max",
-          "config": "Mac Studio 2023 M2 Max - Rekonditionerad Apple Dator",
-          "discovery_parent_paths": [
-            "/p/apple-mac-studio-2023-m2-max/170161/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 25859,
-          "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
-          "was_price": null
-        },
-        "/p/apple-mac-studio-2023-m2-max/170161/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M2 Max",
-          "config": "Mac Studio 2023 M2 Max - Rekonditionerad Apple Dator",
-          "discovery_parent_paths": [
-            "/p/apple-mac-studio-2023-m2-max/170161/"
-          ],
-          "matched": true,
-          "name": "Apple Mac Studio 2023 M2 Max",
-          "price": 27639,
-          "ram_gb": 64.0,
-          "ssd_gb": 1000.0,
-          "was_price": 34247
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": null,
@@ -2716,7 +2688,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-13T09:16:28Z",
+      "checked_at": "2026-11-13T09:31:47Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -2998,7 +2970,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-13T09:16:39Z",
+      "checked_at": "2026-11-13T09:32:00Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
