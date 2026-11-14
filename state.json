@@ -1285,7 +1285,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-14T11:06:55Z",
+      "checked_at": "2026-11-14T11:23:13Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3008,7 +3008,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-14T11:01:29Z",
+      "checked_at": "2026-11-14T11:16:28Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3022,16 +3022,16 @@
           "ssd_gb": 2000.0,
           "was_price": 39304
         },
-        "/p/apple-imac-5k-2019-27/47126c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-imac-5k-2019-27/60462b/": {
+          "badge": null,
           "chip": "",
           "config": "iMac 5K 2019 27\" - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple iMac 5K 2019 | 27",
-          "price": 8775,
+          "price": 17939,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
-          "was_price": 29642
+          "was_price": 35973
         },
         "/p/apple-imac-5k-2020-27/288920/": {
           "badge": "Bara ett fåtal kvar",
@@ -3268,7 +3268,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-14T11:01:41Z",
+      "checked_at": "2026-11-14T11:16:43Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
@@ -3292,6 +3292,17 @@
           "ram_gb": 16.0,
           "ssd_gb": 256.0,
           "was_price": 19980
+        },
+        "/p/apple-imac-5k-2019-27/60462b/": {
+          "badge": null,
+          "chip": "",
+          "config": "iMac 5K 2019 27\" - Rekonditionerad Apple Dator",
+          "matched": false,
+          "name": "Apple iMac 5K 2019 | 27",
+          "price": 17939,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": 35973
         },
         "/p/apple-mac-mini-2018/10948b/": {
           "badge": null,
