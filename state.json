@@ -1285,7 +1285,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-15T21:52:51Z",
+      "checked_at": "2026-11-15T22:07:33Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2980,7 +2980,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-15T21:46:30Z",
+      "checked_at": "2026-11-15T22:01:27Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3110,7 +3110,7 @@
           "config": "Apple MacBook Pro 2018 Intel Core i9-8950HK 32.0 GB 512 GB 15.4 \" rymdgrå FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2018 | 15.4",
-          "price": 5519,
+          "price": 5809,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 39969
@@ -3121,7 +3121,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 6445,
+          "price": 6455,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35527
@@ -3132,7 +3132,7 @@
           "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" silver SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 8879,
+          "price": 9479,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 27753
@@ -3154,7 +3154,7 @@
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 12545,
+          "price": 12575,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35527
@@ -3231,7 +3231,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 15.4 \" silver DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 15.4",
-          "price": 6835,
+          "price": 6889,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35527
@@ -3240,7 +3240,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-15T21:46:42Z",
+      "checked_at": "2026-11-15T22:01:38Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
