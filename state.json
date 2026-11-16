@@ -1285,7 +1285,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-16T08:07:50Z",
+      "checked_at": "2026-11-16T08:22:30Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1414,46 +1414,32 @@
           "ssd_gb": 512.0,
           "was_price": null
         },
-        "/p/apple-mac-studio-2022-m1-max/288880c/": {
-          "badge": null,
-          "chip": "M1 Max",
-          "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
-          "discovery_parent_paths": [
-            "/p/apple-mac-studio-2022-m1-max/289046c/"
-          ],
-          "matched": true,
-          "name": "",
-          "price": 32319,
-          "ram_gb": 64.0,
-          "ssd_gb": 1000.0,
-          "was_price": null
-        },
-        "/p/apple-mac-studio-2022-m1-max/289046c/": {
+        "/p/apple-mac-studio-2022-m1-max/288880/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M1 Max",
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "discovery_parent_paths": [
-            "/p/apple-mac-studio-2022-m1-max/289046c/"
+            "/p/apple-mac-studio-2022-m1-max/288880/"
           ],
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 31765,
+          "price": 22299,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "was_price": 33194
+          "was_price": 35749
         },
-        "/p/apple-mac-studio-2022-m1-max/65251b/": {
+        "/p/apple-mac-studio-2022-m1-max/72461/": {
           "badge": null,
           "chip": "M1 Max",
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "discovery_parent_paths": [
-            "/p/apple-mac-studio-2022-m1-max/289046c/"
+            "/p/apple-mac-studio-2022-m1-max/288880/"
           ],
           "matched": false,
           "name": "",
-          "price": 27519,
+          "price": 18405,
           "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
+          "ssd_gb": 512.0,
           "was_price": null
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
@@ -2819,6 +2805,7 @@
           "price": 48575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-16-2/300425b/": {
@@ -2875,6 +2862,7 @@
           "price": 48575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-16-2/300432b/": {
@@ -2917,6 +2905,7 @@
           "price": 48575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-16-2/304000aa/": {
@@ -2966,7 +2955,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-16T08:01:36Z",
+      "checked_at": "2026-11-16T08:16:26Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3226,7 +3215,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-16T08:01:47Z",
+      "checked_at": "2026-11-16T08:16:40Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
@@ -3295,13 +3284,13 @@
           "ssd_gb": 512.0,
           "was_price": 24421
         },
-        "/p/apple-mac-mini-2023-m2/95809/": {
+        "/p/apple-mac-mini-2023-m2/95809c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2",
           "config": "Mac Mini 2023 M2 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2023 M2",
-          "price": 7935,
+          "price": 7399,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": 10317
