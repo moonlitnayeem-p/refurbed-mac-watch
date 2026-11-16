@@ -1313,7 +1313,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-16T15:53:08Z",
+      "checked_at": "2026-11-16T16:08:20Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1465,7 +1465,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 18385,
+          "price": 18295,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3067,7 +3067,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-16T15:46:45Z",
+      "checked_at": "2026-11-16T16:01:55Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3142,7 +3142,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 18395,
+          "price": 18485,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 25514
@@ -3202,13 +3202,13 @@
           "ssd_gb": 256.0,
           "was_price": 18855
         },
-        "/p/apple-macbook-pro-2018-15-4-touc/39668c/": {
+        "/p/apple-macbook-pro-2018-15-4-touc/66444/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2018 Intel Core i7-8750H 32.0 GB 512 GB 15.4 \" rymdgrå ES (Spansk)",
+          "config": "Apple MacBook Pro 2018 Intel Core i7-8750H 32.0 GB 512 GB 15.4 \" silver SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2018 | 15.4",
-          "price": 5855,
+          "price": 5945,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 34948
@@ -3219,7 +3219,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 6589,
+          "price": 6445,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35503
@@ -3230,29 +3230,29 @@
           "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" silver SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 9459,
+          "price": 8875,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 27734
         },
-        "/p/apple-macbook-pro-2021-m1-14/92945c/": {
+        "/p/apple-macbook-pro-2021-m1-14/75157c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå UK (UK-engelska)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 13099,
+          "price": 12925,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30065
         },
-        "/p/apple-macbook-pro-2021-m1-16-2/113355c/": {
+        "/p/apple-macbook-pro-2021-m1-16-2/131259c/": {
           "badge": null,
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" silver PT (Portugisisk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 13575,
+          "price": 13555,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35503
@@ -3268,13 +3268,13 @@
           "ssd_gb": 512.0,
           "was_price": 31286
         },
-        "/p/apple-macbook-pro-2023-m2-16-2/329757/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-macbook-pro-2023-m2-16-2/309720c/": {
+          "badge": null,
           "chip": "M2 Pro",
-          "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 12 Core 32.0 GB 512 GB 16.2 \" silver SE (Svensk)",
+          "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 12 Core 32.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 16.2",
-          "price": 19299,
+          "price": 21105,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 37723
@@ -3323,22 +3323,22 @@
           "ssd_gb": 512.0,
           "was_price": 27845
         },
-        "/p/macbook-pro-2019-154-tb/73643b/": {
+        "/p/macbook-pro-2019-154-tb/93107c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 256 GB 15.4 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 15.4 \" silver DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 15.4",
-          "price": 7005,
+          "price": 6815,
           "ram_gb": 32.0,
-          "ssd_gb": 256.0,
-          "was_price": 29954
+          "ssd_gb": 512.0,
+          "was_price": 35503
         }
       },
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-16T15:46:57Z",
+      "checked_at": "2026-11-16T16:02:07Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
@@ -3424,7 +3424,7 @@
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 12235,
+          "price": 12359,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 15415
@@ -3446,7 +3446,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 18385,
+          "price": 18295,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 28067
@@ -3457,7 +3457,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 18395,
+          "price": 18485,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 25514
