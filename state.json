@@ -1341,7 +1341,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-17T20:07:36Z",
+      "checked_at": "2026-11-17T20:22:28Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2908,7 +2908,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-17T20:01:51Z",
+      "checked_at": "2026-11-17T20:16:35Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3043,13 +3043,13 @@
           "ssd_gb": 512.0,
           "was_price": 38881
         },
-        "/p/apple-macbook-pro-2019-16/27154c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-macbook-pro-2019-16/27149b/": {
+          "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 6785,
+          "price": 7605,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35547
@@ -3065,13 +3065,13 @@
           "ssd_gb": 512.0,
           "was_price": 27769
         },
-        "/p/apple-macbook-pro-2021-m1-14/75156b/": {
+        "/p/apple-macbook-pro-2021-m1-14/36725c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå IT (Italiensk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 12719,
+          "price": 12935,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30102
@@ -3168,7 +3168,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-17T20:02:02Z",
+      "checked_at": "2026-11-17T20:16:47Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/294948/": {
