@@ -1327,7 +1327,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-17T12:07:32Z",
+      "checked_at": "2026-11-17T12:22:27Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1409,7 +1409,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 6159,
+          "price": 6869,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2892,7 +2892,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-17T12:01:43Z",
+      "checked_at": "2026-11-17T12:16:41Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -2928,13 +2928,13 @@
           "ssd_gb": 512.0,
           "was_price": 31203
         },
-        "/p/apple-mac-mini-2018/47497c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-mac-mini-2018/47497/": {
+          "badge": null,
           "chip": "",
           "config": "Apple Mac Mini 2018 - Rekonditionerad Dator",
           "matched": false,
           "name": "Apple Mac Mini 2018",
-          "price": 6159,
+          "price": 6725,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 12985
@@ -3163,7 +3163,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-17T12:01:55Z",
+      "checked_at": "2026-11-17T12:16:53Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
