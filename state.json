@@ -1327,7 +1327,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-17T13:36:48Z",
+      "checked_at": "2026-11-17T13:50:46Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1522,7 +1522,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 11919,
+          "price": 11229,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2663,7 +2663,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-17T13:31:29Z",
+      "checked_at": "2026-11-17T13:46:28Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -2677,7 +2677,7 @@
           "ssd_gb": 2000.0,
           "was_price": 39325
         },
-        "/p/apple-imac-5k-2019-27/60462b/": {
+        "/p/apple-imac-5k-2019-27/60458b/": {
           "badge": null,
           "chip": "",
           "config": "iMac 5K 2019 27\" - Rekonditionerad Apple Dator",
@@ -2934,7 +2934,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-17T13:31:41Z",
+      "checked_at": "2026-11-17T13:46:38Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
