@@ -1341,7 +1341,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-18T06:36:42Z",
+      "checked_at": "2026-11-18T06:51:43Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1527,16 +1527,16 @@
           "ssd_gb": 1000.0,
           "was_price": 49308
         },
-        "/p/apple-macbook-pro-2019-16/10684/": {
+        "/p/apple-macbook-pro-2019-16/13206/": {
           "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 16.0 GB 1000 GB 16.0 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 16.0 GB 1000 GB 16.0 \" rymdgrå IT (Italiensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 7625,
+          "price": 7389,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1546,53 +1546,57 @@
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 32.0 GB 1000 GB 16.0 \" rymdgrå DE (Tysk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 9859,
+          "price": 9239,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
         },
         "/p/apple-macbook-pro-2019-16/48265/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå DE (Tysk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
-          ],
-          "matched": false,
-          "name": "Apple MacBook Pro 2019 | 16",
-          "price": 10185,
-          "ram_gb": 64.0,
-          "ssd_gb": 1000.0,
-          "was_price": 55654
-        },
-        "/p/apple-macbook-pro-2019-16/48266/": {
-          "badge": null,
-          "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå IT (Italiensk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 10185,
+          "price": 9539,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
+        },
+        "/p/apple-macbook-pro-2019-16/48266/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "",
+          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå IT (Italiensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
+          ],
+          "matched": false,
+          "name": "Apple MacBook Pro 2019 | 16",
+          "price": 9535,
+          "ram_gb": 64.0,
+          "ssd_gb": 1000.0,
+          "was_price": 55654
         },
         "/p/apple-macbook-pro-2019-16/48269/": {
           "badge": null,
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå NL (Nederländsk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 10185,
+          "price": 9535,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1602,11 +1606,12 @@
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå FR (Fransk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 10185,
+          "price": 9539,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1616,11 +1621,12 @@
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå ES (Spansk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 10185,
+          "price": 9535,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1630,11 +1636,12 @@
           "chip": "",
           "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 64.0 GB 1000 GB 16.0 \" rymdgrå UK (UK-engelska)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2019-16/48265/"
+            "/p/apple-macbook-pro-2019-16/48265/",
+            "/p/apple-macbook-pro-2019-16/48266/"
           ],
           "matched": false,
           "name": "",
-          "price": 10185,
+          "price": 9539,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1860,7 +1867,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 11815,
+          "price": 11649,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2917,7 +2924,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-18T06:31:25Z",
+      "checked_at": "2026-11-18T06:46:36Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3052,13 +3059,13 @@
           "ssd_gb": 512.0,
           "was_price": 38954
         },
-        "/p/apple-macbook-pro-2019-16/27147b/": {
+        "/p/apple-macbook-pro-2019-16/27149b/": {
           "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 8095,
+          "price": 7625,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35615
@@ -3074,24 +3081,24 @@
           "ssd_gb": 512.0,
           "was_price": 27821
         },
-        "/p/apple-macbook-pro-2021-m1-14/75156b/": {
+        "/p/apple-macbook-pro-2021-m1-14/92945b/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå IT (Italiensk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå UK (UK-engelska)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 13145,
+          "price": 12749,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30159
         },
-        "/p/apple-macbook-pro-2021-m1-16-2/131259c/": {
+        "/p/apple-macbook-pro-2021-m1-16-2/131248c/": {
           "badge": null,
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" silver PT (Portugisisk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" silver ES (Spansk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 13875,
+          "price": 13605,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35615
@@ -3177,7 +3184,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-18T06:31:36Z",
+      "checked_at": "2026-11-18T06:46:46Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2023-m3-8core/294948/": {
