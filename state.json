@@ -1341,7 +1341,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-18T19:22:45Z",
+      "checked_at": "2026-11-18T19:38:03Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1507,7 +1507,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 31675,
+          "price": 32325,
           "ram_gb": 36.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3099,7 +3099,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-18T19:16:31Z",
+      "checked_at": "2026-11-18T19:31:33Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3190,13 +3190,13 @@
           "ssd_gb": 512.0,
           "was_price": 26715
         },
-        "/p/apple-mac-studio-2025-m4-max/309740/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-mac-studio-2025-m4-max/309740b/": {
+          "badge": null,
           "chip": "M4 Max",
           "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
           "matched": true,
           "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 29505,
+          "price": 31909,
           "ram_gb": 36.0,
           "ssd_gb": 512.0,
           "was_price": 33397
@@ -3381,7 +3381,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-18T19:16:42Z",
+      "checked_at": "2026-11-18T19:31:47Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
@@ -3527,13 +3527,13 @@
           "ssd_gb": 512.0,
           "was_price": 26715
         },
-        "/p/apple-mac-studio-2025-m4-max/309740/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-mac-studio-2025-m4-max/309740b/": {
+          "badge": null,
           "chip": "M4 Max",
           "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
           "matched": true,
           "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 29505,
+          "price": 31909,
           "ram_gb": 36.0,
           "ssd_gb": 512.0,
           "was_price": 33397
