@@ -1341,7 +1341,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-19T07:22:35Z",
+      "checked_at": "2026-11-19T07:36:43Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1963,7 +1963,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 22989,
+          "price": 23359,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1977,7 +1977,7 @@
           ],
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 21735,
+          "price": 22085,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": 39271
@@ -2978,7 +2978,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-19T07:16:28Z",
+      "checked_at": "2026-11-19T07:31:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275253/": {
@@ -3124,13 +3124,13 @@
           "ssd_gb": 512.0,
           "was_price": 40164
         },
-        "/p/apple-macbook-pro-2020-133-tb/72572/": {
-          "badge": null,
+        "/p/apple-macbook-pro-2020-133-tb/72578b/": {
+          "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå DK (Dansk)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå NL (Nederländsk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6975,
+          "price": 6649,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 27888
@@ -3260,7 +3260,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-19T07:16:39Z",
+      "checked_at": "2026-11-19T07:31:40Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
