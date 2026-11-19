@@ -1341,7 +1341,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-19T12:07:49Z",
+      "checked_at": "2026-11-19T12:23:10Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2005,7 +2005,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 16425,
+          "price": 16795,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3049,7 +3049,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-19T12:01:37Z",
+      "checked_at": "2026-11-19T12:16:38Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3085,16 +3085,16 @@
           "ssd_gb": 512.0,
           "was_price": 13045
         },
-        "/p/apple-mac-mini-2023-m2-pro/127539b/": {
+        "/p/apple-mac-mini-2023-m2-pro/377016/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 16665,
+          "price": 20279,
           "ram_gb": 32.0,
-          "ssd_gb": 1000.0,
-          "was_price": 23424
+          "ssd_gb": 2000.0,
+          "was_price": 28111
         },
         "/p/apple-mac-pro-2019/47540/": {
           "badge": "Bara ett fåtal kvar",
@@ -3206,13 +3206,13 @@
           "ssd_gb": 512.0,
           "was_price": 30232
         },
-        "/p/apple-macbook-pro-2021-m1-16-2/82008c/": {
+        "/p/apple-macbook-pro-2021-m1-16-2/113355c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 11389,
+          "price": 13755,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35700
@@ -3320,7 +3320,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-19T12:01:48Z",
+      "checked_at": "2026-11-19T12:16:50Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
