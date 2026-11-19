@@ -434,6 +434,20 @@
       "seen_at": "2026-11-09T17:40:18Z",
       "url": "https://www.refurbed.se/p/apple-macbook-air-m4-2025/308407c/"
     },
+    "apple-macbook-air-m4-2025|M4|32|2000": {
+      "price": 21635,
+      "proof_validation": {
+        "chip": "M4",
+        "price": 21635,
+        "ram_gb": 32.0,
+        "sha256": "4c2b65d8d8945fdd07d19110c1f60ce61085daa84b0a9c3e4f0dfa80be0d2ddc",
+        "ssd_gb": 2000.0,
+        "version": 1
+      },
+      "screenshot": "price-proofs/2026-11-19/21635kr-57b8839019e905ee.png",
+      "seen_at": "2026-11-19T16:37:49Z",
+      "url": "https://www.refurbed.se/p/apple-macbook-air-m4-2025/308441/"
+    },
     "apple-macbook-air-m4-2025|M4|32|256": {
       "price": 17699,
       "proof_validation": {
@@ -1355,7 +1369,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-19T16:23:11Z",
+      "checked_at": "2026-11-19T16:37:49Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3077,7 +3091,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-19T16:16:48Z",
+      "checked_at": "2026-11-19T16:31:36Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3179,16 +3193,16 @@
           "ssd_gb": 512.0,
           "was_price": 25060
         },
-        "/p/apple-macbook-air-m4-2025/308279/": {
+        "/p/apple-macbook-air-m4-2025/308441/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M4",
-          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 256 GB 13.6 \" himmelsblå SE (Svensk)",
+          "config": "Apple MacBook Air 2025 Apple M4 32.0 GB 2000 GB 13.6 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Air 2025 | 13.6",
-          "price": 18399,
+          "price": 21635,
           "ram_gb": 32.0,
-          "ssd_gb": 256.0,
-          "was_price": 18932
+          "ssd_gb": 2000.0,
+          "was_price": 30075
         },
         "/p/apple-macbook-pro-2018-15-4-touc/39855c/": {
           "badge": "Bara ett fåtal kvar",
@@ -3207,7 +3221,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 7305,
+          "price": 7325,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35646
@@ -3348,7 +3362,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-19T16:17:00Z",
+      "checked_at": "2026-11-19T16:31:47Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
