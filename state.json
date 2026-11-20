@@ -1369,7 +1369,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-20T09:07:08Z",
+      "checked_at": "2026-11-20T09:22:18Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1479,7 +1479,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4829,
+          "price": 5079,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2272,7 +2272,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 30105,
+          "price": 27635,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3238,7 +3238,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-20T09:01:25Z",
+      "checked_at": "2026-11-20T09:16:22Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3418,12 +3418,12 @@
           "was_price": 31531
         },
         "/p/apple-macbook-pro-2023-m2-16-2/329757b/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "M2 Pro",
           "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 12 Core 32.0 GB 512 GB 16.2 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 16.2",
-          "price": 20325,
+          "price": 20779,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 38019
@@ -3509,7 +3509,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-20T09:01:33Z",
+      "checked_at": "2026-11-20T09:16:32Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
