@@ -1369,7 +1369,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-20T10:38:16Z",
+      "checked_at": "2026-11-20T10:53:04Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2004,7 +2004,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 10135,
+          "price": 10849,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2802,6 +2802,7 @@
           "price": 40399,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-16-2/288897b/": {
@@ -3183,7 +3184,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-20T10:31:26Z",
+      "checked_at": "2026-11-20T10:46:26Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3454,7 +3455,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-20T10:31:37Z",
+      "checked_at": "2026-11-20T10:46:38Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
