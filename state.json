@@ -1369,7 +1369,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-20T03:08:32Z",
+      "checked_at": "2026-11-20T03:23:27Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1479,7 +1479,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 4835,
+          "price": 4829,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3229,7 +3229,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-20T03:01:28Z",
+      "checked_at": "2026-11-20T03:16:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3364,13 +3364,13 @@
           "ssd_gb": 512.0,
           "was_price": 38019
         },
-        "/p/apple-macbook-pro-2020-133-tb/85630/": {
+        "/p/apple-macbook-pro-2020-133-tb/72574c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" silver US (US-engelska)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6685,
+          "price": 7045,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 27952
@@ -3500,7 +3500,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-20T03:01:37Z",
+      "checked_at": "2026-11-20T03:16:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
