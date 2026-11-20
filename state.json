@@ -1383,7 +1383,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-20T13:53:08Z",
+      "checked_at": "2026-11-20T14:08:17Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3210,7 +3210,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-20T13:46:30Z",
+      "checked_at": "2026-11-20T14:01:28Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3263,7 +3263,7 @@
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Mini 2024 M4",
-          "price": 14015,
+          "price": 14155,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 15559
@@ -3368,12 +3368,12 @@
           "was_price": 27994
         },
         "/p/apple-macbook-pro-2021-m1-14/36725c/": {
-          "badge": null,
+          "badge": "Bara ett fåtal kvar",
           "chip": "M1 Pro",
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 13045,
+          "price": 11655,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 30346
@@ -3384,7 +3384,7 @@
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 11429,
+          "price": 11929,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 35835
@@ -3492,7 +3492,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-20T13:46:41Z",
+      "checked_at": "2026-11-20T14:01:40Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013aa/": {
@@ -3545,7 +3545,7 @@
           "config": "Mac Mini 2020 M1 - Rekonditionerad Apple Dator",
           "matched": false,
           "name": "Apple Mac Mini 2020 M1",
-          "price": 4969,
+          "price": 4995,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": 11526
