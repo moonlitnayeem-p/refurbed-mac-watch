@@ -1411,7 +1411,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-21T12:22:03Z",
+      "checked_at": "2026-11-21T12:37:58Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1606,7 +1606,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 7079,
+          "price": 7075,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1626,7 +1626,7 @@
           "price": 7905,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
-          "was_price": 47129
+          "was_price": 47108
         },
         "/p/apple-macbook-pro-2019-16/50548c/": {
           "badge": null,
@@ -1691,7 +1691,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 7915,
+          "price": 7909,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1722,78 +1722,231 @@
           ],
           "matched": false,
           "name": "",
-          "price": 6529,
+          "price": 6525,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
         },
-        "/p/apple-macbook-pro-2021-m1-14/111368c/": {
+        "/p/apple-macbook-pro-2021-m1-14/111363b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111364b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå ES (Spansk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111365b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå IT (Italiensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111366b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå FR (Fransk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111367b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå DK (Dansk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20939,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111368b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M1 Max",
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-14/111368b/",
-            "/p/apple-macbook-pro-2021-m1-14/111368c/"
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
           ],
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 20155,
+          "price": 20755,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
-          "was_price": 45894
+          "was_price": 45874
         },
-        "/p/apple-macbook-pro-2021-m1-14/55234c/": {
+        "/p/apple-macbook-pro-2021-m1-14/111369b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå US (US-engelska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111371b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå NL (Nederländsk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111372b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå PT (Portugisisk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111373b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå AR (arabiska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/111374b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå RU (ryska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/148130b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå FI (finska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/157099b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå CZ (Tjeckiska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20919,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/165654b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 14.2 \" rymdgrå BE (Belgisk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 20745,
+          "ram_gb": 64.0,
+          "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/64089b/": {
           "badge": null,
           "chip": "M1 Pro",
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 16.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-14/111368c/"
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
           ],
           "matched": false,
           "name": "",
-          "price": 12509,
+          "price": 12955,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
         },
-        "/p/apple-macbook-pro-2021-m1-14/64157c/": {
+        "/p/apple-macbook-pro-2021-m1-14/75695b/": {
           "badge": null,
           "chip": "M1 Max",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 4000 GB 14.2 \" rymdgrå SE (Svensk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 32.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
           "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-14/111368c/"
-          ],
-          "matched": true,
-          "name": "",
-          "price": 27399,
-          "ram_gb": 64.0,
-          "ssd_gb": 4000.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-pro-2021-m1-14/74797c/": {
-          "badge": null,
-          "chip": "M1 Max",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 2000 GB 14.2 \" rymdgrå SE (Svensk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-14/111368c/"
-          ],
-          "matched": true,
-          "name": "",
-          "price": 25755,
-          "ram_gb": 64.0,
-          "ssd_gb": 2000.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-pro-2021-m1-14/75162c/": {
-          "badge": null,
-          "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" silver SE (Svensk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-14/111368c/"
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
           ],
           "matched": false,
           "name": "",
-          "price": 13425,
+          "price": 19659,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1807,7 +1960,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 28205,
+          "price": 28189,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -1905,7 +2058,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 22045,
+          "price": 22035,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1919,10 +2072,10 @@
           ],
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 20845,
+          "price": 20835,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
-          "was_price": 39496
+          "was_price": 39479
         },
         "/p/apple-macbook-pro-2021-m1-16-2/179589c/": {
           "badge": null,
@@ -2017,7 +2170,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 10179,
+          "price": 10919,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2031,7 +2184,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 16039,
+          "price": 16035,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2045,7 +2198,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2061,7 +2214,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 61295,
+          "price": 61269,
           "ram_gb": 96.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -2075,7 +2228,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2089,7 +2242,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2103,7 +2256,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2117,7 +2270,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2131,7 +2284,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2145,7 +2298,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2187,7 +2340,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2215,7 +2368,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2229,7 +2382,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2243,7 +2396,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 31419,
+          "price": 31405,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2257,7 +2410,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 16669,
+          "price": 16659,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2285,7 +2438,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 18165,
+          "price": 18155,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2442,7 +2595,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 33665,
+          "price": 33649,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2456,7 +2609,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 33665,
+          "price": 33649,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2512,7 +2665,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 33665,
+          "price": 33649,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2540,7 +2693,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 27095,
+          "price": 27085,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2554,7 +2707,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2568,7 +2721,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2582,7 +2735,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2596,7 +2749,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2610,7 +2763,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2624,7 +2777,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2669,7 +2822,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2697,7 +2850,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2711,7 +2864,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2725,7 +2878,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2739,7 +2892,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40959,
+          "price": 40939,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2767,7 +2920,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 15645,
+          "price": 15639,
           "ram_gb": 8.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2873,7 +3026,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 73349,
+          "price": 73319,
           "ram_gb": 128.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -2943,7 +3096,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2957,7 +3110,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2971,7 +3124,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2985,7 +3138,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2999,7 +3152,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3013,7 +3166,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3027,7 +3180,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3041,7 +3194,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 43595,
+          "price": 43575,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3085,7 +3238,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 94049,
+          "price": 94005,
           "ram_gb": 128.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -3099,7 +3252,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 58355,
+          "price": 58329,
           "ram_gb": 64.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -3113,7 +3266,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 28489,
+          "price": 28475,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3127,7 +3280,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 45955,
+          "price": 45935,
           "ram_gb": 36.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3141,7 +3294,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 38319,
+          "price": 38305,
           "ram_gb": 48.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3155,7 +3308,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 66215,
+          "price": 66185,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3169,7 +3322,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 66215,
+          "price": 66185,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3183,7 +3336,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 64105,
+          "price": 64079,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3197,7 +3350,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 66215,
+          "price": 66185,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3239,7 +3392,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 66215,
+          "price": 66185,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3253,7 +3406,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 66215,
+          "price": 66185,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3267,7 +3420,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 66215,
+          "price": 66185,
           "ram_gb": 64.0,
           "ssd_gb": 4000.0,
           "was_price": null
@@ -3276,7 +3429,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-21T12:16:23Z",
+      "checked_at": "2026-11-21T12:31:29Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3406,18 +3559,18 @@
           "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" silver FR (Fransk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 7065,
+          "price": 7059,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 38150
+          "was_price": 38133
         },
-        "/p/apple-macbook-pro-2020-133-tb/85630/": {
+        "/p/apple-macbook-pro-2020-133-tb/72594/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" silver US (US-engelska)",
+          "config": "Apple MacBook Pro 2020 Intel Core i7-1068NG7 32.0 GB 512 GB 13.3 \" rymdgrå US (US-engelska)",
           "matched": false,
           "name": "Apple MacBook Pro 2020 | 13.3",
-          "price": 6765,
+          "price": 7525,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 28048
@@ -3428,21 +3581,21 @@
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 8 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 11675,
+          "price": 11669,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 30405
+          "was_price": 30392
         },
-        "/p/apple-macbook-pro-2021-m1-16-2/113356c/": {
+        "/p/apple-macbook-pro-2021-m1-16-2/131253c/": {
           "badge": "Bästsäljare",
           "chip": "M1 Pro",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" rymdgrå NL (Nederländsk)",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 16.2 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 11449,
+          "price": 13859,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 35905
+          "was_price": 35889
         },
         "/p/apple-macbook-pro-2023-m2-14/179566b/": {
           "badge": "Bara ett fåtal kvar",
@@ -3547,7 +3700,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-21T12:16:30Z",
+      "checked_at": "2026-11-21T12:31:37Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/300524/": {
