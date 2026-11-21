@@ -1411,7 +1411,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-21T12:54:02Z",
+      "checked_at": "2026-11-21T13:08:26Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1923,7 +1923,7 @@
           "ssd_gb": 512.0,
           "was_price": null
         },
-        "/p/apple-macbook-pro-2021-m1-14/64089b/": {
+        "/p/apple-macbook-pro-2021-m1-14/55234b/": {
           "badge": null,
           "chip": "M1 Pro",
           "config": "Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 16.0 GB 512 GB 14.2 \" rymdgrå SE (Svensk)",
@@ -1932,9 +1932,23 @@
           ],
           "matched": false,
           "name": "",
-          "price": 12955,
+          "price": 13705,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2021-m1-14/74797b/": {
+          "badge": null,
+          "chip": "M1 Max",
+          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 2000 GB 14.2 \" rymdgrå SE (Svensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2021-m1-14/111368b/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 31485,
+          "ram_gb": 64.0,
+          "ssd_gb": 2000.0,
           "was_price": null
         },
         "/p/apple-macbook-pro-2021-m1-14/75695b/": {
@@ -2170,7 +2184,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 10919,
+          "price": 10915,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -3429,7 +3443,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-21T12:46:30Z",
+      "checked_at": "2026-11-21T13:01:24Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3700,7 +3714,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-21T12:46:38Z",
+      "checked_at": "2026-11-21T13:01:33Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/300524/": {
