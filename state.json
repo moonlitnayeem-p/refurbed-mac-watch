@@ -1411,7 +1411,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-23T15:06:52Z",
+      "checked_at": "2026-11-23T15:22:02Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3188,7 +3188,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-23T15:01:25Z",
+      "checked_at": "2026-11-23T15:16:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60458b/": {
@@ -3312,16 +3312,16 @@
           "ssd_gb": 256.0,
           "was_price": 35354
         },
-        "/p/apple-macbook-pro-2019-16/27149b/": {
+        "/p/apple-macbook-pro-2019-16/89006b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i7-9750H 32.0 GB 512 GB 16.0 \" rymdgrå FR (Fransk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i9-9880H 32.0 GB 512 GB 16.0 \" rymdgrå DE (Tysk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 7685,
+          "price": 7009,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 35916
+          "was_price": 34681
         },
         "/p/apple-macbook-pro-2020-133-tb/85630/": {
           "badge": "Bara ett fåtal kvar",
@@ -3400,17 +3400,6 @@
           "ssd_gb": 1000.0,
           "was_price": 46020
         },
-        "/p/apple-macbook-pro-2026-m5-max-18-32-14/421382aa/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M5 Max",
-          "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 14.2 \" silver IT (Italiensk)",
-          "matched": true,
-          "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 14",
-          "price": 37005,
-          "ram_gb": 36.0,
-          "ssd_gb": 2000.0,
-          "was_price": 53880
-        },
         "/p/apple-macbook-pro-2026-m5-max-18-32-16/422891aa/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M5 Max",
@@ -3459,7 +3448,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-23T15:01:32Z",
+      "checked_at": "2026-11-23T15:16:37Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/65251b/": {
