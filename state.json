@@ -1411,7 +1411,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-24T13:53:22Z",
+      "checked_at": "2026-11-24T14:08:18Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3207,7 +3207,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-24T13:46:33Z",
+      "checked_at": "2026-11-24T14:01:30Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60244c/": {
@@ -3441,17 +3441,6 @@
           "ssd_gb": 2000.0,
           "was_price": 57234
         },
-        "/p/fair-apple-macbook-pro-2021-m1-14/501619c/": {
-          "badge": "Bara ett fåtal kvar",
-          "chip": "M1 Pro",
-          "config": "FAIR Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 512 GB 14.2 \" silver DE (Tysk)",
-          "matched": false,
-          "name": "FAIR Apple MacBook Pro 2021 M1 | 14.2",
-          "price": 14695,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": 28162
-        },
         "/p/macbook-pro-2019-154-tb/208514c/": {
           "badge": null,
           "chip": "",
@@ -3478,7 +3467,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-24T13:46:42Z",
+      "checked_at": "2026-11-24T14:01:39Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/65251b/": {
