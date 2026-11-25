@@ -43,17 +43,17 @@
       "url": "https://www.refurbed.se/p/apple-mac-mini-2023-m2-pro/377016/"
     },
     "apple-mac-mini-2023-m2-pro|M2 Pro|32|512": {
-      "price": 16399,
+      "price": 15599,
       "proof_validation": {
         "chip": "M2 Pro",
-        "price": 16399,
+        "price": 15599,
         "ram_gb": 32.0,
-        "sha256": "84d3c5fed28f6be386209f4cdbcb4dd8022c4a49fea183374e515e1b3c99691e",
+        "sha256": "4892153ea826290bb45fd2feb966346ffe5bd4c3427550ccff33e26ebe8e7e2c",
         "ssd_gb": 512.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-10-25/16399kr-82a4dedc8b0c4179.png",
-      "seen_at": "2026-10-25T23:11:04Z",
+      "screenshot": "price-proofs/2026-11-25/15599kr-fbb5cbdfae4a7482.png",
+      "seen_at": "2026-11-25T14:08:03Z",
       "url": "https://www.refurbed.se/p/apple-mac-mini-2023-m2-pro/304173/"
     },
     "apple-mac-mini-2024-m4|M4|32|1000": {
@@ -1411,7 +1411,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-25T13:51:33Z",
+      "checked_at": "2026-11-25T14:08:03Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1577,7 +1577,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 27709,
+          "price": 27849,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3026,7 +3026,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-25T13:46:29Z",
+      "checked_at": "2026-11-25T14:01:42Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60244c/": {
@@ -3040,7 +3040,7 @@
           "ssd_gb": 1000.0,
           "was_price": 26962
         },
-        "/p/apple-imac-5k-2020-27/110552c/": {
+        "/p/apple-imac-5k-2020-27/177145c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
           "config": "iMac 5K 2020 27\" - Rekonditionerad Apple Dator",
@@ -3049,7 +3049,7 @@
           "price": 10665,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 37639
+          "was_price": 40449
         },
         "/p/apple-mac-mini-2018/47497/": {
           "badge": null,
@@ -3062,16 +3062,16 @@
           "ssd_gb": 512.0,
           "was_price": 13138
         },
-        "/p/apple-mac-mini-2023-m2-pro/377016/": {
+        "/p/apple-mac-mini-2023-m2-pro/304173/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 19855,
+          "price": 15599,
           "ram_gb": 32.0,
-          "ssd_gb": 2000.0,
-          "was_price": 28311
+          "ssd_gb": 512.0,
+          "was_price": 23028
         },
         "/p/apple-mac-pro-2019/47540/": {
           "badge": "Bara ett fåtal kvar",
@@ -3090,7 +3090,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 14759,
+          "price": 14835,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 30334
@@ -3211,7 +3211,7 @@
           "config": "Apple MacBook Pro 2023 M2 Apple M2 Pro 12 Core 32.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2023 M2 | 16.2",
-          "price": 20265,
+          "price": 20299,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 38201
@@ -3275,7 +3275,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-25T13:46:39Z",
+      "checked_at": "2026-11-25T14:01:57Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
@@ -3333,16 +3333,16 @@
           "ssd_gb": 512.0,
           "was_price": 11564
         },
-        "/p/apple-mac-mini-2023-m2-pro/76176b/": {
+        "/p/apple-mac-mini-2023-m2-pro/304173/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 10569,
-          "ram_gb": 16.0,
+          "price": 15599,
+          "ram_gb": 32.0,
           "ssd_gb": 512.0,
-          "was_price": 17072
+          "was_price": 23028
         },
         "/p/apple-mac-mini-2023-m2/95809c/": {
           "badge": "Bara ett fåtal kvar",
@@ -3405,7 +3405,7 @@
           "config": "Mac Studio 2022 M1 Max - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Studio 2022 M1 Max",
-          "price": 14759,
+          "price": 14835,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": 30334
