@@ -1411,7 +1411,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-25T10:54:07Z",
+      "checked_at": "2026-11-25T11:09:19Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1683,20 +1683,6 @@
           "ssd_gb": 512.0,
           "was_price": 45929
         },
-        "/p/apple-macbook-pro-2021-m1-14/186976b/": {
-          "badge": null,
-          "chip": "M1 Max",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 32.0 GB 512 GB 14.2 \" rymdgrå DE (Tysk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-14/111363b/"
-          ],
-          "matched": false,
-          "name": "",
-          "price": 20195,
-          "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": null
-        },
         "/p/apple-macbook-pro-2021-m1-14/64083b/": {
           "badge": null,
           "chip": "M1 Pro",
@@ -1706,7 +1692,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 12445,
+          "price": 13245,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1777,7 +1763,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1792,7 +1778,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1807,7 +1793,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1822,7 +1808,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1837,7 +1823,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1852,7 +1838,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1868,20 +1854,6 @@
           "matched": true,
           "name": "",
           "price": 20859,
-          "ram_gb": 64.0,
-          "ssd_gb": 512.0,
-          "was_price": null
-        },
-        "/p/apple-macbook-pro-2021-m1-16-2/179589/": {
-          "badge": null,
-          "chip": "M1 Max",
-          "config": "Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 512 GB 16.2 \" rymdgrå SE (Svensk)",
-          "discovery_parent_paths": [
-            "/p/apple-macbook-pro-2021-m1-16-2/179589c/"
-          ],
-          "matched": true,
-          "name": "",
-          "price": 23085,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1911,7 +1883,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1926,7 +1898,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1941,7 +1913,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1956,7 +1928,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 21929,
+          "price": 22729,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -1988,6 +1960,7 @@
           "price": 22375,
           "ram_gb": 64.0,
           "ssd_gb": 512.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m2-14/286872c/": {
@@ -2225,7 +2198,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 24239,
+          "price": 25199,
           "ram_gb": 32.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2253,7 +2226,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2267,7 +2240,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2281,7 +2254,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2295,7 +2268,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2309,7 +2282,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2326,6 +2299,7 @@
           "price": 30009,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m2-16-2/179655/": {
@@ -2382,7 +2356,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33889,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2424,7 +2398,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2438,7 +2412,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2452,7 +2426,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33675,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2480,7 +2454,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 30009,
+          "price": 33689,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2710,6 +2684,7 @@
           "price": 30625,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/116411aa/": {
@@ -3475,7 +3450,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-25T10:46:34Z",
+      "checked_at": "2026-11-25T11:01:33Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60244c/": {
@@ -3605,7 +3580,7 @@
           "config": "Apple MacBook Pro 2019 Intel Core i9-9980HK 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 7765,
+          "price": 7779,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 37504
@@ -3724,7 +3699,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-25T10:46:49Z",
+      "checked_at": "2026-11-25T11:01:46Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276473aa/": {
