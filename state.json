@@ -1448,7 +1448,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-26T19:24:00Z",
+      "checked_at": "2026-11-26T19:41:05Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3878,7 +3878,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-26T19:16:29Z",
+      "checked_at": "2026-11-26T19:31:47Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60244c/": {
@@ -3914,16 +3914,16 @@
           "ssd_gb": 512.0,
           "was_price": 13092
         },
-        "/p/apple-mac-mini-2023-m2-pro/304173/": {
+        "/p/apple-mac-mini-2023-m2-pro/129170aa/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": true,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 15755,
+          "price": 15129,
           "ram_gb": 32.0,
-          "ssd_gb": 512.0,
-          "was_price": 22947
+          "ssd_gb": 1000.0,
+          "was_price": 28883
         },
         "/p/apple-mac-pro-2019/47540/": {
           "badge": "Bara ett fåtal kvar",
@@ -4116,7 +4116,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-26T19:16:39Z",
+      "checked_at": "2026-11-26T19:32:01Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013/": {
@@ -4163,16 +4163,16 @@
           "ssd_gb": 512.0,
           "was_price": 11524
         },
-        "/p/apple-mac-mini-2023-m2-pro/304173/": {
+        "/p/apple-mac-mini-2023-m2-pro/76176b/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M2 Pro",
           "config": "Mac Mini 2023 M2 Pro - Rekonditionerad Stationär Dator",
           "matched": false,
           "name": "Apple Mac Mini 2023 M2 Pro",
-          "price": 15755,
-          "ram_gb": 32.0,
+          "price": 10535,
+          "ram_gb": 16.0,
           "ssd_gb": 512.0,
-          "was_price": 22947
+          "was_price": 17011
         },
         "/p/apple-mac-mini-2023-m2/95809c/": {
           "badge": "Bara ett fåtal kvar",
