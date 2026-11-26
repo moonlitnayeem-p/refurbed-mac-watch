@@ -787,18 +787,18 @@
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-14/549321c/"
     },
     "apple-macbook-pro-2023-m2-14|M2 Max|96|1000": {
-      "price": 39629,
+      "price": 38025,
       "proof_validation": {
         "chip": "M2 Max",
-        "price": 39629,
+        "price": 38025,
         "ram_gb": 96.0,
-        "sha256": "94de7a88124b01fed941e9f4934bce2c8768f112e7bff778b8895ccb6283187a",
+        "sha256": "36b969b41388c780cc51c5c83315b640215d89c58c013e8a760525ec3fee29d3",
         "ssd_gb": 1000.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-11-26/39629kr-73809c6e824df2ac.png",
-      "seen_at": "2026-11-26T16:41:00Z",
-      "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-14/111666c/"
+      "screenshot": "price-proofs/2026-11-26/38025kr-97b65f64bbaf1cf0.png",
+      "seen_at": "2026-11-26T16:55:30Z",
+      "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-14/315213c/"
     },
     "apple-macbook-pro-2023-m2-14|M2 Max|96|4000": {
       "price": 30875,
@@ -1448,7 +1448,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-26T16:41:00Z",
+      "checked_at": "2026-11-26T16:55:30Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1662,6 +1662,20 @@
           "ssd_gb": 1000.0,
           "was_price": null
         },
+        "/p/apple-macbook-pro-2019-16/23231b/": {
+          "badge": null,
+          "chip": "",
+          "config": "Apple MacBook Pro 2019 Intel Core i9-9980HK 32.0 GB 1000 GB 16.0 \" rymdgrå DE (Tysk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2019-16/27564b/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 8495,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": null
+        },
         "/p/apple-macbook-pro-2019-16/27554b/": {
           "badge": null,
           "chip": "",
@@ -1867,7 +1881,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 12399,
+          "price": 12405,
           "ram_gb": 16.0,
           "ssd_gb": 512.0,
           "was_price": null
@@ -2091,7 +2105,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 25705,
+          "price": 25435,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2373,7 +2387,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2387,7 +2401,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2401,7 +2415,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2415,7 +2429,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2429,7 +2443,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2443,7 +2457,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2457,7 +2471,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2541,7 +2555,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2710,7 +2724,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2724,7 +2738,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 39629,
+          "price": 38025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3958,7 +3972,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-26T16:31:38Z",
+      "checked_at": "2026-11-26T16:46:32Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60244c/": {
@@ -4229,7 +4243,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-26T16:31:50Z",
+      "checked_at": "2026-11-26T16:46:43Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013/": {
