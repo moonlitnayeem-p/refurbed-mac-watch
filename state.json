@@ -955,9 +955,18 @@
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/179676c/"
     },
     "apple-macbook-pro-2023-m2-16-2|M2 Max|96|4000": {
-      "price": 41305,
-      "seen_at": "2026-08-23T21:04:44Z",
-      "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/75335b/"
+      "price": 38249,
+      "proof_validation": {
+        "chip": "M2 Max",
+        "price": 38249,
+        "ram_gb": 96.0,
+        "sha256": "fbdbc42cf1a815daacc09c188ded3b23bf00f7b26bd808f8facccd313cb5ad4d",
+        "ssd_gb": 4000.0,
+        "version": 1
+      },
+      "screenshot": "price-proofs/2026-11-26/38249kr-c874578750b41d51.png",
+      "seen_at": "2026-11-26T07:37:17Z",
+      "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/114265/"
     },
     "apple-macbook-pro-2023-m2-16-2|M2 Max|96|8000": {
       "price": 43825,
@@ -1425,7 +1434,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-26T07:22:56Z",
+      "checked_at": "2026-11-26T07:37:17Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2190,6 +2199,35 @@
           "ssd_gb": 1000.0,
           "was_price": null
         },
+        "/p/apple-macbook-pro-2023-m2-16-2/114261/": {
+          "badge": null,
+          "chip": "M2 Max",
+          "config": "Apple MacBook Pro 2023 M2 Apple M2 Max 12 Core 96.0 GB 4000 GB 16.2 \" silver SE (Svensk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2023-m2-16-2/114261/",
+            "/p/apple-macbook-pro-2023-m2-16-2/179655/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 40355,
+          "ram_gb": 96.0,
+          "ssd_gb": 4000.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2023-m2-16-2/114265/": {
+          "badge": null,
+          "chip": "M2 Max",
+          "config": "Apple MacBook Pro 2023 M2 Apple M2 Max 12 Core 96.0 GB 4000 GB 16.2 \" silver NL (Nederländsk)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2023-m2-16-2/114261/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 38249,
+          "ram_gb": 96.0,
+          "ssd_gb": 4000.0,
+          "was_price": null
+        },
         "/p/apple-macbook-pro-2023-m2-16-2/119092/": {
           "badge": null,
           "chip": "M2 Pro",
@@ -2403,6 +2441,20 @@
           "ssd_gb": 1000.0,
           "was_price": null
         },
+        "/p/apple-macbook-pro-2023-m2-16-2/370793/": {
+          "badge": null,
+          "chip": "M2 Max",
+          "config": "Apple MacBook Pro 2023 M2 Apple M2 Max 12 Core 96.0 GB 4000 GB 16.2 \" silver US (US-engelska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2023-m2-16-2/114261/"
+          ],
+          "matched": true,
+          "name": "",
+          "price": 40355,
+          "ram_gb": 96.0,
+          "ssd_gb": 4000.0,
+          "was_price": null
+        },
         "/p/apple-macbook-pro-2023-m2-16-2/514003/": {
           "badge": null,
           "chip": "M2 Max",
@@ -2443,6 +2495,20 @@
           "price": 22835,
           "ram_gb": 8.0,
           "ssd_gb": 2000.0,
+          "was_price": null
+        },
+        "/p/apple-macbook-pro-2023-m3-14/287054/": {
+          "badge": null,
+          "chip": "M3",
+          "config": "Apple MacBook Pro 2023 M3 Apple M3 8 Core 24.0 GB 512 GB 14.2 \" rymdgrå US (US-engelska)",
+          "discovery_parent_paths": [
+            "/p/apple-macbook-pro-2023-m3-14/556300aa/"
+          ],
+          "matched": false,
+          "name": "",
+          "price": 21315,
+          "ram_gb": 24.0,
+          "ssd_gb": 512.0,
           "was_price": null
         },
         "/p/apple-macbook-pro-2023-m3-14/333154aa/": {
@@ -3176,7 +3242,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-26T07:16:30Z",
+      "checked_at": "2026-11-26T07:31:28Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-5k-2019-27/60244c/": {
@@ -3425,7 +3491,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-26T07:16:41Z",
+      "checked_at": "2026-11-26T07:31:37Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013/": {
