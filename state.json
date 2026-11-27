@@ -1485,7 +1485,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-27T16:23:21Z",
+      "checked_at": "2026-11-27T16:37:15Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3365,7 +3365,7 @@
           "was_price": null
         },
         "/p/fair-apple-macbook-pro-2021-m1-16-2/501658c/": {
-          "badge": "Bara ett fåtal kvar",
+          "badge": null,
           "chip": "M1 Max",
           "config": "FAIR Apple MacBook Pro 2021 M1 Apple M1 Max 10 Core 64.0 GB 1000 GB 16.2 \" rymdgrå DE (Tysk)",
           "discovery_parent_paths": [
@@ -3382,7 +3382,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-27T16:16:35Z",
+      "checked_at": "2026-11-27T16:31:35Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275501/": {
@@ -3594,6 +3594,17 @@
           "ssd_gb": 2000.0,
           "was_price": 57129
         },
+        "/p/fair-apple-macbook-pro-2021-m1-14/501617c/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M1 Pro",
+          "config": "FAIR Apple MacBook Pro 2021 M1 Apple M1 Pro 10 Core 32.0 GB 1000 GB 14.2 \" rymdgrå DE (Tysk)",
+          "matched": false,
+          "name": "FAIR Apple MacBook Pro 2021 M1 | 14.2",
+          "price": 15399,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": 30687
+        },
         "/p/macbook-pro-2019-154-tb/208514c/": {
           "badge": null,
           "chip": "",
@@ -3620,7 +3631,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-27T16:16:44Z",
+      "checked_at": "2026-11-27T16:31:42Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/65251b/": {
