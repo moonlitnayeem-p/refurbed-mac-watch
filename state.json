@@ -1,5 +1,19 @@
 {
   "price_lows": {
+    "apple-imac-2024-m4-10core|M4|32|1000": {
+      "price": 25375,
+      "proof_validation": {
+        "chip": "M4",
+        "price": 25375,
+        "ram_gb": 32.0,
+        "sha256": "24414ca50849192650fd34c0ede2ac80063964797347f89a728c7b59f56caf08",
+        "ssd_gb": 1000.0,
+        "version": 1
+      },
+      "screenshot": "price-proofs/2026-11-27/25375kr-5f19653618dc083d.png",
+      "seen_at": "2026-11-27T08:10:11Z",
+      "url": "https://www.refurbed.se/p/apple-imac-2024-m4-10core/275501/"
+    },
     "apple-imac-2024-m4-10core|M4|32|2000": {
       "price": 30019,
       "proof_validation": {
@@ -1448,7 +1462,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-27T07:54:43Z",
+      "checked_at": "2026-11-27T08:10:11Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -3815,9 +3829,20 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-27T07:46:31Z",
+      "checked_at": "2026-11-27T08:01:46Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
+        "/p/apple-imac-2024-m4-10core/275501/": {
+          "badge": "Bara ett fåtal kvar",
+          "chip": "M4",
+          "config": "Apple iMac 2024 M4 10 Core – Kraftfull stationär dator",
+          "matched": true,
+          "name": "Apple iMac 2024 M4 10 Core | 24",
+          "price": 25375,
+          "ram_gb": 32.0,
+          "ssd_gb": 1000.0,
+          "was_price": 33479
+        },
         "/p/apple-imac-5k-2019-27/60244c/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "",
@@ -4075,7 +4100,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-27T07:46:42Z",
+      "checked_at": "2026-11-27T08:02:01Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-imac-2024-m4-10core/276013/": {
@@ -4088,17 +4113,6 @@
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 27318
-        },
-        "/p/apple-imac-2024-m4-8core/277978aa/": {
-          "badge": null,
-          "chip": "M4",
-          "config": "iMac 2024 M4 8 Core - Rekonditionerad Stationär Dator",
-          "matched": false,
-          "name": "Apple iMac 2024 M4 8 Core | 24",
-          "price": 18535,
-          "ram_gb": 16.0,
-          "ssd_gb": 256.0,
-          "was_price": 20150
         },
         "/p/apple-mac-mini-2018/10948b/": {
           "badge": null,
@@ -4150,13 +4164,13 @@
           "config": "Mac Mini 2024 M4 Pro - Apple Stationär Dator med 10 Kärnor",
           "matched": false,
           "name": "Apple Mac Mini 2024 M4 Pro",
-          "price": 18669,
+          "price": 18575,
           "ram_gb": 24.0,
           "ssd_gb": 512.0,
           "was_price": 21270
         },
         "/p/apple-mac-mini-2024-m4/273542/": {
-          "badge": "Bästsäljare",
+          "badge": "Bara ett fåtal kvar",
           "chip": "M4",
           "config": "Mac Mini 2024 M4 - Rekonditionerad Stationär Dator",
           "matched": false,
@@ -4253,6 +4267,17 @@
           "ram_gb": 24.0,
           "ssd_gb": 2000.0,
           "was_price": 38631
+        },
+        "/p/apple-macbook-pro-2026-m5-pro-18-20-16/422223aa/": {
+          "badge": "Bästsäljare",
+          "chip": "M5 Pro",
+          "config": "Apple MacBook Pro 2026 M5 Pro 18-Core CPU Apple M5 Pro 18 Core 24.0 GB 1000 GB 16.2 \" rymdsvart IT (Italiensk)",
+          "matched": false,
+          "name": "Apple MacBook Pro 2026 M5 Pro 18-Core CPU | 20-Core GPU | 16",
+          "price": 34699,
+          "ram_gb": 24.0,
+          "ssd_gb": 1000.0,
+          "was_price": 38071
         }
       },
       "query": "Mac Studio"
