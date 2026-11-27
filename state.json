@@ -992,18 +992,18 @@
       "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/347366c/"
     },
     "apple-macbook-pro-2023-m2-16-2|M2 Max|96|2000": {
-      "price": 38795,
+      "price": 35725,
       "proof_validation": {
         "chip": "M2 Max",
-        "price": 38795,
+        "price": 35725,
         "ram_gb": 96.0,
-        "sha256": "fb4e65575eed8a90732300887f5d675ecd7764cd6ac574b8dcc1d3ce616a8d2b",
+        "sha256": "a5cf1acc94c8251f1fcfa7f9bf14ed321fc21d956d869484bc4bd717c620e6d8",
         "ssd_gb": 2000.0,
         "version": 1
       },
-      "screenshot": "price-proofs/2026-11-27/38795kr-c2ddd6d775f23d6b.png",
-      "seen_at": "2026-11-27T01:10:03Z",
-      "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/179671c/"
+      "screenshot": "price-proofs/2026-11-27/35725kr-118dbcfb9abd39a6.png",
+      "seen_at": "2026-11-27T15:39:54Z",
+      "url": "https://www.refurbed.se/p/apple-macbook-pro-2023-m2-16-2/179669c/"
     },
     "apple-macbook-pro-2023-m2-16-2|M2 Max|96|4000": {
       "price": 38249,
@@ -1485,7 +1485,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-27T15:25:02Z",
+      "checked_at": "2026-11-27T15:39:54Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -2030,7 +2030,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 25925,
+          "price": 26455,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -2058,7 +2058,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 23525,
+          "price": 23385,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2072,7 +2072,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 22929,
+          "price": 23449,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2192,7 +2192,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 23569,
+          "price": 21615,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -2878,7 +2878,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 40725,
+          "price": 31115,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3018,7 +3018,7 @@
           ],
           "matched": true,
           "name": "",
-          "price": 38795,
+          "price": 35725,
           "ram_gb": 96.0,
           "ssd_gb": 2000.0,
           "was_price": null
@@ -3640,6 +3640,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285561c/": {
@@ -3654,6 +3655,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285567c/": {
@@ -3668,6 +3670,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285574c/": {
@@ -3682,6 +3685,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285577c/": {
@@ -3696,6 +3700,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285586c/": {
@@ -3710,6 +3715,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285599c/": {
@@ -3724,6 +3730,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/285604c/": {
@@ -3752,6 +3759,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/435030c/": {
@@ -3766,6 +3774,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/435034c/": {
@@ -3780,6 +3789,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/435035c/": {
@@ -3794,6 +3804,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/apple-macbook-pro-2024-m4-16/519904c/": {
@@ -3808,6 +3819,7 @@
           "price": 45999,
           "ram_gb": 64.0,
           "ssd_gb": 2000.0,
+          "verification_unknown": true,
           "was_price": null
         },
         "/p/fair-apple-macbook-pro-2021-m1-16-2/489565c/": {
@@ -3833,7 +3845,7 @@
           ],
           "matched": false,
           "name": "FAIR Apple MacBook Pro 2021 M1 | 16.2",
-          "price": 21755,
+          "price": 21165,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
           "was_price": 43012
@@ -3842,7 +3854,7 @@
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-27T15:16:36Z",
+      "checked_at": "2026-11-27T15:31:41Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275501/": {
@@ -4043,13 +4055,13 @@
           "ssd_gb": 1000.0,
           "was_price": 45925
         },
-        "/p/apple-macbook-pro-2026-m5-max-18-32-16/422783aa/": {
+        "/p/apple-macbook-pro-2026-m5-max-18-32-16/422731/": {
           "badge": "Bara ett fåtal kvar",
           "chip": "M5 Max",
-          "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 16.2 \" silver DE (Tysk)",
+          "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 16.2 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 16",
-          "price": 47985,
+          "price": 55285,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
           "was_price": 57129
@@ -4080,7 +4092,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-27T15:16:44Z",
+      "checked_at": "2026-11-27T15:31:50Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/65251b/": {
