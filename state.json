@@ -1485,7 +1485,7 @@
   "version": 2,
   "watches": {
     "apple-silicon-64-plus": {
-      "checked_at": "2026-11-28T13:08:39Z",
+      "checked_at": "2026-11-28T13:23:05Z",
       "label": "Apple silicon Macs · 64 GB+",
       "offers": {
         "/p/apple-imac-5k-2020-10g-lan-27/279445/": {
@@ -1497,7 +1497,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 32115,
+          "price": 32119,
           "ram_gb": 64.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -1511,7 +1511,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 32115,
+          "price": 32119,
           "ram_gb": 64.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -1525,10 +1525,10 @@
           ],
           "matched": false,
           "name": "Apple iMac 5K 2020 | 10G LAN | 27",
-          "price": 32115,
+          "price": 32119,
           "ram_gb": 64.0,
           "ssd_gb": 8000.0,
-          "was_price": 43583
+          "was_price": 43591
         },
         "/p/apple-imac-5k-2020-10g-lan-27/279448/": {
           "badge": null,
@@ -1539,7 +1539,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 32115,
+          "price": 32119,
           "ram_gb": 64.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -1553,7 +1553,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 32115,
+          "price": 32119,
           "ram_gb": 64.0,
           "ssd_gb": 8000.0,
           "was_price": null
@@ -1666,10 +1666,10 @@
           ],
           "matched": true,
           "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 46519,
+          "price": 46525,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "was_price": 49763
+          "was_price": 49771
         },
         "/p/apple-macbook-pro-2019-16/48267c/": {
           "badge": "Bara ett fåtal kvar",
@@ -2189,7 +2189,7 @@
           ],
           "matched": false,
           "name": "",
-          "price": 12725,
+          "price": 12739,
           "ram_gb": 16.0,
           "ssd_gb": 1000.0,
           "was_price": null
@@ -3392,13 +3392,13 @@
           "price": 21175,
           "ram_gb": 64.0,
           "ssd_gb": 1000.0,
-          "was_price": 43134
+          "was_price": 43141
         }
       },
       "query": "Apple Mac 64 GB"
     },
     "best-value-macs": {
-      "checked_at": "2026-11-28T13:01:43Z",
+      "checked_at": "2026-11-28T13:16:35Z",
       "label": "Best-value Macs · Apple silicon · 32 GB+",
       "offers": {
         "/p/apple-imac-2024-m4-10core/275501/": {
@@ -3454,7 +3454,7 @@
           "price": 45159,
           "ram_gb": 32.0,
           "ssd_gb": 256.0,
-          "was_price": 85605
+          "was_price": 85620
         },
         "/p/apple-mac-studio-2022-m1-max/65251b/": {
           "badge": "Bara ett fåtal kvar",
@@ -3484,10 +3484,10 @@
           "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
           "matched": true,
           "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 28785,
+          "price": 28789,
           "ram_gb": 36.0,
           "ssd_gb": 512.0,
-          "was_price": 33696
+          "was_price": 33701
         },
         "/p/apple-macbook-air-m4-2025/308407b/": {
           "badge": null,
@@ -3511,13 +3511,13 @@
           "ssd_gb": 512.0,
           "was_price": 43815
         },
-        "/p/apple-macbook-pro-2019-16/26370c/": {
-          "badge": "Bara ett fåtal kvar",
+        "/p/apple-macbook-pro-2019-16/26374c/": {
+          "badge": null,
           "chip": "",
-          "config": "Apple MacBook Pro 2019 Intel Core i9-9980HK 32.0 GB 512 GB 16.0 \" rymdgrå DE (Tysk)",
+          "config": "Apple MacBook Pro 2019 Intel Core i9-9980HK 32.0 GB 512 GB 16.0 \" rymdgrå SE (Svensk)",
           "matched": false,
           "name": "Apple MacBook Pro 2019 | 16",
-          "price": 6705,
+          "price": 7839,
           "ram_gb": 32.0,
           "ssd_gb": 512.0,
           "was_price": 40444
@@ -3605,10 +3605,10 @@
           "config": "Apple MacBook Pro 2026 M5 Max 18-Core CPU Apple M5 Max 18 Core 36.0 GB 2000 GB 16.2 \" silver SE (Svensk)",
           "matched": true,
           "name": "Apple MacBook Pro 2026 M5 Max 18-Core CPU | 32-Core GPU | 16",
-          "price": 55439,
+          "price": 55449,
           "ram_gb": 36.0,
           "ssd_gb": 2000.0,
-          "was_price": 57291
+          "was_price": 57301
         },
         "/p/fair-apple-macbook-pro-2021-m1-14/501617c/": {
           "badge": "Bara ett fåtal kvar",
@@ -3647,7 +3647,7 @@
       "query": "Apple Mac 32 GB"
     },
     "mac-studio": {
-      "checked_at": "2026-11-28T13:01:50Z",
+      "checked_at": "2026-11-28T13:16:43Z",
       "label": "Mac Studio",
       "offers": {
         "/p/apple-mac-studio-2022-m1-max/65251b/": {
@@ -3678,10 +3678,10 @@
           "config": "Apple Mac Studio 2025 M3 Ultra - Kraftfull stationär dator",
           "matched": true,
           "name": "Apple Mac Studio 2025 M3 Ultra",
-          "price": 70015,
+          "price": 70025,
           "ram_gb": 96.0,
           "ssd_gb": 1000.0,
-          "was_price": 70774
+          "was_price": 70786
         },
         "/p/apple-mac-studio-2025-m4-max/309740/": {
           "badge": null,
@@ -3689,10 +3689,10 @@
           "config": "Apple Mac Studio 2025 M4 Max - Kraftfull stationär dator",
           "matched": true,
           "name": "Apple Mac Studio 2025 M4 Max",
-          "price": 28785,
+          "price": 28789,
           "ram_gb": 36.0,
           "ssd_gb": 512.0,
-          "was_price": 33696
+          "was_price": 33701
         }
       },
       "query": "Mac Studio"
